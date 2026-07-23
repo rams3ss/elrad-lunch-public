@@ -1,0 +1,26 @@
+{
+  "status": "ok",
+  "updated_at": "2026-07-23T08:33:56.224932+00:00",
+  "menu_date": "24. 07. 2026",
+  "model": "gemini-3.5-flash-lite",
+  "recommended": {
+    "menu_index": 4,
+    "name": "SOLATNI KROŽNIK S TUNO IN ČIČERIKO",
+    "calories_kcal": 450,
+    "protein_g": 32.0,
+    "carbohydrates_g": 40.0,
+    "fat_g": 16.0,
+    "reason": "Vsebuje kakovostne beljakovine iz tune ter vlaknine in rastlinske beljakovine iz čičerike in zelenjave, kar predstavlja najbolj uravnotežen obrok."
+  },
+  "alternative": {
+    "menu_index": 2,
+    "name": "POSTRV PO TRŽAŠKO S KROMPIRJEVO SOLATO",
+    "calories_kcal": 520,
+    "protein_g": 35.0,
+    "carbohydrates_g": 45.0,
+    "fat_g": 21.0,
+    "reason": "Riba je odličen vir zdravih maščobnih kislin omega-3 in pustih beljakovin, krompirjeva solata pa je dobra priloga brez težkih omak."
+  },
+  "summary": "Ponudba vključuje raznolike menije od mesnih in ribjih jedi do vegetarijanskih in hladnih opcij.",
+  "disclaimer": "Hranilne vrednosti so približne ocene za običajno porcijo in se lahko razlikujejo glede na natančne sestavine ter način priprave."
+}
