@@ -1,6 +1,9 @@
 {
-  "updated_at": "2026-07-23T06:18:19.037482+00:00",
+  "generated_at": "2026-07-23T07:24:05.197111+00:00",
+  "generated_at_local": "2026-07-23T09:24:05.197111+02:00",
+  "timezone": "Europe/Ljubljana",
   "source": "Sovita",
+  "menu_count": 5,
   "menus": [
     {
       "index": 1,

@@ -2,17 +2,78 @@
 <html lang="sl">
 <head>
   <meta charset="utf-8">
-  <title>Elrad lunch menu</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="description" content="Dnevno posodobljeni Sovita meniji za Elrad.">
+  <meta name="last-modified" content="2026-07-23T09:24:05.197111+02:00">
+  <title>Elrad lunch – Sovita meniji</title>
+  <style>
+    :root { color-scheme: light dark; }
+    * { box-sizing: border-box; }
+    body {
+      max-width: 920px;
+      margin: 0 auto;
+      padding: 32px 18px 56px;
+      font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+      line-height: 1.55;
+    }
+    header { margin-bottom: 28px; }
+    h1 { margin: 0 0 8px; font-size: clamp(1.8rem, 5vw, 2.7rem); }
+    .updated { margin: 0; opacity: .72; }
+    .menu {
+      display: grid;
+      grid-template-columns: 42px 1fr;
+      gap: 14px;
+      align-items: start;
+      margin: 12px 0;
+      padding: 16px;
+      border: 1px solid color-mix(in srgb, currentColor 24%, transparent);
+      border-radius: 12px;
+    }
+    .number {
+      display: grid;
+      place-items: center;
+      width: 36px;
+      height: 36px;
+      border: 1px solid color-mix(in srgb, currentColor 30%, transparent);
+      border-radius: 50%;
+      font-weight: 700;
+    }
+    .menu p { margin: 5px 0 0; }
+    footer { margin-top: 28px; font-size: .92rem; opacity: .75; }
+    a { color: inherit; }
+  </style>
 </head>
 <body>
-  <h1>Elrad lunch menu</h1>
-  <p>Posodobljeno: 2026-07-23T05:49:24Z</p>
+  <header>
+    <h1>Elrad lunch – Sovita meniji</h1>
+    <p class="updated">Posodobljeno: <time datetime="2026-07-23T09:24:05.197111+02:00">23. 07. 2026 ob 09:24:05 CEST</time></p>
+  </header>
 
-  <h2>Meniji za jutri</h2>
-  <ol>
-    <li>MENI KLASIK – ...</li>
-    <li>MENI MOJA IZBIRA – ...</li>
-    <li>MENI VEGI – ...</li>
-  </ol>
+  <main>
+      <article class="menu">
+        <div class="number">1</div>
+        <p>MENI KLASIK - PIŠČANČJA BEDRA V OMAKI (Gpš, L, Z), RIŽ Z GRAHOM</p>
+      </article>
+      <article class="menu">
+        <div class="number">2</div>
+        <p>MENI MOJA IZBIRA - POSTRV PO TRŽAŠKO(Gpš,R1) KROMPIRJEVA SOLATA(GS)</p>
+      </article>
+      <article class="menu">
+        <div class="number">3</div>
+        <p>MENI VEGI - PAPRIKAŠ S STROČJIM FIŽOLOM(Gpš,L,Z) NAVIHANČEK MARMELADNI (Gpš,J,L)</p>
+      </article>
+      <article class="menu">
+        <div class="number">4</div>
+        <p>SOLATNI KROŽNIK - SOL. KROŽNIK S TUNO IN ČIČERIKO (R1) (sezonska solata, rukola, kumarice, olive, paprika, paradižnik)</p>
+      </article>
+      <article class="menu">
+        <div class="number">5</div>
+        <p>HLADNI MENI - V.P.SUHA SALAMA, KRUH, JOGURT, SADJE, NAMAZ</p>
+      </article>
+  </main>
+
+  <footer>
+    <p><a href="./menus.json">Odpri menus.json</a> · <a href="./metadata.json">Odpri metadata.json</a></p>
+  </footer>
 </body>
 </html>
