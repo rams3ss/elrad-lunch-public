@@ -1,7 +1,68 @@
 {
   "status": "ok",
-  "updated_at": "2026-07-24T08:31:04.711546+00:00",
-  "menu_date": "27. 07. 2026",
+  "updated_at": "2026-07-24T08:43:55.566934+00:00",
+  "menu_dates": [
+    {
+      "target_date": "27.07.2026",
+      "menu_date": "27. 07. 2026"
+    },
+    {
+      "target_date": "28.07.2026",
+      "menu_date": "28. 07. 2026"
+    },
+    {
+      "target_date": "29.07.2026",
+      "menu_date": "29. 07. 2026"
+    },
+    {
+      "target_date": "30.07.2026",
+      "menu_date": "30. 07. 2026"
+    },
+    {
+      "target_date": "31.07.2026",
+      "menu_date": "31. 07. 2026"
+    },
+    {
+      "target_date": "03.08.2026",
+      "menu_date": "03. 08. 2026"
+    },
+    {
+      "target_date": "04.08.2026",
+      "menu_date": "04. 08. 2026"
+    },
+    {
+      "target_date": "05.08.2026",
+      "menu_date": "05. 08. 2026"
+    },
+    {
+      "target_date": "06.08.2026",
+      "menu_date": "06. 08. 2026"
+    },
+    {
+      "target_date": "07.08.2026",
+      "menu_date": "07. 08. 2026"
+    },
+    {
+      "target_date": "10.08.2026",
+      "menu_date": "10. 08. 2026"
+    },
+    {
+      "target_date": "11.08.2026",
+      "menu_date": "11. 08. 2026"
+    },
+    {
+      "target_date": "12.08.2026",
+      "menu_date": "12. 08. 2026"
+    },
+    {
+      "target_date": "13.08.2026",
+      "menu_date": "13. 08. 2026"
+    },
+    {
+      "target_date": "14.08.2026",
+      "menu_date": "14. 08. 2026"
+    }
+  ],
   "model": "gemini-3.5-flash-lite",
-  "source_file": "menus-2026-07-24_08-30-26.json"
+  "source_file": "menus-2026-07-24_08-41-30.json"
 }

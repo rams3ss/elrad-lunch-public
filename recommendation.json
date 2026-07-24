@@ -1,26 +1,727 @@
 {
   "status": "ok",
-  "updated_at": "2026-07-24T08:31:04.711546+00:00",
-  "menu_date": "27. 07. 2026",
+  "updated_at": "2026-07-24T08:43:55.566934+00:00",
   "model": "gemini-3.5-flash-lite",
-  "recommended": {
-    "menu_index": 3,
-    "name": "MENI VEGI - JEŠPRENOVA RIŽOTA Z ZELENJAVO, JOGURT",
-    "calories_kcal": 520,
-    "protein_g": 22.5,
-    "carbohydrates_g": 85.0,
-    "fat_g": 10.2,
-    "reason": "Ješprenj in zelenjava prinašata veliko vlaknin ter kompleksnih ogljikovih hidratov, jogurt pa poskrbi za vir beljakovin brez pretiranih maščob."
-  },
-  "alternative": {
-    "menu_index": 1,
-    "name": "MENI KLASIK - PIŠČANČJI GOLAŽ TESTENINE",
-    "calories_kcal": 650,
-    "protein_g": 42.0,
-    "carbohydrates_g": 75.0,
-    "fat_g": 18.5,
-    "reason": "Piščančje meso predstavlja dober vir pustih beljakovin, vendar je obrok nekoliko bogatejši z maščobami in manj bogat z vlakninami kot vegi meni."
-  },
-  "summary": "Ponudba vključuje mešanico mesnih, vegi in predelanih jedi, kjer prednjačijo z ogljikovimi hidrati bogati obroki.",
-  "disclaimer": "Vse navedene hranilne vrednosti so zgolj približne ocene za običajno porcijo v menzi."
+  "menu_dates": [
+    {
+      "target_date": "27.07.2026",
+      "menu_date": "27. 07. 2026",
+      "menus": [
+        {
+          "index": 1,
+          "text": "MENI KLASIK - PIŠČANČJI GOLAŽ (Gpš, SO2, Z) TESTENINE(Gpš, J)"
+        },
+        {
+          "index": 2,
+          "text": "MENI MOJA IZBIRA - MESNIN BUREK (Gpš,J,L) JOGURT"
+        },
+        {
+          "index": 3,
+          "text": "MENI VEGI - JEŠPRENOVA RIŽOTA Z ZELENJAVO (Gje, Z), JOGURT"
+        },
+        {
+          "index": 4,
+          "text": "SOLATNI KROŽNIK - AL CAPONE (listnata solata, pečena sveža zelenjava,češnjevec,hrustljava slanina, italijanski preliv)"
+        },
+        {
+          "index": 5,
+          "text": "HLADNI MENI - V.P. SALAMA, KRUH, SADJE, NAMAZ, JOGURT"
+        }
+      ],
+      "analysis": {
+        "recommended": {
+          "menu_index": 3,
+          "name": "MENI VEGI - JEŠPRENOVA RIŽOTA Z ZELENJAVO IN JOGURT",
+          "calories_kcal": 653,
+          "protein_g": 24.5,
+          "carbohydrates_g": 85.0,
+          "fat_g": 21.5,
+          "reason": "Ješprenjeva rižota z zelenjavo prinaša veliko vlaknin in kompleksnih ogljikovih hidratov ter ugodno vpliva na prebavo, ob dodatku solate z olivnim oljem in jogurta pa predstavlja uravnotežen polnovreden obrok."
+        },
+        "alternative": {
+          "menu_index": 1,
+          "name": "MENI KLASIK - PIŠČANČJI GOLAŽ S TESTENINAMI",
+          "calories_kcal": 683,
+          "protein_g": 42.0,
+          "carbohydrates_g": 78.0,
+          "fat_g": 23.5,
+          "reason": "Piščančji golaž s testeninami je dober vir puste beljakovine in energije za delovni dan, z dodano zeleno solato in olivnim oljem pa zagotavlja tudi zadosten vnos sveže zelenjave in zdravih maščob."
+        },
+        "summary": "Ponudba vključuje mešanico mesnih, vegi in predelanih jedi, pri čemer izstopa ješprenjeva rižota kot najbolj zdrav polnovreden obrok.",
+        "disclaimer": "Vse navedene hranilne vrednosti so približne ocene za običajno porcijo menze."
+      }
+    },
+    {
+      "target_date": "28.07.2026",
+      "menu_date": "28. 07. 2026",
+      "menus": [
+        {
+          "index": 1,
+          "text": "MENI KLASIK - SVINJSKI DUNAJSKI ZREZEK (Gpš, J) RIŽ"
+        },
+        {
+          "index": 2,
+          "text": "MENI MOJA IZBIRA - MESNI KANELONI (Gpš, J, L, S) ŠOPSKA SOLATA(L)"
+        },
+        {
+          "index": 3,
+          "text": "MENI VEGI - ŠPINAČNI REZANCI V KREMNI OMAKI (Gpš, L, J, Z)"
+        },
+        {
+          "index": 4,
+          "text": "HLADNI MENI - V.P.POLI SALAMA, KRUH, SADJE, NAMAZ, JOGURT"
+        },
+        {
+          "index": 5,
+          "text": "MALICA SADNO MLEČNA - Skuta z grškim jogurtom, banane, melone, grozdje, granola, ananas (Oo, Om, L, Go)"
+        }
+      ],
+      "analysis": {
+        "recommended": {
+          "menu_index": 3,
+          "name": "MENI VEGI - ŠPINAČNI REZANCI V KREMNI OMAKI",
+          "calories_kcal": 533,
+          "protein_g": 15.0,
+          "carbohydrates_g": 72.0,
+          "fat_g": 19.5,
+          "reason": "Špinačni rezanci v kremni omaki nudijo dober vir ogljikovih hidratov, z dodano zeleno solato in olivnim oljem pa dobimo lažji, manj masten obrok brez ocvrte hrane ali močno predelanega mesa."
+        },
+        "alternative": {
+          "menu_index": 2,
+          "name": "MENI MOJA IZBIRA - MESNI KANELONI S ŠOPSKO SOLATO",
+          "calories_kcal": 633,
+          "protein_g": 28.0,
+          "carbohydrates_g": 52.0,
+          "fat_g": 35.5,
+          "reason": "Mesni kaneloni predstavljajo krepkejši obrok z več beljakovinami, a vsebujejo več maščob zaradi sira in mesa, kar je dobra izbira, če potrebujete več energije."
+        },
+        "summary": "Današnja ponudba menijev je precej raznolika, od ocvrtega in predelanega mesa do testenin ter mlečnih in sadnih obrokov.",
+        "disclaimer": "Vse hranilne vrednosti so približne ocene, ki vključujejo standardno porcijo priloge, zelene solate in olivnega olja."
+      }
+    },
+    {
+      "target_date": "29.07.2026",
+      "menu_date": "29. 07. 2026",
+      "menus": [
+        {
+          "index": 1,
+          "text": "MENI KLASIK - SESEKLJANA PEČENKA (Gpš, J, Z, S) PIRE KROMPIR (L)"
+        },
+        {
+          "index": 2,
+          "text": "MENI MOJA IZBIRA - SLADKO ZELJE (Gpš, L, Z) KUHANA KLOBASA"
+        },
+        {
+          "index": 3,
+          "text": "MENI VEGI - AJDOVA KAŠA Z ZELENJAVO IN GOBAMI (Gpš, Z)"
+        },
+        {
+          "index": 4,
+          "text": "SOLATNI KROŽNIK - VEČ VRST SVEŽE ZELENJAVE"
+        },
+        {
+          "index": 5,
+          "text": "HLADNI MENI - V.P.ALPSKA SALAMA KRUH, SADJE, NAMAZ, JOGURT"
+        }
+      ],
+      "analysis": {
+        "recommended": {
+          "menu_index": 3,
+          "name": "MENI VEGI - AJDOVA KAŠA Z ZELENJAVO IN GOBAMI",
+          "calories_kcal": 533,
+          "protein_g": 16.0,
+          "carbohydrates_g": 72.0,
+          "fat_g": 15.5,
+          "reason": "Ajdova kaša z zelenjavo in gobami predstavlja najbolj uravnotežen rastlinski obrok z veliko vlakninami in kakovostnimi ogljikovimi hidrati."
+        },
+        "alternative": {
+          "menu_index": 1,
+          "name": "MENI KLASIK - SESEKLJANA PEČENKA, PIRE KROMPIR",
+          "calories_kcal": 783,
+          "protein_g": 35.0,
+          "carbohydrates_g": 62.0,
+          "fat_g": 43.5,
+          "reason": "Sesekljana pečenka s pire krompirjem je klasičen topel obrok z več beljakovinami, vendar tudi z višjo vsebnostjo maščob."
+        },
+        "summary": "Ponudba vključuje klasične mesne jedi, enolončnico s klobaso, vegetarijansko ajdovo kašo ter hladne in solatne možnosti.",
+        "disclaimer": "Vse hranilne vrednosti so približne ocene, ki vključujejo osnovno jed ter prišteto solato z olivnim oljem."
+      }
+    },
+    {
+      "target_date": "30.07.2026",
+      "menu_date": "30. 07. 2026",
+      "menus": [
+        {
+          "index": 1,
+          "text": "MENI KLASIK - PEČEN SVINJSKI VRAT (Gpš, GS) AJDOVA KAŠA Z RIŽEM"
+        },
+        {
+          "index": 2,
+          "text": "MENI MOJA IZBIRA - KROMPIRJEVA OMAKA (Gpš, Z) HRENOVKA, NAPOLITANKE"
+        },
+        {
+          "index": 3,
+          "text": "MENI VEGI - MARELIČNI CMOKI (Gpš, J) KOMPOT"
+        },
+        {
+          "index": 4,
+          "text": "HLADNI MENI - V.P.BLEJSKA SALAMA, KRUH, SADJE, NAMAZ, JOGURT"
+        },
+        {
+          "index": 5,
+          "text": "MALICA SADNO MLEČNA - Skuta z grškim jogurtom, banane, melone, grozdje, granola, ananas (Oo, Om, L, Go)"
+        }
+      ],
+      "analysis": {
+        "recommended": {
+          "menu_index": 5,
+          "name": "MALICA SADNO MLEČNA - Skuta z grškim jogurtom, banane, melone, grozdje, granola, ananas",
+          "calories_kcal": 533,
+          "protein_g": 35.0,
+          "carbohydrates_g": 62.0,
+          "fat_g": 15.5,
+          "reason": "Skuta in grški jogurt prinašata visok delež kakovostnih beljakovin ter sadje za vlaknine in vitamine, ob dodatku solate pa je to najbolj uravnotežen obrok."
+        },
+        "alternative": {
+          "menu_index": 1,
+          "name": "MENI KLASIK - PEČEN SVINJSKI VRAT AJDOVA KAŠA Z RIŽEM",
+          "calories_kcal": 783,
+          "protein_g": 41.0,
+          "carbohydrates_g": 62.0,
+          "fat_g": 41.5,
+          "reason": "Ajdova kaša z rižem je boljša izbira ogljikovih hidratov kot bela moka ali sladkorji, svinjski vrat pa nudi dobre beljakovine kljub večji vsebnosti maščob."
+        },
+        "summary": "Ponudba vključuje mešanico mesnih, predelanih in sladkih jedi ter en mlečno-sadni obrok.",
+        "disclaimer": "Vse hranilne vrednosti so zgolj približne ocene, izračunane za običajno porcijo vključno s solato in oljem."
+      }
+    },
+    {
+      "target_date": "31.07.2026",
+      "menu_date": "31. 07. 2026",
+      "menus": [
+        {
+          "index": 1,
+          "text": "MENI KLASIK - PEČENA PIŠČANČJA BEDRA (GS, Gpš) MLINCI (Gpš, J)"
+        },
+        {
+          "index": 2,
+          "text": "MENI MOJA IZBIRA - RIŽOTA Z MORSKIMI SADEŽI(Gpš, R1, Z, M)"
+        },
+        {
+          "index": 3,
+          "text": "MENI VEGI - GOBOVA JUHA (Gpš, L) AJDOVI ŽGANCI, NAVADNI JOGURT"
+        },
+        {
+          "index": 4,
+          "text": "SOLATNI KROŽNIK - SOLATNI KROŽNIK \"A LA CAPRESE\" (listnata solata, motovilec, berivka, češnjev paradižnik, mozzarela)(GS, L, Gpš)"
+        },
+        {
+          "index": 5,
+          "text": "HLADNI MENI - V.P.PIŠČANČJA PRSA, KRUH, SADJE, NAMAZ, JOGURT"
+        }
+      ],
+      "analysis": {
+        "recommended": {
+          "menu_index": 2,
+          "name": "RIŽOTA Z MORSKIMI SADEŽI z zeleno solato in olivnim oljem",
+          "calories_kcal": 633,
+          "protein_g": 27.5,
+          "carbohydrates_g": 77.0,
+          "fat_g": 24.5,
+          "reason": "Morski sadeži predstavljajo vir kakovostnih beljakovin in zdravih maščob, obrok pa z vključitvijo solate in olja ponuja dobro ravnovesje hranil z zmerno stopnjo predelave."
+        },
+        "alternative": {
+          "menu_index": 1,
+          "name": "PEČENA PIŠČANČJA BEDRA, MLINCI z zeleno solato in olivnim oljem",
+          "calories_kcal": 733,
+          "protein_g": 45.0,
+          "carbohydrates_g": 62.0,
+          "fat_g": 36.5,
+          "reason": "Pusto perutninsko meso zagotavlja visoko vsebnost beljakovin, vendar je obrok nekoliko kaloričnejši zaradi kombinacije z mlinci in maščobami."
+        },
+        "summary": "Ponudba vključuje raznolike tople, hladne in vegi menije z zmernim poudarkom na uravnoteženih mesnih in morskih jedi.",
+        "disclaimer": "Vse navedene hranilne vrednosti so približne ocene za običajno porcijo menze, vključno s prilogo solate in olivnega olja."
+      }
+    },
+    {
+      "target_date": "03.08.2026",
+      "menu_date": "03. 08. 2026",
+      "menus": [
+        {
+          "index": 1,
+          "text": "MENI KLASIK - PEČENA KLOBASA DŽUVEČ RIŽ"
+        },
+        {
+          "index": 2,
+          "text": "MENI MOJA IZBIRA - BORANIJA Z GOVEJIM MESOM (Gpš, Z, SO2), SADJE"
+        },
+        {
+          "index": 3,
+          "text": "MENI VEGI - PARADIŽNIKOVO ZELJE S KROMPIRJEM (Gpš, Z) SOJINA POLPETA(Gpš, S)"
+        },
+        {
+          "index": 4,
+          "text": "SOLATNI KROŽNIK - SOVITA (podloga zelene solate, riževa solata z zelenjavo, fižolova solata s čičeriko, pečena hrenovka)"
+        },
+        {
+          "index": 5,
+          "text": "HLADNI MENI - V.P.SALAMA, KRUH, SADJE, NAMAZ, SOLATA, JOGURT"
+        }
+      ],
+      "analysis": {
+        "recommended": {
+          "menu_index": 2,
+          "name": "MENI MOJA IZBIRA - BORANIJA Z GOVEJIM MESOM (Gpš, Z, SO2), SADJE",
+          "calories_kcal": 553,
+          "protein_g": 32.0,
+          "carbohydrates_g": 45.0,
+          "fat_g": 26.5,
+          "reason": "Boranija z govejim mesom in sadjem predstavlja najbolj uravnotežen obrok z dobrim virom pustih beljakovin in zelenjave, ki mu z dodatkom solate in olivnega olja zagotovimo še več vlaknin."
+        },
+        "alternative": {
+          "menu_index": 3,
+          "name": "MENI VEGI - PARADIŽNIKOVO ZELJE S KROMPIRJEM (Gpš, Z) SOJINA POLPETA(Gpš, S)",
+          "calories_kcal": 483,
+          "protein_g": 22.0,
+          "carbohydrates_g": 52.0,
+          "fat_g": 20.5,
+          "reason": "Rastlinska alternativa s paradižnikovim zeljem, krompirjem in sojino polpeto ponuja dober vir rastlinskih beljakovin in vlaknin z zmerno vsebnostjo maščob."
+        },
+        "summary": "Ponudba kosil vključuje mešanico mesnih, zelenjavnih in predelanih jedi, med katerimi izstopajo enolončnice kot najbolj zdrava izbira.",
+        "disclaimer": "Vse navedene hranilne vrednosti so približne ocene za običajno porcijo in vključujejo prišteto solato z olivnim oljem."
+      }
+    },
+    {
+      "target_date": "04.08.2026",
+      "menu_date": "04. 08. 2026",
+      "menus": [
+        {
+          "index": 1,
+          "text": "MENI KLASIK - PASULJ (Gpš, Z) PREKAJENI VRAT"
+        },
+        {
+          "index": 2,
+          "text": "MENI MOJA IZBIRA - HAMBURGER (Gpš, J) NAPITEK"
+        },
+        {
+          "index": 3,
+          "text": "MENI VEGI - OCVRTI SIR (Gpš, J) DOLAR KROMPIR"
+        },
+        {
+          "index": 4,
+          "text": "HLADNI MENI - 2x SENDVIČ Z ŽEMLJO, SALAMO IN SIROM, JOGURT, SADJE(Gpš,L)"
+        },
+        {
+          "index": 5,
+          "text": "MALICA SADNO MLEČNA - Skuta z grškim jogurtom, banane, melone, grozdje, granola, ananas (Oo, Om, L, Go)"
+        }
+      ],
+      "analysis": {
+        "recommended": {
+          "menu_index": 5,
+          "name": "MALICA SADNO MLEČNA - Skuta z grškim jogurtom, banane, melone, grozdje, granola, ananas z zeleno solato in olivnim oljem",
+          "calories_kcal": 633,
+          "protein_g": 35.0,
+          "carbohydrates_g": 82.0,
+          "fat_g": 15.5,
+          "reason": "Ta obrok je najbolj uravnotežen, bogat z visokokakovostnimi beljakovinami iz skute in grškega jogurta ter vsebuje veliko vlaknin in vitaminov iz sadja."
+        },
+        "alternative": {
+          "menu_index": 1,
+          "name": "MENI KLASIK - PASULJ S PREKAJENIM VRATOM z zeleno solato in olivnim oljem",
+          "calories_kcal": 733,
+          "protein_g": 32.0,
+          "carbohydrates_g": 62.0,
+          "fat_g": 37.5,
+          "reason": "Pasulj s stročnicami in mesom predstavlja hranilen topel obrok, ki vsebuje precej beljakovin in vlaknin, vendar je zaradi prekajenega vrata nekoliko bolj masten."
+        },
+        "summary": "Ponudba vključuje tradicionalne jedi, hitro hrano, ocvrti sir, sendviče in sadno-mlečni obrok.",
+        "disclaimer": "Navedene hranilne vrednosti so približne in služijo kot ocena običajne porcije vključno s solato in oljem."
+      }
+    },
+    {
+      "target_date": "05.08.2026",
+      "menu_date": "05. 08. 2026",
+      "menus": [
+        {
+          "index": 1,
+          "text": "MENI KLASIK - SVINJSKI ZREZEK V GOBOVI OMAKI (Gpš, Z), PRAŽEN KROMPIR"
+        },
+        {
+          "index": 2,
+          "text": "MENI MOJA IZBIRA - PURANJI RAGU Z ZELENJAVO (Gpš, Z, SO2), POLENTA"
+        },
+        {
+          "index": 3,
+          "text": "MENI VEGI - RIŽEV NARASTEK(Gpš, J) KOMPOT, SADNA OMAKA (SO2)"
+        },
+        {
+          "index": 4,
+          "text": "SOLATNI KROŽNIK - VEČ VRST SVEŽE ZELENJAVE"
+        },
+        {
+          "index": 5,
+          "text": "HLADNI MENI - V.P.PARIŠKA SALAMA, KRUH, NAMAZ, SADJE, SOLATA, JOGURT"
+        }
+      ],
+      "analysis": {
+        "recommended": {
+          "menu_index": 2,
+          "name": "MENI MOJA IZBIRA - PURANJI RAGU Z ZELENJAVO, POLENTA",
+          "calories_kcal": 613,
+          "protein_g": 38.0,
+          "carbohydrates_g": 62.0,
+          "fat_g": 18.5,
+          "reason": "Puranje meso je pust vir kakovostnih beljakovin, ragu pa vsebuje tudi zelenjavo. Obrok vključuje polento kot dober vir ogljikovih hidratov ter solato z oljem za zdrave maščobe in vlaknine."
+        },
+        "alternative": {
+          "menu_index": 1,
+          "name": "MENI KLASIK - SVINJSKI ZREZEK V GOBOVI OMAKI, PRAŽEN KROMPIR",
+          "calories_kcal": 753,
+          "protein_g": 37.0,
+          "carbohydrates_g": 72.0,
+          "fat_g": 33.5,
+          "reason": "Svinjski zrezek v gobovi omaki in pražen krompir predstavljata bolj masten in kaloričen obrok v primerjavi s puranom, vendar še vedno nudita dober obrok z mesom in prilogo."
+        },
+        "summary": "Dnevna ponudba obsega mesne, vegetarijanske in hladne menije, med katerimi izstopa puranji ragu kot najbolj uravnotežena izbira.",
+        "disclaimer": "Vse hranilne vrednosti so zgolj približne ocene za standardno porcijo in vključujejo dodano zeleno solato ter olivno olje."
+      }
+    },
+    {
+      "target_date": "06.08.2026",
+      "menu_date": "06. 08. 2026",
+      "menus": [
+        {
+          "index": 1,
+          "text": "MENI KLASIK - OCVRT PIŠČANČJI DUNAJSKI (Gpš, J) RIŽ"
+        },
+        {
+          "index": 2,
+          "text": "MENI MOJA IZBIRA - SVINJSKI GOLAŽ(Gpš, Z) TESTENINE(Gpš, J)"
+        },
+        {
+          "index": 3,
+          "text": "MENI VEGI - KRUHOVA REZINA(Gpš, J) GRAHOVA OMAKA(Gpš, Z, L)"
+        },
+        {
+          "index": 4,
+          "text": "HLADNI MENI - V.P.OGRSKA SALAMA, KRUH, SADJE, NAMAZ, JOGURT, SOLATA"
+        },
+        {
+          "index": 5,
+          "text": "MALICA SADNO MLEČNA - Skuta z grškim jogurtom, banane, melone, grozdje, granola, ananas (Oo, Om, L, Go)"
+        }
+      ],
+      "analysis": {
+        "recommended": {
+          "menu_index": 3,
+          "name": "MENI VEGI - KRUHOVA REZINA, GRAHOVA OMAKA",
+          "calories_kcal": 533,
+          "protein_g": 18.0,
+          "carbohydrates_g": 62.0,
+          "fat_g": 17.5,
+          "reason": "Grahova omaka prinaša rastlinske beljakovine in prehranske vlaknine, obrok pa je manj masten v primerjavi z ocvrtimi ali mesnimi jedmi."
+        },
+        "alternative": {
+          "menu_index": 5,
+          "name": "MALICA SADNO MLEČNA - Skuta z grškim jogurtom, sadje in granola",
+          "calories_kcal": 433,
+          "protein_g": 26.0,
+          "carbohydrates_g": 47.0,
+          "fat_g": 15.5,
+          "reason": "Visoka vsebnost kakovostnih beljakovin iz mlečnih izdelkov ter dodatek sadja zagotavljata dobro razmerje hranil, čeprav je obrok bolj sladkega značaja."
+        },
+        "summary": "Današnja ponudba vsebuje pretežno klasične in predelane jedi, med katerimi izstopata vegetarijanski in mlečno-sadni obrok.",
+        "disclaimer": "Vse hranilne vrednosti so zgolj približne ocene za običajno porcijo in vključujejo dodatek solate ter olivnega olja."
+      }
+    },
+    {
+      "target_date": "07.08.2026",
+      "menu_date": "07. 08. 2026",
+      "menus": [
+        {
+          "index": 1,
+          "text": "MENI KLASIK - ČEVAPČIČI Z ŽAR PRILOGO (GS) OCVRT KROMPIRČEK"
+        },
+        {
+          "index": 2,
+          "text": "MENI MOJA IZBIRA - OCVRTI OSLIČ FILE(Gpš, J, R1) KROMPIRJEVA SOLATA"
+        },
+        {
+          "index": 3,
+          "text": "MENI VEGI - ENOLONČNICA S JEŠPRENOM,ČIČERIKO IN FIŽOLOM(Gpš, Z), PALAČINKA MARMELADNA(Gpš, J, L)"
+        },
+        {
+          "index": 4,
+          "text": "SOLATNI KROŽNIK - DNEVNA SOLATA (motovilec z jajčko, julienne korenje in šunka, koruza z morskimi sadeži, smetanovi tortelini)(Gpš, J, L, M, R2)"
+        },
+        {
+          "index": 5,
+          "text": "HLADNI MENI - V.P.POLI Z ZELENJAVO, SADJE, JOGURT, NAMAZ, SOLATA"
+        }
+      ],
+      "analysis": {
+        "recommended": {
+          "menu_index": 3,
+          "name": "MENI VEGI - ENOLONČNICA S JEŠPRENOM,ČIČERIKO IN FIŽOLOM(Gpš, Z), PALAČINKA MARMELADNA(Gpš, J, L)",
+          "calories_kcal": 653,
+          "protein_g": 24.0,
+          "carbohydrates_g": 105.0,
+          "fat_g": 16.5,
+          "reason": "Enolončnica z ješprenjem, čičeriko in fižolom predstavlja najbolj celovit in uravnotežen obrok z veliko vlakninami ter rastlinskimi beljakovinami, k čemur smo prišteli še obvezno solato z oljem."
+        },
+        "alternative": {
+          "menu_index": 5,
+          "name": "HLADNI MENI - V.P.POLI Z ZELENJAVO, SADJE, JOGURT, NAMAZ, SOLATA",
+          "calories_kcal": 533,
+          "protein_g": 22.0,
+          "carbohydrates_g": 52.0,
+          "fat_g": 27.5,
+          "reason": "Hladni meni z dodatkom jogurta, sadja in zelenjave ponuja lažjo izbiro, čeprav vsebuje predelano meso, k obroku pa so dodane tudi vrednosti solate in olja."
+        },
+        "summary": "Današnja ponudba kosil vključuje mešanico mesnih, ocvrtih, enolončnic in hladnih obrokov, med katerimi izstopa polnovredna stročnična enolončnica.",
+        "disclaimer": "Vse navedene hranilne vrednosti so približne ocene za običajno porcijo, vključno z dodano solato in olivnim oljem."
+      }
+    },
+    {
+      "target_date": "10.08.2026",
+      "menu_date": "10. 08. 2026",
+      "menus": [
+        {
+          "index": 1,
+          "text": "MENI KLASIK - SVINJSKI ZREZEK V ČESNOVI OMAKI (Gpš, L, Z, SO2, GS) PRETLAČEN KROMPIR S PETERŠILJEM SEZONSKA SOLATA"
+        },
+        {
+          "index": 2,
+          "text": "MENI MOJA IZBIRA - PIŠČANČJA OBARA Z ŽLIČNIKI (Gpš,J,Z) PUDING"
+        },
+        {
+          "index": 3,
+          "text": "MENI VEGI - SIR NA ŽARU (L) AJDOVA KAŠA Z ZELENJAVO SEZONSKA SOLATA"
+        },
+        {
+          "index": 4,
+          "text": "SOLATNI KROŽNIK - BREZMESNI BELJAKOVINSKI SOL. KRO.(zelena solata,leča s paradižnikom,pira s koruzo, ocvrta cvetača) (Gpš, J, L)"
+        },
+        {
+          "index": 5,
+          "text": "HLADNI MENI - V.P. SALAMA, KRUH JOGURT, SADJE, NAMAZ"
+        }
+      ],
+      "analysis": {
+        "recommended": {
+          "menu_index": 3,
+          "name": "MENI VEGI - SIR NA ŽARU, AJDOVA KAŠA Z ZELENJAVO, SEZONSKA SOLATA",
+          "calories_kcal": 650,
+          "protein_g": 25.0,
+          "carbohydrates_g": 65.0,
+          "fat_g": 32.0,
+          "reason": "Ajdova kaša z zelenjavo prinaša veliko kakovostnih vlaknin in kompleksnih ogljikovih hidratov, sir na žaru zagotavlja beljakovine, obrok pa je nadgrajen z zeleno solato in olivnim oljem brez cvrtja ali odvečnih predelanih sestavin."
+        },
+        "alternative": {
+          "menu_index": 1,
+          "name": "MENI KLASIK - SVINJSKI ZREZEK V ČESNOVI OMAKI, PRETLAČEN KROMPIR S PETERŠILJEM, SEZONSKA SOLATA",
+          "calories_kcal": 680,
+          "protein_g": 38.0,
+          "carbohydrates_g": 50.0,
+          "fat_g": 35.0,
+          "reason": "Dobra klasična izbira s pustim mesom ter krompirjem, k čemur je prišteta solata z olivnim oljem, vendar pa česnova omaka in meso zahtevajo nekaj previdnosti glede vsebnosti maščob."
+        },
+        "summary": "Današnja ponudba obsega tako težje mesne jedi kot tudi zelo uravnotežene vegetarijanske in žitne možnosti.",
+        "disclaimer": "Vse navedene hranilne vrednosti so približne ocene, izračunane na podlagi standardnih velikosti porcij v menzi in vključenih obveznih dodatkov."
+      }
+    },
+    {
+      "target_date": "11.08.2026",
+      "menu_date": "11. 08. 2026",
+      "menus": [
+        {
+          "index": 1,
+          "text": "MENI KLASIK - OCVRTA PIŠČANČJA BEDRA(Gpš, J) FRANCOSKA SOLATA(L, J)"
+        },
+        {
+          "index": 2,
+          "text": "MENI MOJA IZBIRA - ČUFTI V PARADIŽNIKOVI OMAKI (Gpš, Z, J, SO2) PIRE KROMPIR(L) SEZONSKA SOLATA"
+        },
+        {
+          "index": 3,
+          "text": "MENI VEGI - ČIČERIKIN GOLAŽ Z ZELENJAVO (Gpš, Z, L) MARMELADNI ROGLJIČ (Gpš, J, L, S, SO2)"
+        },
+        {
+          "index": 4,
+          "text": "HLADNI MENI - SENDVIČ GURME SOVITA JOGURT,SADJE"
+        },
+        {
+          "index": 5,
+          "text": "MALICA SADNO MLEČNA - Skuta z grškim jogurtom, banane, melone, grozdje, granola, ananas (Oo, Om, L, Go)"
+        }
+      ],
+      "analysis": {
+        "recommended": {
+          "menu_index": 3,
+          "name": "MENI VEGI - ČIČERIKIN GOLAŽ Z ZELENJAVO IN MARMELADNI ROGLJIČ",
+          "calories_kcal": 650,
+          "protein_g": 22.0,
+          "carbohydrates_g": 95.0,
+          "fat_g": 18.5,
+          "reason": "Čičerikin golaž z zelenjavo je vir rastlinskih beljakovin in vlaknin, solata z oljem pa prispeva k uravnoteženosti obroka."
+        },
+        "alternative": {
+          "menu_index": 2,
+          "name": "MENI MOJA IZBIRA - ČUFTI V PARADIŽNIKOVI OMAKI, PIRE KROMPIR IN SEZONSKA SOLATA",
+          "calories_kcal": 680,
+          "protein_g": 28.0,
+          "carbohydrates_g": 70.0,
+          "fat_g": 30.0,
+          "reason": "Tradicionalna mesna jed z znanim profilom, dopolnjena s klasičnim pire krompirjem in solato."
+        },
+        "summary": "Ponudba vključuje raznolike klasične, mesne, vegi in sadno-mlečne menije z različnimi prehranskimi profili.",
+        "disclaimer": "Vse navedene hranilne vrednosti so približne ocene, ki temeljijo na običajnih porcijah in vključujejo prišteto solato z oljem."
+      }
+    },
+    {
+      "target_date": "12.08.2026",
+      "menu_date": "12. 08. 2026",
+      "menus": [
+        {
+          "index": 1,
+          "text": "MENI KLASIK - PIZZA KEBAB(Gpš, L) SEZONSKA SOLATA"
+        },
+        {
+          "index": 2,
+          "text": "MENI MOJA IZBIRA - GOVEJI RAGU (Gpš, SO2, GS, Z) KORUZNA POLENTA SEZONSKA SOLATA"
+        },
+        {
+          "index": 3,
+          "text": "MENI VEGI - ZELNE KRPICE (Gpš, J, Z) JOGURT"
+        },
+        {
+          "index": 4,
+          "text": "SOLATNI KROŽNIK - VEČ VRST SVEŽE ZELENJAVE"
+        },
+        {
+          "index": 5,
+          "text": "HLADNI MENI - V.P.ŠUNKARICA, KRUH NAMAZ, SADJE, JOGURT"
+        }
+      ],
+      "analysis": {
+        "recommended": {
+          "menu_index": 4,
+          "name": "SOLATNI KROŽNIK - VEČ VRST SVEŽE ZELENJAVE",
+          "calories_kcal": 283,
+          "protein_g": 6.0,
+          "carbohydrates_g": 18.0,
+          "fat_g": 14.5,
+          "reason": "Solatni krožnik vsebuje največ sveže zelenjave, vlaknin in mikronutrientov, z dodanim olivnim oljem pa predstavlja najbolj zdrav in uravnotežen obrok."
+        },
+        "alternative": {
+          "menu_index": 2,
+          "name": "MENI MOJA IZBIRA - GOVEJI RAGU KORUZNA POLENTA SEZONSKA SOLATA",
+          "calories_kcal": 633,
+          "protein_g": 35.0,
+          "carbohydrates_g": 62.0,
+          "fat_g": 26.5,
+          "reason": "Goveji ragu s polento ponuja dober vir kakovostnih beljakovin in kompleksnih ogljikovih hidratov, čeprav je nekoliko bogatejši z maščobami."
+        },
+        "summary": "Današnja ponudba vključuje mešanico hitre hrane, mesnih jedi, testenine in solatni krog, pri čemer so vrednosti približne.",
+        "disclaimer": "Vse navedene hranilne vrednosti so zgolj ocena in so približne."
+      }
+    },
+    {
+      "target_date": "13.08.2026",
+      "menu_date": "13. 08. 2026",
+      "menus": [
+        {
+          "index": 1,
+          "text": "MENI KLASIK - SPAGETI PO MILANSKO (Gpš, Z, J, SO2) SEZONSKA SOLATA"
+        },
+        {
+          "index": 2,
+          "text": "MENI MOJA IZBIRA - KROMPIRJEV GOLAŽ Z GOVEJIM MESOM IN KLOBASO (Gpš, Z, SO2) SEZONSKA SOLATA"
+        },
+        {
+          "index": 3,
+          "text": "MENI VEGI - KREMNA ŠPINAČA (Gpš, L, Z) PIRE KROMPIR (L), 2X KUHANO JAJCE (J)"
+        },
+        {
+          "index": 4,
+          "text": "HLADNI MENI - V.P.POLI SALAMA S SIROM,KRUH NAMAZ, JOGURT, SADJE"
+        },
+        {
+          "index": 5,
+          "text": "MALICA SADNO MLEČNA - Skuta z grškim jogurtom, banane, melone, grozdje, granola, ananas (Oo, Om, L, Go)"
+        }
+      ],
+      "analysis": {
+        "recommended": {
+          "menu_index": 3,
+          "name": "MENI VEGI - KREMNA ŠPINAČA, PIRE KROMPIR, 2X KUHANO JAJCE",
+          "calories_kcal": 613,
+          "protein_g": 31.0,
+          "carbohydrates_g": 52.0,
+          "fat_g": 31.5,
+          "reason": "Ta obrok je najbolj uravnotežen, saj vsebuje kakovostne beljakovine iz jajc, špinačo z vlakninami in manj predelanih sestavin v primerjavi s preostalimi meniji."
+        },
+        "alternative": {
+          "menu_index": 2,
+          "name": "MENI MOJA IZBIRA - KROMPIRJEV GOLAŽ Z GOVEJIM MESOM IN KLOBASO",
+          "calories_kcal": 703,
+          "protein_g": 34.0,
+          "carbohydrates_g": 54.0,
+          "fat_g": 38.5,
+          "reason": "Dobra izbira z večjim deležem mesa in krompirja, vendar ima zaradi klobase in golaža nekoliko več maščob."
+        },
+        "summary": "Današnja ponudba kosil vključuje testenine, mesni golaž, vegetarijansko špinačo z jajci, hladen sendvič in sadno-mlečno malico.",
+        "disclaimer": "Vse navedene hranilne vrednosti so približne in služijo kot ocena običajne porcije v menzi, vključno s prišteto zeleno solato in olivnim oljem."
+      }
+    },
+    {
+      "target_date": "14.08.2026",
+      "menu_date": "14. 08. 2026",
+      "menus": [
+        {
+          "index": 1,
+          "text": "MENI KLASIK - SVINJSKI ZREZEK V ČEBULNI OMAKI (Gpš, Z, GS, SO2) PRAŽEN KROMPIR SEZONSKA SOLATA"
+        },
+        {
+          "index": 2,
+          "text": "MENI MOJA IZBIRA - RIBJI BRODET (Gpš, R1, R2, M, Z, SO2) POLENTA"
+        },
+        {
+          "index": 3,
+          "text": "MENI VEGI - RAGU ALA BOLONEZE IZ LEČE (Gpš, J, Z, SO2) TESTENINE (Gpš, J)"
+        },
+        {
+          "index": 4,
+          "text": "SOLATNI KROŽNIK - DNEVNI SOLATNI KROŽNIK (zelena solata, paradižnik,kumare,koruza, ocvrte bučke, ameriška solata) (Gpš, J, L, SO2)"
+        },
+        {
+          "index": 5,
+          "text": "HLADNI MENI - 1XTUNA 80g, 1X ZELENJAVNE RIBE 115g, SOLATA. SADJE, NAMAZ"
+        }
+      ],
+      "analysis": {
+        "recommended": {
+          "menu_index": 2,
+          "name": "MENI MOJA IZBIRA - RIBJI BRODET (Gpš, R1, R2, M, Z, SO2) POLENTA",
+          "calories_kcal": 650,
+          "protein_g": 35.0,
+          "carbohydrates_g": 60.0,
+          "fat_g": 28.5,
+          "reason": "Riba je vir kakovostnih beljakovin in zdravih maščob, polenta ponuja dobre ogljikove hidrate, z dodano solato in oljem pa dobimo uravnotežen in polnovreden obrok."
+        },
+        "alternative": {
+          "menu_index": 3,
+          "name": "MENI VEGI - RAGU ALA BOLONEZE IZ LEČE (Gpš, J, Z, SO2) TESTENINE (Gpš, J)",
+          "calories_kcal": 680,
+          "protein_g": 26.0,
+          "carbohydrates_g": 95.0,
+          "fat_g": 16.5,
+          "reason": "Leča je odličen rastlinski vir beljakovin in vlaknin, obrok pa je manj mastna in zdrava alternativa mesnim jedem."
+        },
+        "summary": "Današnja ponudba vključuje mesne, ribje, vegetarijanske in solatne možnosti, med katerimi izstopata ribji brodet in lečin ragu kot najbolj uravnotežena izbira.",
+        "disclaimer": "Vse navedene hranilne vrednosti so približne in služijo kot informativna ocena za običajno porcijo v menzi."
+      }
+    }
+  ]
 }
