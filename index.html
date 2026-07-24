@@ -4,85 +4,29 @@
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <meta name="robots" content="index,follow">
-  <meta name="description" content="Dnevno priporočilo za Elrad kosilo.">
-  <title>Elrad kosilo – priporočilo</title>
+  <meta name="description" content="Stanje dnevnega priporočila za Elrad kosilo.">
+  <title>Elrad kosilo – ni novega jedilnika</title>
   <style>
-    :root { color-scheme: light; --bg:#f3f6f8; --card:#fff; --text:#17212b; --muted:#64748b; --line:#dbe3ea; --green:#e8f7ee; --blue:#eaf2ff; }
+    :root { color-scheme: light; --bg:#f3f6f8; --card:#fff; --text:#17212b; --muted:#64748b; --line:#dbe3ea; --warn:#fff7ed; }
     * { box-sizing:border-box; }
     body { margin:0; background:var(--bg); color:var(--text); font-family:Inter,system-ui,-apple-system,"Segoe UI",sans-serif; line-height:1.55; }
-    main { width:min(980px,calc(100% - 32px)); margin:40px auto; }
-    header { margin-bottom:24px; }
-    h1 { margin:0 0 8px; font-size:clamp(2rem,5vw,3.4rem); letter-spacing:-.04em; }
-    .lead,.meta { color:var(--muted); }
-    .grid { display:grid; grid-template-columns:repeat(2,minmax(0,1fr)); gap:20px; }
-    .meal-card,.panel { background:var(--card); border:1px solid var(--line); border-radius:20px; padding:24px; box-shadow:0 10px 30px rgba(15,23,42,.06); }
-    .recommended { background:linear-gradient(180deg,var(--green),#fff 45%); }
-    .alternative { background:linear-gradient(180deg,var(--blue),#fff 45%); }
+    main { width:min(760px,calc(100% - 32px)); margin:40px auto; }
+    .panel { background:linear-gradient(180deg,var(--warn),var(--card) 55%); border:1px solid var(--line); border-radius:20px; padding:24px; box-shadow:0 10px 30px rgba(15,23,42,.06); }
     .eyebrow { margin:0; font-size:.78rem; font-weight:800; letter-spacing:.12em; text-transform:uppercase; color:var(--muted); }
-    h2 { margin:.35rem 0 1rem; font-size:1.35rem; }
-    .macros { display:grid; grid-template-columns:repeat(2,minmax(0,1fr)); gap:10px; margin:18px 0; }
-    .macros div { padding:12px; border:1px solid var(--line); border-radius:14px; background:rgba(255,255,255,.72); }
-    .macros strong,.macros span { display:block; }
-    .macros strong { font-size:1.2rem; }
-    .macros span { color:var(--muted); font-size:.86rem; }
-    .panel { margin-top:20px; }
-    ol { list-style:none; padding:0; margin:0; display:grid; gap:10px; }
-    li { display:flex; gap:12px; padding:12px 0; border-bottom:1px solid var(--line); }
-    li:last-child { border-bottom:0; }
-    li span { flex:0 0 30px; height:30px; border-radius:50%; display:grid; place-items:center; background:#edf2f7; font-weight:700; }
-    footer { margin-top:18px; color:var(--muted); font-size:.9rem; }
-    @media (max-width:720px) { .grid { grid-template-columns:1fr; } main { margin:24px auto; } }
+    h1 { margin:.35rem 0 1rem; font-size:clamp(2rem,5vw,3.2rem); letter-spacing:-.04em; }
+    .meta { color:var(--muted); }
+    code { background:#edf2f7; border-radius:8px; padding:.15rem .35rem; }
   </style>
 </head>
 <body>
   <main>
-    <header>
+    <section class="panel">
       <p class="eyebrow">Elrad lunch AI</p>
-      <h1>Priporočilo za 24. 07. 2026</h1>
-      <p class="lead">Ponudba vključuje različne mesne, ribje, vegetarijansko in hladno jed, pri čemer izstopata ribja in solatna opcija.</p>
-      <p class="meta">Posodobljeno: <time datetime="2026-07-23T08:43:53.086551+00:00">2026-07-23T08:43:53.086551+00:00</time> · Model: gemini-3.5-flash-lite</p>
-    </header>
-
-    <section class="grid">
-      <article class="meal-card recommended">
-      <p class="eyebrow">Najbolj zdrava izbira</p>
-      <h2>MENI MOJA IZBIRA - POSTRV PO TRŽAŠKO KROMPIRJEVA SOLATA</h2>
-      <div class="macros">
-        <div><strong>550</strong><span>kcal</span></div>
-        <div><strong>35.0</strong><span>g beljakovin</span></div>
-        <div><strong>45.0</strong><span>g OH</span></div>
-        <div><strong>22.0</strong><span>g maščob</span></div>
-      </div>
-      <p>Riba postrv predstavlja vir kakovostnih beljakovin in zdravih maščob, krompirjeva solata pa je lažja priloga brez težkih omak.</p>
-    </article>
-      <article class="meal-card alternative">
-      <p class="eyebrow">Alternativa</p>
-      <h2>SOLATNI KROŽNIK - SOL. KROŽNIK S TUNO IN ČIČERIKO</h2>
-      <div class="macros">
-        <div><strong>480</strong><span>kcal</span></div>
-        <div><strong>30.0</strong><span>g beljakovin</span></div>
-        <div><strong>40.0</strong><span>g OH</span></div>
-        <div><strong>18.0</strong><span>g maščob</span></div>
-      </div>
-      <p>Odlična izbira z veliko vlakninami, rastlinskimi beljakovinami iz čičerike in tuno kot virom maščobnih kislin omega-3.</p>
-    </article>
+      <h1>Za 25.07.2026 ni novega jedilnika</h1>
+      <p>V odprtem spustnem seznamu ni bil najden noben meni.</p>
+      <p class="meta">Posodobljeno: <time datetime="2026-07-24T06:47:05.704479+00:00">2026-07-24T06:47:05.704479+00:00</time></p>
+      <p class="meta">Podrobnosti so v <code>status.json</code>.</p>
     </section>
-
-    <section class="panel">
-      <h2>Vsi razpoložljivi meniji</h2>
-      <ol><li><span>1</span>MENI KLASIK - PIŠČANČJA BEDRA V OMAKI (Gpš, L, Z), RIŽ Z GRAHOM</li>
-<li><span>2</span>MENI MOJA IZBIRA - POSTRV PO TRŽAŠKO(Gpš,R1) KROMPIRJEVA SOLATA(GS)</li>
-<li><span>3</span>MENI VEGI - PAPRIKAŠ S STROČJIM FIŽOLOM(Gpš,L,Z) NAVIHANČEK MARMELADNI (Gpš,J,L)</li>
-<li><span>4</span>SOLATNI KROŽNIK - SOL. KROŽNIK S TUNO IN ČIČERIKO (R1) (sezonska solata, rukola, kumarice, olive, paprika, paradižnik)</li>
-<li><span>5</span>HLADNI MENI - V.P.SUHA SALAMA, KRUH, JOGURT, SADJE, NAMAZ</li></ol>
-    </section>
-
-    <section class="panel">
-      <h2>Opomba</h2>
-      <p>Vse hranilne vrednosti so približne ocene za običajno porcijo in se lahko razlikujejo glede na točne količine priprave.</p>
-    </section>
-
-    <footer>Hranilne vrednosti so informativne in so odvisne od dejanske velikosti porcije ter priprave.</footer>
   </main>
 </body>
 </html>

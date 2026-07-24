@@ -1,7 +1,6 @@
 {
-  "status": "ok",
-  "updated_at": "2026-07-23T08:43:53.086551+00:00",
-  "menu_date": "24. 07. 2026",
-  "model": "gemini-3.5-flash-lite",
-  "source_file": "menus-2026-07-23_08-43-32.json"
+  "status": "skipped",
+  "updated_at": "2026-07-24T06:47:05.704479+00:00",
+  "target_date": "25.07.2026",
+  "reason": "V odprtem spustnem seznamu ni bil najden noben meni."
 }
