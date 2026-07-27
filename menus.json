@@ -1,51 +1,51 @@
 {
   "status": "ok",
-  "updated_at": "2026-07-26T09:23:08.710967+00:00",
-  "menu_date": "27. 07. 2026",
+  "updated_at": "2026-07-27T12:45:39.293368+00:00",
+  "menu_date": "28. 07. 2026",
   "model": "gemini-3.5-flash-lite",
-  "source_file": "menus-2026-07-26_09-22-46.json",
+  "source_file": "menus-2026-07-27_12-45-17.json",
   "menus": [
     {
       "index": 1,
-      "text": "MENI KLASIK - PIŠČANČJI GOLAŽ (Gpš, SO2, Z) TESTENINE(Gpš, J)"
+      "text": "MENI KLASIK - SVINJSKI DUNAJSKI ZREZEK (Gpš, J) RIŽ"
     },
     {
       "index": 2,
-      "text": "MENI MOJA IZBIRA - MESNIN BUREK (Gpš,J,L) JOGURT"
+      "text": "MENI MOJA IZBIRA - MESNI KANELONI (Gpš, J, L, S) ŠOPSKA SOLATA(L)"
     },
     {
       "index": 3,
-      "text": "MENI VEGI - JEŠPRENOVA RIŽOTA Z ZELENJAVO (Gje, Z), JOGURT"
+      "text": "MENI VEGI - ŠPINAČNI REZANCI V KREMNI OMAKI (Gpš, L, J, Z)"
     },
     {
       "index": 4,
-      "text": "SOLATNI KROŽNIK - AL CAPONE (listnata solata, pečena sveža zelenjava,češnjevec,hrustljava slanina, italijanski preliv)"
+      "text": "HLADNI MENI - V.P.POLI SALAMA, KRUH, SADJE, NAMAZ, JOGURT"
     },
     {
       "index": 5,
-      "text": "HLADNI MENI - V.P. SALAMA, KRUH, SADJE, NAMAZ, JOGURT"
+      "text": "MALICA SADNO MLEČNA - Skuta z grškim jogurtom, banane, melone, grozdje, granola, ananas (Oo, Om, L, Go)"
     }
   ],
   "analysis": {
     "recommended": {
-      "menu_index": 3,
-      "name": "MENI VEGI - JEŠPRENOVA RIŽOTA Z ZELENJAVO, JOGURT",
-      "calories_kcal": 520,
-      "protein_g": 22.5,
-      "carbohydrates_g": 85.0,
-      "fat_g": 9.0,
-      "reason": "Ješprenj je bogat z vlakninami in zagotavlja dolgotrajno sitost, obrok pa vključuje tudi zelenjavo in jogurt za dodatek beljakovin brez odvečnih maščob."
+      "menu_index": 5,
+      "name": "MALICA SADNO MLEČNA - Skuta z grškim jogurtom, banane, melone, grozdje, granola, ananas",
+      "calories_kcal": 450,
+      "protein_g": 30.0,
+      "carbohydrates_g": 60.0,
+      "fat_g": 10.0,
+      "reason": "Ta obrok ponuja visoko vsebnost kakovostnih beljakovin iz skute in grškega jogurta ter sveže sadje, ki prinaša vitamine, minerale in vlaknine."
     },
     "alternative": {
-      "menu_index": 1,
-      "name": "MENI KLASIK - PIŠČANČJI GOLAŽ IN TESTENINE",
-      "calories_kcal": 610,
-      "protein_g": 38.0,
+      "menu_index": 2,
+      "name": "MENI MOJA IZBIRA - MESNI KANELONI, ŠOPSKA SOLATA",
+      "calories_kcal": 650,
+      "protein_g": 25.0,
       "carbohydrates_g": 70.0,
-      "fat_g": 18.0,
-      "reason": "Piščančje meso predstavlja vir pusta in kakovostnih beljakovin, vendar so testenine in golaž nekoliko manj polnovredni ter vsebujejo več maščob kot vegi možnost."
+      "fat_g": 28.0,
+      "reason": "Vključuje zelenjavno prilogo v obliki šopske solate, kar obroku doda svežino in vlaknine kljub mesnemu nadevu v kanelonih."
     },
-    "summary": "Današnja ponudba vsebuje mešanico mesnih in predelanih jedi ter nekaj dobrih virov vlaknin in beljakovin.",
-    "disclaimer": "Vse navedene hranilne vrednosti so zgolj ocena in so približne."
+    "summary": "Današnja ponudba vsebuje mešanico klasičnih ocvrtih jedi, testenin in lažjih mlečno-sadnih ter solatnih možnosti.",
+    "disclaimer": "Navedene hranilne vrednosti so približne ocene za običajno porcijo in se lahko razlikujejo glede na dejansko velikost in pripravo."
   }
 }
