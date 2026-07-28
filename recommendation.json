@@ -1,26 +1,26 @@
 {
   "status": "ok",
-  "updated_at": "2026-07-27T12:45:39.293368+00:00",
-  "menu_date": "28. 07. 2026",
+  "updated_at": "2026-07-28T10:17:11.043698+00:00",
+  "menu_date": "29. 07. 2026",
   "model": "gemini-3.5-flash-lite",
   "recommended": {
-    "menu_index": 5,
-    "name": "MALICA SADNO MLEČNA - Skuta z grškim jogurtom, banane, melone, grozdje, granola, ananas",
+    "menu_index": 3,
+    "name": "MENI VEGI - AJDOVA KAŠA Z ZELENJAVO IN GOBAMI",
     "calories_kcal": 450,
-    "protein_g": 30.0,
-    "carbohydrates_g": 60.0,
-    "fat_g": 10.0,
-    "reason": "Ta obrok ponuja visoko vsebnost kakovostnih beljakovin iz skute in grškega jogurta ter sveže sadje, ki prinaša vitamine, minerale in vlaknine."
+    "protein_g": 14.5,
+    "carbohydrates_g": 78.0,
+    "fat_g": 9.0,
+    "reason": "Ajdova kaša z zelenjavo in gobami je polnovreden rastlinski obrok, bogat z vlakninami, kompleksnimi ogljikovimi hidrati in mikronutrienti ter brez odvečnih nasičenih maščob."
   },
   "alternative": {
     "menu_index": 2,
-    "name": "MENI MOJA IZBIRA - MESNI KANELONI, ŠOPSKA SOLATA",
-    "calories_kcal": 650,
-    "protein_g": 25.0,
-    "carbohydrates_g": 70.0,
-    "fat_g": 28.0,
-    "reason": "Vključuje zelenjavno prilogo v obliki šopske solate, kar obroku doda svežino in vlaknine kljub mesnemu nadevu v kanelonih."
+    "name": "MENI MOJA IZBIRA - SLADKO ZELJE S KUHANO KLOBASO",
+    "calories_kcal": 550,
+    "protein_g": 22.0,
+    "carbohydrates_g": 35.0,
+    "fat_g": 38.0,
+    "reason": "Sladko zelje prispeva veliko vlaknin in vitamina C, vendar kuhana klobasa zvišuje vnos maščob in predelanega mesa, zato je to manj primerna izbira kot ajdova kaša."
   },
-  "summary": "Današnja ponudba vsebuje mešanico klasičnih ocvrtih jedi, testenin in lažjih mlečno-sadnih ter solatnih možnosti.",
-  "disclaimer": "Navedene hranilne vrednosti so približne ocene za običajno porcijo in se lahko razlikujejo glede na dejansko velikost in pripravo."
+  "summary": "Ponudba vključuje klasične mesne jedi, enolončnico s klobaso, polnovredno ajdovo kašo z zelenjavo, solatni krožnik in predelan hladen meni.",
+  "disclaimer": "Hranilne vrednosti so zgolj približne ocene za običajno porcijo v menzi."
 }
