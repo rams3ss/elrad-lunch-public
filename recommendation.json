@@ -1,26 +1,26 @@
 {
   "status": "ok",
-  "updated_at": "2026-07-29T10:50:23.867890+00:00",
-  "menu_date": "30. 07. 2026",
+  "updated_at": "2026-07-30T10:03:20.921395+00:00",
+  "menu_date": "31. 07. 2026",
   "model": "gemini-3.5-flash-lite",
   "recommended": {
-    "menu_index": 5,
-    "name": "MALICA SADNO MLEČNA - Skuta z grškim jogurtom, banane, melone, grozdje, granola, ananas",
-    "calories_kcal": 450,
-    "protein_g": 30.5,
-    "carbohydrates_g": 55.0,
-    "fat_g": 12.0,
-    "reason": "Vsebuje veliko kakovostnih beljakovin iz skute in jogurta ter vlaknin in vitaminov iz svežega sadja, brez predelanega mesa ali ocvrte hrane."
+    "menu_index": 4,
+    "name": "SOLATNI KROŽNIK \"A LA CAPRESE\"",
+    "calories_kcal": 350,
+    "protein_g": 18.5,
+    "carbohydrates_g": 15.0,
+    "fat_g": 24.0,
+    "reason": "Solatni krožnik vsebuje veliko sveže listnate zelenjave in zdravih maščob iz sira ter olivnega olja, kar zagotavlja visoko vsebnost vitaminov, mineralov in vlaknin brez težkih, ocvrtih ali močno predelanih sestavin."
   },
   "alternative": {
-    "menu_index": 1,
-    "name": "MENI KLASIK - PEČEN SVINJSKI VRAT AJDOVA KAŠA Z RIŽEM",
-    "calories_kcal": 680,
-    "protein_g": 35.0,
-    "carbohydrates_g": 60.0,
-    "fat_g": 30.0,
-    "reason": "Ajdova kaša z rižem predstavlja dober vir kompleksnih ogljikovih hidratov, medtem ko je svinjski vrat nekoliko masten, a vseeno boljša izbira kot predelano meso ali sladice."
+    "menu_index": 2,
+    "name": "RIŽOTA Z MORSKIMI SADEŽI",
+    "calories_kcal": 480,
+    "protein_g": 22.0,
+    "carbohydrates_g": 65.0,
+    "fat_g": 14.0,
+    "reason": "Morski sadeži soli vir kakovostnih beljakovin in maščob z nizko vsebnostjo nasičenih maščob, rižota pa predstavlja dober vir kompleksnih ogljikovih hidratov za energijo."
   },
-  "summary": "Ponudba vključuje mešanico mesnih jedi, mastnih predelanih izdelkov, sladkih obrokov in bolj zdravo mlečno-sadno malico.",
-  "disclaimer": "Vse navedene hranilne vrednosti so približne ocene za običajno porcijo."
+  "summary": "Današnja ponudba kosil ponuja raznolike izbire od mesnih in zelenjavnih jedi do morskih sadežev in solat.",
+  "disclaimer": "Vse navedene hranilne vrednosti so zgolj približne ocene in se lahko razlikujejo glede na velikost porcije ter način priprave."
 }
