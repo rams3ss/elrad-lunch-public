@@ -1,0 +1,26 @@
+{
+  "status": "ok",
+  "updated_at": "2026-08-18T08:03:18.915247+00:00",
+  "menu_date": "20. 08. 2026",
+  "model": "gemini-3.5-flash-lite",
+  "recommended": {
+    "menu_index": 1,
+    "name": "MENI KLASIK - TELEČJA OBARA, AJDOVI ŽGANCI, NAVADNI JOGURT",
+    "calories_kcal": 550,
+    "protein_g": 35.0,
+    "carbohydrates_g": 65.0,
+    "fat_g": 15.0,
+    "reason": "Telečja obara z ajdovimi žganci in navadnim jogurtom predstavlja najbolj uravnotežen obrok z visoko vsebnostjo kakovostnih beljakovin, kompleksnih ogljikovih hidratov in manjšim deležem nasičenih maščob v primerjavi z ocvrto ali močno predelano hrano."
+  },
+  "alternative": {
+    "menu_index": 2,
+    "name": "MENI MOJA IZBIRA - PIŠČANČJI ZREZEK V GOBOVI OMAKI, PIRE KROMPIR",
+    "calories_kcal": 600,
+    "protein_g": 40.0,
+    "carbohydrates_g": 50.0,
+    "fat_g": 22.0,
+    "reason": "Piščančji zrezek je vir pustih beljakovin, vendar gobova omaka in pire krompir vsebujeta več maščob in mlečnih izdelkov, zato je to dobra, a nekoliko kaloričnejša alternativa."
+  },
+  "summary": "Ponudba vključuje klasične tople jedi, mesne menije, pico, hladen obrok s predelanim mesom in sadno-mlečno malico.",
+  "disclaimer": "Vse navedene hranilne vrednosti so zgolj približne ocene za običajno porcijo v menzi."
+}
