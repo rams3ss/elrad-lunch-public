@@ -1,9 +1,9 @@
 {
   "status": "ok",
-  "updated_at": "2026-08-18T12:02:14.842309+00:00",
+  "updated_at": "2026-08-18T12:14:09.570396+00:00",
   "menu_date": "19. 08. 2026",
   "model": "gemini-3.5-flash-lite",
-  "source_file": "menus-2026-08-18_12-01-49.json",
+  "source_file": "menus-2026-08-18_12-13-43.json",
   "menus": [
     {
       "index": 1,
@@ -30,22 +30,22 @@
     "recommended": {
       "menu_index": 4,
       "name": "SOLATNI KROŽNIK - VEČ VRST SVEŽE ZELENJAVE",
-      "calories_kcal": 250,
-      "protein_g": 6.5,
-      "carbohydrates_g": 25.0,
-      "fat_g": 12.0,
-      "reason": "Solatni krožnik ponuja največ sveže zelenjave, vlaknin in mikronutrientov z minimalno stopnjo predelave."
+      "calories_kcal": 150,
+      "protein_g": 5,
+      "carbohydrates_g": 20,
+      "fat_g": 5,
+      "reason": "Solatni krožnik je najbolj zdrav in polnovreden obrok, saj vsebuje veliko sveže zelenjave, vlaknin in mikronutrientov z minimalno stopnjo predelave ter nizko vsebnostjo maščob."
     },
     "alternative": {
       "menu_index": 1,
       "name": "MENI KLASIK - KEBAB S PIŠČANČJIM MESOM",
       "calories_kcal": 550,
-      "protein_g": 35.0,
-      "carbohydrates_g": 45.0,
-      "fat_g": 22.0,
-      "reason": "Piščančje meso predstavlja pusto vir beljakovin, obrok pa vsebuje tudi zelenjavo, čeprav je preliv lahko malce masten."
+      "protein_g": 35,
+      "carbohydrates_g": 50,
+      "fat_g": 20,
+      "reason": "Piščančje meso predstavlja vir pustih beljakovin, obrok pa z zelenjavo ponuja razmeroma uravnoteženo alternativo v primerjavi z močno ogljikohidratnimi ali predelanimi meniji."
     },
-    "summary": "Današnja ponudba vsebuje mešanico mesnih jedi, predelane hrane in osvežilnih solat ter vegetarijanskih možnosti.",
-    "disclaimer": "Vse hranilne vrednosti so zgolj približne ocene za standardno porcijo."
+    "summary": "Današnja ponudba menijev je precej ogljikohidratno usmerjena in vključuje predelana živila ali sladice, pri čemer izstopa le svež solatni krožnik.",
+    "disclaimer": "Vse navedene hranilne vrednosti so zgolj približne ocene za običajno porcijo v menzi."
   }
 }
