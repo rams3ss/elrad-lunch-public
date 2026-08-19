@@ -1,26 +1,26 @@
 {
   "status": "ok",
-  "updated_at": "2026-08-18T12:14:09.570396+00:00",
-  "menu_date": "19. 08. 2026",
+  "updated_at": "2026-08-19T03:33:04.886802+00:00",
+  "menu_date": "20. 08. 2026",
   "model": "gemini-3.5-flash-lite",
   "recommended": {
-    "menu_index": 4,
-    "name": "SOLATNI KROŽNIK - VEČ VRST SVEŽE ZELENJAVE",
-    "calories_kcal": 150,
-    "protein_g": 5,
-    "carbohydrates_g": 20,
-    "fat_g": 5,
-    "reason": "Solatni krožnik je najbolj zdrav in polnovreden obrok, saj vsebuje veliko sveže zelenjave, vlaknin in mikronutrientov z minimalno stopnjo predelave ter nizko vsebnostjo maščob."
+    "menu_index": 1,
+    "name": "MENI KLASIK - TELEČJA OBARA, AJDOVI ŽGANCI, NAVADNI JOGURT",
+    "calories_kcal": 550,
+    "protein_g": 35.0,
+    "carbohydrates_g": 65.0,
+    "fat_g": 14.0,
+    "reason": "Telečja obara z ajdovimi žganci in navadnim jogurtom predstavlja najbolj uravnotežen obrok z visoko vsebnostjo kakovostnih beljakovin, kompleksnih ogljikovih hidratov ter brez pretirane predelave ali ocvrtosti."
   },
   "alternative": {
-    "menu_index": 1,
-    "name": "MENI KLASIK - KEBAB S PIŠČANČJIM MESOM",
-    "calories_kcal": 550,
-    "protein_g": 35,
-    "carbohydrates_g": 50,
-    "fat_g": 20,
-    "reason": "Piščančje meso predstavlja vir pustih beljakovin, obrok pa z zelenjavo ponuja razmeroma uravnoteženo alternativo v primerjavi z močno ogljikohidratnimi ali predelanimi meniji."
+    "menu_index": 2,
+    "name": "MENI MOJA IZBIRA - PIŠČANČJI ZREZEK V GOBOVI OMAKI, PIRE KROMPIR",
+    "calories_kcal": 600,
+    "protein_g": 40.0,
+    "carbohydrates_g": 50.0,
+    "fat_g": 22.0,
+    "reason": "Piščančji zrezek v gobovi omaki s pire krompirjem je dobra in visoko beljakovinska alternativa, čeprav vsebuje nekaj več maščob zaradi omake in pireja."
   },
-  "summary": "Današnja ponudba menijev je precej ogljikohidratno usmerjena in vključuje predelana živila ali sladice, pri čemer izstopa le svež solatni krožnik.",
-  "disclaimer": "Vse navedene hranilne vrednosti so zgolj približne ocene za običajno porcijo v menzi."
+  "summary": "Ponudba vključuje raznolike menije, med katerimi izstopajo jedi s pustim mesom in tradiconalnimi prilogami.",
+  "disclaimer": "Vse navedene hranilne vrednosti so zgolj približne ocene za običajno porcijo."
 }
