@@ -1,51 +1,51 @@
 {
   "status": "ok",
-  "updated_at": "2026-08-19T03:33:04.886802+00:00",
-  "menu_date": "20. 08. 2026",
+  "updated_at": "2026-08-20T03:32:07.708364+00:00",
+  "menu_date": "21. 08. 2026",
   "model": "gemini-3.5-flash-lite",
-  "source_file": "menus-2026-08-19_03-32-38.json",
+  "source_file": "menus-2026-08-20_03-31-41.json",
   "menus": [
     {
       "index": 1,
-      "text": "MENI KLASIK - TELEČJA OBARA (Gpš, SO2, Z), AJDOVI ŽGANCI, NAVADNI JOGURT"
+      "text": "MENI KLASIK - SVINJSKA PEČENKA V NARAVNI OMAKI (Gpš, Z, SO2), POLENTA"
     },
     {
       "index": 2,
-      "text": "MENI MOJA IZBIRA - PIŠČANČJI ZREZEK V GOBOVI OMAKI (Gpš, SO2, Z), PIRE KROMPIR(L)"
+      "text": "MENI MOJA IZBIRA - POLNOZRNATE TESTENINE S KOZICAMI IN TUNO (R1, R2,"
     },
     {
       "index": 3,
-      "text": "MENI VEGI - PIZZA S TREMI SIRI (Gpš, L)"
+      "text": "MENI VEGI - NJOKI V PARADIŽNIKOVI OMAKI (Gpš, Z, J, SO2)"
     },
     {
       "index": 4,
-      "text": "HLADNI MENI - V.P. ŠUNKARICA, KRUH, SADJE, JOGURT,NAMAZ"
+      "text": "SOLATNI KROŽNIK - SOLATNI KROŽNIK (zelana solata, jajce,ocvrt sir, paradižnik, zelje, tatarska omaka) (L, J, Gpš, GS, SO2)"
     },
     {
       "index": 5,
-      "text": "MALICA SADNO MLEČNA - Skuta z grškim jogurtom, banane, melone, grozdje, granola, ananas (Oo, Om, L, Go)"
+      "text": "HLADNI MENI - V.P.ČAJNA KLOBASA, KRUH, NAMAZ, JOGURT,SADJE"
     }
   ],
   "analysis": {
     "recommended": {
-      "menu_index": 1,
-      "name": "MENI KLASIK - TELEČJA OBARA, AJDOVI ŽGANCI, NAVADNI JOGURT",
-      "calories_kcal": 550,
-      "protein_g": 35.0,
-      "carbohydrates_g": 65.0,
-      "fat_g": 14.0,
-      "reason": "Telečja obara z ajdovimi žganci in navadnim jogurtom predstavlja najbolj uravnotežen obrok z visoko vsebnostjo kakovostnih beljakovin, kompleksnih ogljikovih hidratov ter brez pretirane predelave ali ocvrtosti."
+      "menu_index": 2,
+      "name": "POLNOZRNATE TESTENINE S KOZICAMI IN TUNO",
+      "calories_kcal": 520,
+      "protein_g": 35.5,
+      "carbohydrates_g": 62.0,
+      "fat_g": 12.0,
+      "reason": "Vsebuje polnozrnate testenine z več vlakninami ter puste morske sadeže in ribo, kar zagotavlja kakovostne beljakovine in zdrave maščobe z manj nasičenimi maščobami."
     },
     "alternative": {
-      "menu_index": 2,
-      "name": "MENI MOJA IZBIRA - PIŠČANČJI ZREZEK V GOBOVI OMAKI, PIRE KROMPIR",
-      "calories_kcal": 600,
-      "protein_g": 40.0,
-      "carbohydrates_g": 50.0,
-      "fat_g": 22.0,
-      "reason": "Piščančji zrezek v gobovi omaki s pire krompirjem je dobra in visoko beljakovinska alternativa, čeprav vsebuje nekaj več maščob zaradi omake in pireja."
+      "menu_index": 1,
+      "name": "SVINJSKA PEČENKA V NARAVNI OMAKI, POLENTA",
+      "calories_kcal": 610,
+      "protein_g": 32.0,
+      "carbohydrates_g": 55.0,
+      "fat_g": 24.0,
+      "reason": "Dobra izbira z mesom v naravni omaki namesto ocvrte hrane, ob tem pa polenta predstavlja soliden vir ogljikovih hidratov."
     },
-    "summary": "Ponudba vključuje raznolike menije, med katerimi izstopajo jedi s pustim mesom in tradiconalnimi prilogami.",
-    "disclaimer": "Vse navedene hranilne vrednosti so zgolj približne ocene za običajno porcijo."
+    "summary": "Današnja ponudba vključuje mešanico tradicionalnih mesnih jedi, ribje možnosti z morskimi sadeži, enostavne vegetarijanske njoke, ocvrt solatni krožnik in predelan hladen meni.",
+    "disclaimer": "Vse navedene hranilne vrednosti so zgolj približne ocene za običajno porcijo v menzi."
   }
 }
