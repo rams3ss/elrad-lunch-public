@@ -1,51 +1,51 @@
 {
   "status": "ok",
-  "updated_at": "2026-08-20T03:32:07.708364+00:00",
-  "menu_date": "21. 08. 2026",
+  "updated_at": "2026-08-21T03:39:09.368816+00:00",
+  "menu_date": "24. 08. 2026",
   "model": "gemini-3.5-flash-lite",
-  "source_file": "menus-2026-08-20_03-31-41.json",
+  "source_file": "menus-2026-08-21_03-38-31.json",
   "menus": [
     {
       "index": 1,
-      "text": "MENI KLASIK - SVINJSKA PEČENKA V NARAVNI OMAKI (Gpš, Z, SO2), POLENTA"
+      "text": "MENI KLASIK - PIŠČANČJI ZREZEK V KORENČKOVI OMAKI (Gpš, Z, L, SO2), TESTENINE(Gpš, J)"
     },
     {
       "index": 2,
-      "text": "MENI MOJA IZBIRA - POLNOZRNATE TESTENINE S KOZICAMI IN TUNO (R1, R2,"
+      "text": "MENI MOJA IZBIRA - PLESKAVICA DŽUVEČ RIŽ"
     },
     {
       "index": 3,
-      "text": "MENI VEGI - NJOKI V PARADIŽNIKOVI OMAKI (Gpš, Z, J, SO2)"
+      "text": "MENI VEGI - KROMPIRJEV GOLAŽ (Gpš, Z, L) MALININA REZINA (Gpš, J, L, O, SO2)"
     },
     {
       "index": 4,
-      "text": "SOLATNI KROŽNIK - SOLATNI KROŽNIK (zelana solata, jajce,ocvrt sir, paradižnik, zelje, tatarska omaka) (L, J, Gpš, GS, SO2)"
+      "text": "SOLATNI KROŽNIK - SOL. KROŽNIK S PEČENO KLOBASO (J) (zel. solata, čičerika, kuhano jajce, zelje, paradižnik)"
     },
     {
       "index": 5,
-      "text": "HLADNI MENI - V.P.ČAJNA KLOBASA, KRUH, NAMAZ, JOGURT,SADJE"
+      "text": "HLADNI MENI - V.P.SALAMA, KRUH, SADJE, NAMAZ, JOGURT"
     }
   ],
   "analysis": {
     "recommended": {
-      "menu_index": 2,
-      "name": "POLNOZRNATE TESTENINE S KOZICAMI IN TUNO",
-      "calories_kcal": 520,
-      "protein_g": 35.5,
-      "carbohydrates_g": 62.0,
-      "fat_g": 12.0,
-      "reason": "Vsebuje polnozrnate testenine z več vlakninami ter puste morske sadeže in ribo, kar zagotavlja kakovostne beljakovine in zdrave maščobe z manj nasičenimi maščobami."
+      "menu_index": 4,
+      "name": "SOLATNI KROŽNIK S PEČENO KLOBASO (zel. solata, čičerika, kuhano jajce, zelje, paradižnik)",
+      "calories_kcal": 550,
+      "protein_g": 28.5,
+      "carbohydrates_g": 45.0,
+      "fat_g": 26.0,
+      "reason": "Ta obrok vsebuje čičeriko in kuhano jajce kot vir kakovostnih beljakovin ter bogato bazo zelenjave, ki zagotavlja vlaknine, čeprav je klobasa bolj mastna."
     },
     "alternative": {
       "menu_index": 1,
-      "name": "SVINJSKA PEČENKA V NARAVNI OMAKI, POLENTA",
-      "calories_kcal": 610,
-      "protein_g": 32.0,
-      "carbohydrates_g": 55.0,
-      "fat_g": 24.0,
-      "reason": "Dobra izbira z mesom v naravni omaki namesto ocvrte hrane, ob tem pa polenta predstavlja soliden vir ogljikovih hidratov."
+      "name": "PIŠČANČJI ZREZEK V KORENČKOVI OMAKI, TESTENINE",
+      "calories_kcal": 620,
+      "protein_g": 35.0,
+      "carbohydrates_g": 75.0,
+      "fat_g": 18.0,
+      "reason": "Pusto piščančje meso predstavlja dober vir beljakovin, korenčkova omaka pa doda nekaj zelenjavne note, čeprav so testenine ogljikohidratno bogate."
     },
-    "summary": "Današnja ponudba vključuje mešanico tradicionalnih mesnih jedi, ribje možnosti z morskimi sadeži, enostavne vegetarijanske njoke, ocvrt solatni krožnik in predelan hladen meni.",
-    "disclaimer": "Vse navedene hranilne vrednosti so zgolj približne ocene za običajno porcijo v menzi."
+    "summary": "Današnja ponudba vključuje mešanico mesnih, zelenjavnih in predelanih jedi z različnimi prehranskimi vrednostmi.",
+    "disclaimer": "Navedene hranilne vrednosti so zgolj približne ocene za običajno porcijo menze."
   }
 }
