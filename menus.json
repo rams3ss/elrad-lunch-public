@@ -1,51 +1,51 @@
 {
   "status": "ok",
-  "updated_at": "2026-08-22T03:25:32.928246+00:00",
-  "menu_date": "24. 08. 2026",
+  "updated_at": "2026-08-23T02:18:17.113417+00:00",
+  "menu_date": "31. 08. 2026",
   "model": "gemini-3.5-flash-lite",
-  "source_file": "menus-2026-08-22_03-24-58.json",
+  "source_file": "menus-2026-08-23_02-17-45.json",
   "menus": [
     {
       "index": 1,
-      "text": "MENI KLASIK - PIŠČANČJI ZREZEK V KORENČKOVI OMAKI (Gpš, Z, L, SO2), TESTENINE(Gpš, J)"
+      "text": "MENI KLASIK"
     },
     {
       "index": 2,
-      "text": "MENI MOJA IZBIRA - PLESKAVICA DŽUVEČ RIŽ"
+      "text": "MENI MOJA IZBIRA"
     },
     {
       "index": 3,
-      "text": "MENI VEGI - KROMPIRJEV GOLAŽ (Gpš, Z, L) MALININA REZINA (Gpš, J, L, O, SO2)"
+      "text": "MENI VEGI"
     },
     {
       "index": 4,
-      "text": "SOLATNI KROŽNIK - SOL. KROŽNIK S PEČENO KLOBASO (J) (zel. solata, čičerika, kuhano jajce, zelje, paradižnik)"
+      "text": "SOLATNI KROŽNIK"
     },
     {
       "index": 5,
-      "text": "HLADNI MENI - V.P.SALAMA, KRUH, SADJE, NAMAZ, JOGURT"
+      "text": "HLADNI MENI"
     }
   ],
   "analysis": {
     "recommended": {
       "menu_index": 4,
-      "name": "SOLATNI KROŽNIK S PEČENO KLOBASO",
-      "calories_kcal": 550,
-      "protein_g": 30.5,
-      "carbohydrates_g": 45.0,
-      "fat_g": 26.0,
-      "reason": "Ta obrok vsebuje veliko zelenjave ter dober vir rastlinskih beljakovin iz čičerike in jajca, kar zagotavlja več vlaknin in hranilne pesterosti kot ostali meniji."
+      "name": "SOLATNI KROŽNIK",
+      "calories_kcal": 350,
+      "protein_g": 15.0,
+      "carbohydrates_g": 30.0,
+      "fat_g": 18.0,
+      "reason": "Solatni krožnik ponudi največ vlaknin, sveže zelenjave in najmanj predelanih sestavin v primerjavi z ostalimi meniji."
     },
     "alternative": {
-      "menu_index": 1,
-      "name": "PIŠČANČJI ZREZEK V KORENČKOVI OMAKI, TESTENINE",
-      "calories_kcal": 620,
-      "protein_g": 42.0,
-      "carbohydrates_g": 75.0,
-      "fat_g": 16.0,
-      "reason": "Meni ponuja pusto piščančje meso z zelenjavno omako, kar predstavlja dober vir beljakovin z zmerno vsebnostjo maščob, čeprav so testenine rafinirani ogljikovi hidrati."
+      "menu_index": 3,
+      "name": "MENI VEGI",
+      "calories_kcal": 550,
+      "protein_g": 20.0,
+      "carbohydrates_g": 70.0,
+      "fat_g": 20.0,
+      "reason": "Vegi meni je dobra rastlinska alternativa, ki vključuje več ogljikovih hidratov in je primerna za uravnotežen obrok brez mesa."
     },
-    "summary": "Današnja ponudba obsega mešanico mesnih jedi, enolončnic in solatnega krožnika, pri čemer izstopajo meniji z večjo vsebnostjo pustega mesa in zelenjave.",
-    "disclaimer": "Vse navedene hranilne vrednosti so zgolj približne ocene za običajno porcijo v menzi."
+    "summary": "Ponudba obsega klasične, izbirne, vegetarijanske, solatne in hladne menije, med katerimi izstopata solatni krožnik in veganska izbira.",
+    "disclaimer": "Hranilne vrednosti so zgolj približne ocene in se lahko razlikujejo glede na dejansko velikost porcije in način priprave."
   }
 }
