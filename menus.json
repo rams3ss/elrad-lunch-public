@@ -1,51 +1,51 @@
 {
   "status": "ok",
-  "updated_at": "2026-08-23T02:18:17.113417+00:00",
-  "menu_date": "31. 08. 2026",
+  "updated_at": "2026-08-24T02:15:40.030144+00:00",
+  "menu_date": "25. 08. 2026",
   "model": "gemini-3.5-flash-lite",
-  "source_file": "menus-2026-08-23_02-17-45.json",
+  "source_file": "menus-2026-08-24_02-15-14.json",
   "menus": [
     {
       "index": 1,
-      "text": "MENI KLASIK"
+      "text": "MENI KLASIK - PASULJ S KUHANO KLOBASO (Gpš, SO2, GS, Z)"
     },
     {
       "index": 2,
-      "text": "MENI MOJA IZBIRA"
+      "text": "MENI MOJA IZBIRA - SVINJSKI ZREZEK Z ZELIŠČNO OMAKO (Gpš, SO2, GS), MASLEN KROMPIR (L),"
     },
     {
       "index": 3,
-      "text": "MENI VEGI"
+      "text": "MENI VEGI - ZELENJAVNA ENOLONČNICA Z ŽLIČNIKI (Gpš, J, Z), GRŠKI JOGURT"
     },
     {
       "index": 4,
-      "text": "SOLATNI KROŽNIK"
+      "text": "HLADNI MENI - ŠOFERSKI SENDVIČ (Gpš, L, S, SS,O) JOGURT, SADJE"
     },
     {
       "index": 5,
-      "text": "HLADNI MENI"
+      "text": "MALICA SADNO MLEČNA - Skuta z grškim jogurtom, banane, melone, grozdje, granola, ananas (Oo, Om, L, Go)"
     }
   ],
   "analysis": {
     "recommended": {
-      "menu_index": 4,
-      "name": "SOLATNI KROŽNIK",
-      "calories_kcal": 350,
-      "protein_g": 15.0,
-      "carbohydrates_g": 30.0,
-      "fat_g": 18.0,
-      "reason": "Solatni krožnik ponudi največ vlaknin, sveže zelenjave in najmanj predelanih sestavin v primerjavi z ostalimi meniji."
+      "menu_index": 3,
+      "name": "MENI VEGI - ZELENJAVNA ENOLONČNICA Z ŽLIČNIKI, GRŠKI JOGURT",
+      "calories_kcal": 450,
+      "protein_g": 22.5,
+      "carbohydrates_g": 60.0,
+      "fat_g": 12.0,
+      "reason": "Zelenjavna enolončnica prinaša veliko vlaknin in mikronutrientov, grški jogurt pa poskrbi za kakovostne beljakovine z zmerno vsebnostjo maščob."
     },
     "alternative": {
-      "menu_index": 3,
-      "name": "MENI VEGI",
-      "calories_kcal": 550,
-      "protein_g": 20.0,
-      "carbohydrates_g": 70.0,
-      "fat_g": 20.0,
-      "reason": "Vegi meni je dobra rastlinska alternativa, ki vključuje več ogljikovih hidratov in je primerna za uravnotežen obrok brez mesa."
+      "menu_index": 5,
+      "name": "MALICA SADNO MLEČNA - Skuta z grškim jogurtom, banane, melone, grozdje, granola, ananas",
+      "calories_kcal": 420,
+      "protein_g": 25.0,
+      "carbohydrates_g": 55.0,
+      "fat_g": 10.5,
+      "reason": "Skuta in grški jogurt nudita visoko vsebnost beljakovin, sveže sadje pa zagotavlja vitamine in naravne ogljikove hidrate."
     },
-    "summary": "Ponudba obsega klasične, izbirne, vegetarijanske, solatne in hladne menije, med katerimi izstopata solatni krožnik in veganska izbira.",
-    "disclaimer": "Hranilne vrednosti so zgolj približne ocene in se lahko razlikujejo glede na dejansko velikost porcije in način priprave."
+    "summary": "Ponudba vključuje enolončnice, mesne jedi, sendviče in mlečno-sadne obroke, pri čemer so rastlinske in mlečne možnosti najprimernejše za uravnoteženo prehrano.",
+    "disclaimer": "Vse hranilne vrednosti so zgolj približne ocene za običajno porcijo v menzi."
   }
 }
