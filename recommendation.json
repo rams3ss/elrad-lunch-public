@@ -1,26 +1,26 @@
 {
   "status": "ok",
-  "updated_at": "2026-08-24T02:15:40.030144+00:00",
-  "menu_date": "25. 08. 2026",
+  "updated_at": "2026-08-25T02:11:35.226301+00:00",
+  "menu_date": "26. 08. 2026",
   "model": "gemini-3.5-flash-lite",
   "recommended": {
-    "menu_index": 3,
-    "name": "MENI VEGI - ZELENJAVNA ENOLONČNICA Z ŽLIČNIKI, GRŠKI JOGURT",
-    "calories_kcal": 450,
-    "protein_g": 22.5,
-    "carbohydrates_g": 60.0,
-    "fat_g": 12.0,
-    "reason": "Zelenjavna enolončnica prinaša veliko vlaknin in mikronutrientov, grški jogurt pa poskrbi za kakovostne beljakovine z zmerno vsebnostjo maščob."
+    "menu_index": 4,
+    "name": "SOLATNI KROŽNIK - VEČ VRST SVEŽE ZELENJAVE",
+    "calories_kcal": 220,
+    "protein_g": 6.5,
+    "carbohydrates_g": 25.0,
+    "fat_g": 10.0,
+    "reason": "Sveža zelenjava vsebuje največ vlaknin, vitaminov in antioksidantov ter je najmanj predelana jed na voljo."
   },
   "alternative": {
-    "menu_index": 5,
-    "name": "MALICA SADNO MLEČNA - Skuta z grškim jogurtom, banane, melone, grozdje, granola, ananas",
-    "calories_kcal": 420,
-    "protein_g": 25.0,
-    "carbohydrates_g": 55.0,
-    "fat_g": 10.5,
-    "reason": "Skuta in grški jogurt nudita visoko vsebnost beljakovin, sveže sadje pa zagotavlja vitamine in naravne ogljikove hidrate."
+    "menu_index": 3,
+    "name": "MENI VEGI - SIROV /ŠPINAČNI KANELON, FRANCOSKA SOLATA",
+    "calories_kcal": 650,
+    "protein_g": 22.0,
+    "carbohydrates_g": 70.0,
+    "fat_g": 32.0,
+    "reason": "Predstavlja toplo vegetarijansko izbiro, vendar francoska solata z majonezo dodaja večjo količino maščob."
   },
-  "summary": "Ponudba vključuje enolončnice, mesne jedi, sendviče in mlečno-sadne obroke, pri čemer so rastlinske in mlečne možnosti najprimernejše za uravnoteženo prehrano.",
-  "disclaimer": "Vse hranilne vrednosti so zgolj približne ocene za običajno porcijo v menzi."
+  "summary": "Današnja ponudba vsebuje predvsem tradicionalne in bolj mastne jedi ter eno lahkotnejšo solatno opcijo.",
+  "disclaimer": "Navedene hranilne vrednosti so zgolj približne ocene in se lahko razlikujejo glede na velikost porcije in način priprave."
 }
