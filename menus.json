@@ -1,51 +1,51 @@
 {
   "status": "ok",
-  "updated_at": "2026-08-26T02:17:13.540048+00:00",
-  "menu_date": "27. 08. 2026",
+  "updated_at": "2026-08-27T10:43:06.264027+00:00",
+  "menu_date": "28. 08. 2026",
   "model": "gemini-3.5-flash-lite",
-  "source_file": "menus-2026-08-26_02-16-48.json",
+  "source_file": "menus-2026-08-27_10-42-40.json",
   "menus": [
     {
       "index": 1,
-      "text": "MENI KLASIK - SVINJSKI ZREZEK V POROVI OMAKI (Gpš, S, Z, L), POLENTA (L)"
+      "text": "MENI KLASIK - PEČENA PIŠČANČJA PRSA V PARADIŽNIKOVI OMAKI (Gpš,GS,Z,SO2), PEČEN KROMPIR"
     },
     {
       "index": 2,
-      "text": "MENI MOJA IZBIRA - GOZDRASKE TESTENINE(Gpš, J, SO2) (piščančje meso, gobe)"
+      "text": "MENI MOJA IZBIRA - POSTRV PO GRADIŠKO (R1, Gpš) FIŽOLOVA SOLATA"
     },
     {
       "index": 3,
-      "text": "MENI VEGI - VEGI BURGER Z ZELENJAVNIM POLPETOM (Gpš, L, S, GS, SO2), OCVRTI KROMPIRČEK"
+      "text": "MENI VEGI - ZELENJAVNA RIŽOTA S STROČNICAMI KURKUMO (Gpš,Z)"
     },
     {
       "index": 4,
-      "text": "HLADNI MENI - 2X MINI PIZZA, JOGURT (Gpš, J, O, S, SS)"
+      "text": "SOLATNI KROŽNIK - SOL. KROŽNIK S ŠAMPINJONI, FETO IN PIRO (Gpi, L)(sezonska solata, radič, fižol, ohrovt, por, baby korenje)"
     },
     {
       "index": 5,
-      "text": "MALICA SADNO MLEČNA - Skuta z grškim jogurtom, banane, melone, grozdje, granola, ananas (Oo, Om, L, Go)"
+      "text": "HLADNI MENI - V.P.OGRSKA SALAMA,KRUH JOGURT, SADJE, NAMAZ"
     }
   ],
   "analysis": {
     "recommended": {
       "menu_index": 2,
-      "name": "MENI MOJA IZBIRA - GOZDRASKE TESTENINE (piščančje meso, gobe)",
-      "calories_kcal": 550,
-      "protein_g": 35.0,
-      "carbohydrates_g": 70.0,
-      "fat_g": 12.0,
-      "reason": "Vsebuje pusto piščančje meso in gobe ter predstavlja dober vir beljakovin in ogljikovih hidratov z manj maščobami v primerjavi s preostalimi izbirami."
+      "name": "POSTRV PO GRADIŠKO, FIŽOLOVA SOLATA",
+      "calories_kcal": 480,
+      "protein_g": 35.5,
+      "carbohydrates_g": 32.0,
+      "fat_g": 22.0,
+      "reason": "Riba je vir kakovostnih beljakovin in zdravih maščob, fižolova solata pa prispeva vlaknine in rastlinske beljakovine."
     },
     "alternative": {
-      "menu_index": 5,
-      "name": "MALICA SADNO MLEČNA - Skuta z grškim jogurtom, banane, melone, grozdje, granola, ananas",
+      "menu_index": 3,
+      "name": "ZELENJAVNA RIŽOTA S STROČNICAMI KURKUMO",
       "calories_kcal": 450,
-      "protein_g": 25.0,
-      "carbohydrates_g": 60.0,
+      "protein_g": 14.0,
+      "carbohydrates_g": 75.0,
       "fat_g": 10.0,
-      "reason": "Osvežilna in beljakovinsko bogata izbira s skuto ter sadjem, ki pa ima zaradi granole in sadja večji delež enostavnih sladkorjev."
+      "reason": "Polnovredna rastlinska izbira z dodatkom stročnic in zelenjave ter kurkume, ki zagotavlja dober delež ogljikovih hidratov in vlaknin."
     },
-    "summary": "Ponudba obsega klasične mesne jedi, testenine s piščancem, ocvrto vegetarijansko jed, mini pizze in sadno-mlečno malico.",
-    "disclaimer": "Hranilne vrednosti so približne ocene za običajno porcijo in se lahko razlikujejo glede na dejansko pripravljene količine in sestavine."
+    "summary": "Ponudba vključuje različne mesne, ribje, vegetarijanske in solatne obroke z zmerno uravnoteženostjo hranil.",
+    "disclaimer": "Vse navedene hranilne vrednosti so zgolj približne ocene za običajno porcijo v menzi."
   }
 }
