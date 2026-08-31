@@ -1,51 +1,51 @@
 {
   "status": "ok",
-  "updated_at": "2026-08-30T06:00:32.261766+00:00",
-  "menu_date": "31. 08. 2026",
+  "updated_at": "2026-08-31T06:20:55.058380+00:00",
+  "menu_date": "01. 09. 2026",
   "model": "gemini-3.5-flash-lite",
-  "source_file": "menus-2026-08-30_05-59-59.json",
+  "source_file": "menus-2026-08-31_06-20-29.json",
   "menus": [
     {
       "index": 1,
-      "text": "MENI KLASIK - PIŠČANČJA JETRCA V OMAKI (Gpš, Z) PIRE KROMPIR (L)"
+      "text": "MENI KLASIK - PEČENA PIŠČANČJA PRSA V NARAVNI OMAKI(Gpš, Z) RIŽ"
     },
     {
       "index": 2,
-      "text": "MENI MOJA IZBIRA - MESNA LAZANJA(Gpš, J, L, Z)"
+      "text": "MENI MOJA IZBIRA - GOVEJE KOCKE V ZELENJAVNI OMAKI(Gpš, L, Z) TESTENINE(Gpš, J)"
     },
     {
       "index": 3,
-      "text": "MENI VEGI - RIŽOTA IZ TREH ŽIT Z ZELENJAVO(Gpš, Gje, Z)"
+      "text": "MENI VEGI - JABOLČNI BUREK(Gpš, J, L) JOGURT"
     },
     {
       "index": 4,
-      "text": "SOLATNI KROŽNIK - ŽARKO KROŽNIK (zelena solata, fižol, pečene gobice, pečena paprika, pečen svinjski zrezek)"
+      "text": "HLADNI MENI - 2X MESNI NAREZEK, NAMAZ, KRUH, SADJE"
     },
     {
       "index": 5,
-      "text": "HLADNI MENI - V.P. SALAMA, KRUH, SADJE, NAMAZ, JOGURT"
+      "text": "MALICA SADNO MLEČNA - Skuta z grškim jogurtom, banane, melone, grozdje, granola, ananas (Oo, Om, L, Go)"
     }
   ],
   "analysis": {
     "recommended": {
-      "menu_index": 4,
-      "name": "SOLATNI KROŽNIK - ŽARKO KROŽNIK",
-      "calories_kcal": 550,
-      "protein_g": 35.0,
-      "carbohydrates_g": 45.0,
-      "fat_g": 22.0,
-      "reason": "Ta obrok je najbolj uravnotežen, saj vsebuje veliko zelenjave, stročnic (fižol) in kakovostnih beljakovin iz pustega mesa, poleg tega pa ponuja največ prehranskih vlaknin in najmanj predelanih sestavin."
+      "menu_index": 1,
+      "name": "MENI KLASIK - PEČENA PIŠČANČJA PRSA V NARAVNI OMAKI RIŽ",
+      "calories_kcal": 520,
+      "protein_g": 42.0,
+      "carbohydrates_g": 65.0,
+      "fat_g": 10.0,
+      "reason": "Pusto piščančje meso v naravni omaki in riž predstavljata visoko vsebnost kakovostnih beljakovin ter zmerno količino maščob, kar je najbolj uravnotežen obrok."
     },
     "alternative": {
-      "menu_index": 3,
-      "name": "MENI VEGI - RIŽOTA IZ TREH ŽIT Z ZELENJAVO",
-      "calories_kcal": 480,
-      "protein_g": 12.0,
-      "carbohydrates_g": 85.0,
-      "fat_g": 10.0,
-      "reason": "Dobra vegetarijanska izbira, ki temelji na polnozrnatih žitih in zelenjavi, vendar ima v primerjavi s prvor uvrščenim menijem manj beljakovin."
+      "menu_index": 2,
+      "name": "MENI MOJA IZBIRA - GOVEJE KOCKE V ZELENJAVNI OMAKI TESTENINE",
+      "calories_kcal": 580,
+      "protein_g": 38.0,
+      "carbohydrates_g": 70.0,
+      "fat_g": 14.0,
+      "reason": "Goveje kocke z zelenjavno omako in testenine nudijo dober vir beljakovin ter dodatna vlaknina iz zelenjave, čeprav je obrok malenkost bolj masten."
     },
-    "summary": "Ponudba vključuje mesne klasike, lazanjo, zelenjavno rižoto, solatni krožnik z mesom in hladen obrok, med katerimi izstopa solatni krožnik kot najbolj zdrav in vlaknin bogat obrok.",
-    "disclaimer": "Vse navedene hranilne vrednosti so približne ocene, prilagojene običajnim porcijam v menzi."
+    "summary": "Ponudba vključuje mešanico mesnih klasik, testeninskih jedi, hitro pripravljene hrane in lažjih mlečno-sadnih obrokov.",
+    "disclaimer": "Vse hranilne vrednosti so zgolj približne ocene za standardno porcijo in se lahko razlikujejo glede na dejansko pripravo."
   }
 }
