@@ -1,26 +1,26 @@
 {
   "status": "ok",
-  "updated_at": "2026-08-31T06:20:55.058380+00:00",
-  "menu_date": "01. 09. 2026",
+  "updated_at": "2026-09-01T05:49:00.550786+00:00",
+  "menu_date": "02. 09. 2026",
   "model": "gemini-3.5-flash-lite",
   "recommended": {
-    "menu_index": 1,
-    "name": "MENI KLASIK - PEČENA PIŠČANČJA PRSA V NARAVNI OMAKI RIŽ",
-    "calories_kcal": 520,
-    "protein_g": 42.0,
-    "carbohydrates_g": 65.0,
+    "menu_index": 4,
+    "name": "SOLATNI KROŽNIK - VEČ VRST SVEŽE ZELENJAVE",
+    "calories_kcal": 220,
+    "protein_g": 6.5,
+    "carbohydrates_g": 25.0,
     "fat_g": 10.0,
-    "reason": "Pusto piščančje meso v naravni omaki in riž predstavljata visoko vsebnost kakovostnih beljakovin ter zmerno količino maščob, kar je najbolj uravnotežen obrok."
+    "reason": "Solatni krožnik je najbolj zdrava izbira, saj vsebuje veliko sveže zelenjave, vlaknin in vitaminov z minimalno stopnjo predelave ter brez ocvrte hrane ali težkih omak."
   },
   "alternative": {
-    "menu_index": 2,
-    "name": "MENI MOJA IZBIRA - GOVEJE KOCKE V ZELENJAVNI OMAKI TESTENINE",
-    "calories_kcal": 580,
-    "protein_g": 38.0,
-    "carbohydrates_g": 70.0,
-    "fat_g": 14.0,
-    "reason": "Goveje kocke z zelenjavno omako in testenine nudijo dober vir beljakovin ter dodatna vlaknina iz zelenjave, čeprav je obrok malenkost bolj masten."
+    "menu_index": 3,
+    "name": "MENI VEGI - MLINCI V OMAKI Z ZELENJAVO IN GOBAMI",
+    "calories_kcal": 550,
+    "protein_g": 14.0,
+    "carbohydrates_g": 75.0,
+    "fat_g": 20.0,
+    "reason": "Mlanci z zelenjavo in gobami predstavljajo dobro brezsasno alternativo z zelenjavno in gobovo osnovo, ki je lažja od mesnih jedi v smetanovih omakah."
   },
-  "summary": "Ponudba vključuje mešanico mesnih klasik, testeninskih jedi, hitro pripravljene hrane in lažjih mlečno-sadnih obrokov.",
-  "disclaimer": "Vse hranilne vrednosti so zgolj približne ocene za standardno porcijo in se lahko razlikujejo glede na dejansko pripravo."
+  "summary": "Današnja ponudba vključuje klasične mesne jedi z mastnimi omakami, enolončnico, vegetarijansko testeninsko jed, solatni krožnik in hladen mesni meni.",
+  "disclaimer": "Vse navedene hranilne vrednosti so zgolj približne ocene za običajno porcijo v menzi."
 }
