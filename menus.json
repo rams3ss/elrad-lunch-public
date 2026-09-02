@@ -1,51 +1,51 @@
 {
   "status": "ok",
-  "updated_at": "2026-09-01T05:49:00.550786+00:00",
-  "menu_date": "02. 09. 2026",
+  "updated_at": "2026-09-02T05:11:50.918960+00:00",
+  "menu_date": "03. 09. 2026",
   "model": "gemini-3.5-flash-lite",
-  "source_file": "menus-2026-09-01_05-48-37.json",
+  "source_file": "menus-2026-09-02_05-11-24.json",
   "menus": [
     {
       "index": 1,
-      "text": "MENI KLASIK - PIŠČANČJI ZREZEK V SMETANOVI OMAKI(Gpš, Z, L) PRAŽEN KROMPIR"
+      "text": "MENI KLASIK - RIČET S PREKAJENIM MESOM(Gje, Z) NAPOLITANKE"
     },
     {
       "index": 2,
-      "text": "MENI MOJA IZBIRA - POHORSKI LONEC (Gpš, Z, SO2) JOGURT"
+      "text": "MENI MOJA IZBIRA - POPEČEN SVINJSKI ZREZEK, PIRE KROMPIR(L) STROČJI FIŽOL NA MASLU(L)"
     },
     {
       "index": 3,
-      "text": "MENI VEGI - MLINCI V OMAKI Z ZELENJAVO IN GOBAMI (Gpš,Z,J)"
+      "text": "MENI VEGI - ZELENJAVNA PIZZA S POLNOZRNATIM TESTOM (Gpš, L)"
     },
     {
       "index": 4,
-      "text": "SOLATNI KROŽNIK - VEČ VRST SVEŽE ZELENJAVE"
+      "text": "HLADNI MENI - V.P.TURISTIČNA SALAMA, KRUH, SADJE JOGURT, SOLATA"
     },
     {
       "index": 5,
-      "text": "HLADNI MENI - V.P.KUHAN PRŠUT, KRUH, SADJE, NAMAZ, JOGURT"
+      "text": "MALICA SADNO MLEČNA - Skuta z grškim jogurtom, banane, melone, grozdje, granola, ananas (Oo, Om, L, Go)"
     }
   ],
   "analysis": {
     "recommended": {
-      "menu_index": 4,
-      "name": "SOLATNI KROŽNIK - VEČ VRST SVEŽE ZELENJAVE",
-      "calories_kcal": 220,
-      "protein_g": 6.5,
-      "carbohydrates_g": 25.0,
-      "fat_g": 10.0,
-      "reason": "Solatni krožnik je najbolj zdrava izbira, saj vsebuje veliko sveže zelenjave, vlaknin in vitaminov z minimalno stopnjo predelave ter brez ocvrte hrane ali težkih omak."
+      "menu_index": 3,
+      "name": "MENI VEGI - ZELENJAVNA PIZZA S POLNOZRNATIM TESTOM",
+      "calories_kcal": 550,
+      "protein_g": 22.0,
+      "carbohydrates_g": 70.0,
+      "fat_g": 18.0,
+      "reason": "Polnozrnato testo prinaša več vlaknin, zelenjavni nadev pa poskrbi za vitamine in minerale brez odvečnih maščob."
     },
     "alternative": {
-      "menu_index": 3,
-      "name": "MENI VEGI - MLINCI V OMAKI Z ZELENJAVO IN GOBAMI",
-      "calories_kcal": 550,
-      "protein_g": 14.0,
-      "carbohydrates_g": 75.0,
-      "fat_g": 20.0,
-      "reason": "Mlanci z zelenjavo in gobami predstavljajo dobro brezsasno alternativo z zelenjavno in gobovo osnovo, ki je lažja od mesnih jedi v smetanovih omakah."
+      "menu_index": 2,
+      "name": "MENI MOJA IZBIRA - POPEČEN SVINJSKI ZREZEK, PIRE KROMPIR STROČJI FIŽOL NA MASLU",
+      "calories_kcal": 620,
+      "protein_g": 38.0,
+      "carbohydrates_g": 45.0,
+      "fat_g": 32.0,
+      "reason": "Dober vir visokokakovostnih beljakovin in zelenjavne priloge, vendar z nekaj več maščobami iz masla in pire krompirja."
     },
-    "summary": "Današnja ponudba vključuje klasične mesne jedi z mastnimi omakami, enolončnico, vegetarijansko testeninsko jed, solatni krožnik in hladen mesni meni.",
+    "summary": "Ponudba vključuje tradicionalne jedi, mesne opcije, vegetarijansko pico ter lažje mlečne in sadne obroke.",
     "disclaimer": "Vse navedene hranilne vrednosti so zgolj približne ocene za običajno porcijo v menzi."
   }
 }
