@@ -1,26 +1,26 @@
 {
   "status": "ok",
-  "updated_at": "2026-09-03T05:16:33.829046+00:00",
+  "updated_at": "2026-09-04T05:12:25.371742+00:00",
   "menu_date": "07. 09. 2026",
   "model": "gemini-3.5-flash-lite",
   "recommended": {
-    "menu_index": 2,
-    "name": "MENI VEGI - PISANA MEHIŠKA RIŽOTA",
-    "calories_kcal": 480,
-    "protein_g": 14.5,
-    "carbohydrates_g": 78.0,
+    "menu_index": 5,
+    "name": "MALICA VAROVALNA - DUŠEN PIŠČANČJI ZREZEK KUHAN KROMPIR S KORENJEM",
+    "calories_kcal": 450,
+    "protein_g": 35.0,
+    "carbohydrates_g": 45.0,
     "fat_g": 12.0,
-    "reason": "Vsebuje strocnice in zelenjavo, kar zagotavlja dobro vsebnost vlaknin in rastlinskih beljakovin ter je manj predelano kot hrenovka ali prsut."
+    "reason": "Vsebuje pusto piščančje meso ter kuhan krompir s korenjem, kar predstavlja uravnotežen obrok z visokim deležem kakovostnih beljakovin in minimalno predelanih sestavin."
   },
   "alternative": {
-    "menu_index": 3,
-    "name": "SOLATNI KROŽNIK S PRŠUTOM IN MELONO",
-    "calories_kcal": 390,
-    "protein_g": 18.0,
-    "carbohydrates_g": 25.0,
-    "fat_g": 24.0,
-    "reason": "Osvezujoča moznost z veliko sezonske solate in zelenjave, vendar z nekaj slanega mesnega prsuta."
+    "menu_index": 2,
+    "name": "MENI VEGI - PISANA MEHIŠKA RIŽOTA (koruza, fižol, paprika..)",
+    "calories_kcal": 480,
+    "protein_g": 14.0,
+    "carbohydrates_g": 75.0,
+    "fat_g": 10.0,
+    "reason": "Dobra rastlinska izbira, ki zaradi fižola in zelenjave ponuja več vlaknin, vendar ima nekoliko večji delež ogljikohidratnih virov."
   },
-  "summary": "Ponudba vkljucuje raznolike menije od klasike do zelenjavnih in solatnih jedi.",
-  "disclaimer": "Hranilne vrednosti so približne ocene za običajno porcijo."
+  "summary": "Ponudba vključuje mesne, vegetarijansko in hladne možnosti, pri čemer izstopa varovalni meni s pustim mesom kot najbolj zdrava izbira.",
+  "disclaimer": "Vse hranilne vrednosti so približne ocene za običajno porcijo."
 }
