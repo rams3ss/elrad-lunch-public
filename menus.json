@@ -1,9 +1,9 @@
 {
   "status": "ok",
-  "updated_at": "2026-09-04T05:12:25.371742+00:00",
+  "updated_at": "2026-09-05T05:01:32.600981+00:00",
   "menu_date": "07. 09. 2026",
   "model": "gemini-3.5-flash-lite",
-  "source_file": "menus-2026-09-04_05-11-48.json",
+  "source_file": "menus-2026-09-05_05-01-00.json",
   "menus": [
     {
       "index": 1,
@@ -34,18 +34,18 @@
       "protein_g": 35.0,
       "carbohydrates_g": 45.0,
       "fat_g": 12.0,
-      "reason": "Vsebuje pusto piščančje meso ter kuhan krompir s korenjem, kar predstavlja uravnotežen obrok z visokim deležem kakovostnih beljakovin in minimalno predelanih sestavin."
+      "reason": "Uravnotežen obrok z visokim deležem pustega piščančjega mesa in kakovostnimi ogljikovimi hidrati iz kuhanega krompirja s korenjem."
     },
     "alternative": {
       "menu_index": 2,
       "name": "MENI VEGI - PISANA MEHIŠKA RIŽOTA (koruza, fižol, paprika..)",
       "calories_kcal": 480,
       "protein_g": 14.0,
-      "carbohydrates_g": 75.0,
+      "carbohydrates_g": 85.0,
       "fat_g": 10.0,
-      "reason": "Dobra rastlinska izbira, ki zaradi fižola in zelenjave ponuja več vlaknin, vendar ima nekoliko večji delež ogljikohidratnih virov."
+      "reason": "Dobra vegetarijanska izbira, ki vključuje stročnice in zelenjavo ter zagotavlja dober vir vlaknin in rastlinskih beljakovin."
     },
-    "summary": "Ponudba vključuje mesne, vegetarijansko in hladne možnosti, pri čemer izstopa varovalni meni s pustim mesom kot najbolj zdrava izbira.",
-    "disclaimer": "Vse hranilne vrednosti so približne ocene za običajno porcijo."
+    "summary": "Današnja ponudba vključuje mešanico mesnih, vegetarijanskih in hladnih obrokov, med katerimi izstopata varovalna malica s pustim mesom ter zelenjavno-stročnična rižota.",
+    "disclaimer": "Vse navedene hranilne vrednosti so zgolj približne ocene za običajno porcijo menze."
   }
 }
