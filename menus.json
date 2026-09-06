@@ -1,9 +1,9 @@
 {
   "status": "ok",
-  "updated_at": "2026-09-05T05:01:32.600981+00:00",
+  "updated_at": "2026-09-06T05:13:53.564689+00:00",
   "menu_date": "07. 09. 2026",
   "model": "gemini-3.5-flash-lite",
-  "source_file": "menus-2026-09-05_05-01-00.json",
+  "source_file": "menus-2026-09-06_05-13-28.json",
   "menus": [
     {
       "index": 1,
@@ -34,18 +34,18 @@
       "protein_g": 35.0,
       "carbohydrates_g": 45.0,
       "fat_g": 12.0,
-      "reason": "Uravnotežen obrok z visokim deležem pustega piščančjega mesa in kakovostnimi ogljikovimi hidrati iz kuhanega krompirja s korenjem."
+      "reason": "Dušen piščančji zrezek in kuhan krompir s korenjem predstavljata najbolj uravnotežen, pust in neocvrt obrok z visoko vsebnostjo kakovostnih beljakovin ter zelenjavo."
     },
     "alternative": {
       "menu_index": 2,
       "name": "MENI VEGI - PISANA MEHIŠKA RIŽOTA (koruza, fižol, paprika..)",
       "calories_kcal": 480,
       "protein_g": 14.0,
-      "carbohydrates_g": 85.0,
+      "carbohydrates_g": 75.0,
       "fat_g": 10.0,
-      "reason": "Dobra vegetarijanska izbira, ki vključuje stročnice in zelenjavo ter zagotavlja dober vir vlaknin in rastlinskih beljakovin."
+      "reason": "Mehiška rižota s fižolom in koruzo je dobra rastlinska alternativa z dobrim deležem vlaknin in rastlinskih beljakovin, čeprav je obrok ogljikohidratno bogatejši."
     },
-    "summary": "Današnja ponudba vključuje mešanico mesnih, vegetarijanskih in hladnih obrokov, med katerimi izstopata varovalna malica s pustim mesom ter zelenjavno-stročnična rižota.",
-    "disclaimer": "Vse navedene hranilne vrednosti so zgolj približne ocene za običajno porcijo menze."
+    "summary": "Današnja ponudba vključuje mešanico predelanega mesa, zelenjavno-žitnih jedi in lažjih mesnih ter solatnih opcij.",
+    "disclaimer": "Vse navedene hranilne vrednosti so zgolj približne ocene za običajno porcijo in se lahko razlikujejo glede na dejansko velikost porcije in način priprave."
   }
 }
