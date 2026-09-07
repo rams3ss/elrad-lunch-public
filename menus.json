@@ -1,51 +1,51 @@
 {
   "status": "ok",
-  "updated_at": "2026-09-06T05:13:53.564689+00:00",
-  "menu_date": "07. 09. 2026",
+  "updated_at": "2026-09-07T05:22:23.596829+00:00",
+  "menu_date": "08. 09. 2026",
   "model": "gemini-3.5-flash-lite",
-  "source_file": "menus-2026-09-06_05-13-28.json",
+  "source_file": "menus-2026-09-07_05-22-00.json",
   "menus": [
     {
       "index": 1,
-      "text": "MENI KLASIK - KROMPIRJEVA OMAKA(Gpš, Z) KUHANA HRENOVKA"
+      "text": "MENI KLASIK - SESEKLJANI ZREZEK(Gpš, J, Z) PIRE KROMPIR(L), STROČJI FIŽOL V OMAKI(Gpš, Z)"
     },
     {
       "index": 2,
-      "text": "MENI VEGI - PISANA MEHIŠKA RIŽOTA (koruza, fižol, paprika..)"
+      "text": "MENI VEGI - OCVRTI ŠAMPINJONI NA KREMNI KORUZNI POLENTI(Gpš, J, L, Z)"
     },
     {
       "index": 3,
-      "text": "SOLATNI KROŽNIK - SOLATNI KROŽNIK S PRŠUTOM IN MELONO (sezonska solata, rukola,češ. paradižnik, olive, koruza, paprika, por)"
+      "text": "HLADNI MENI - 2X SENDVIČ S SALAMO, SIROM (Gpš, L) SADJE, JOGURT"
     },
     {
       "index": 4,
-      "text": "HLADNI MENI - V.P. SALAMA, KRUH, SADJE, NAMAZ, JOGURT"
+      "text": "MALICA SADNO MLEČNA - Skuta z grškim jogurtom, banane, melone, grozdje, granola, ananas (Oo, Om, L, Go)"
     },
     {
       "index": 5,
-      "text": "MALICA VAROVALNA - DUŠEN PIŠČANČJI ZREZEK KUHAN KROMPIR S KORENJEM"
+      "text": "MALICA VAROVALNA - SLADKO ZELJE S SVINJSKIM MESOM (Gpš, Z, L), PUDING"
     }
   ],
   "analysis": {
     "recommended": {
-      "menu_index": 5,
-      "name": "MALICA VAROVALNA - DUŠEN PIŠČANČJI ZREZEK KUHAN KROMPIR S KORENJEM",
+      "menu_index": 4,
+      "name": "MALICA SADNO MLEČNA - Skuta z grškim jogurtom, banane, melone, grozdje, granola, ananas",
       "calories_kcal": 450,
-      "protein_g": 35.0,
-      "carbohydrates_g": 45.0,
+      "protein_g": 25.0,
+      "carbohydrates_g": 60.0,
       "fat_g": 12.0,
-      "reason": "Dušen piščančji zrezek in kuhan krompir s korenjem predstavljata najbolj uravnotežen, pust in neocvrt obrok z visoko vsebnostjo kakovostnih beljakovin ter zelenjavo."
+      "reason": "Vsebuje veliko kakovostnih beljakovin iz skute in grškega jogurta ter sveže sadje, ki prinaša vlaknine in vitamine brez dodanega belega sladkorja ali cvrtja."
     },
     "alternative": {
-      "menu_index": 2,
-      "name": "MENI VEGI - PISANA MEHIŠKA RIŽOTA (koruza, fižol, paprika..)",
-      "calories_kcal": 480,
-      "protein_g": 14.0,
-      "carbohydrates_g": 75.0,
-      "fat_g": 10.0,
-      "reason": "Mehiška rižota s fižolom in koruzo je dobra rastlinska alternativa z dobrim deležem vlaknin in rastlinskih beljakovin, čeprav je obrok ogljikohidratno bogatejši."
+      "menu_index": 1,
+      "name": "MENI KLASIK - SESEKLJANI ZREZEK, PIRE KROMPIR, STROČJI FIŽOL V OMAKI",
+      "calories_kcal": 680,
+      "protein_g": 32.0,
+      "carbohydrates_g": 65.0,
+      "fat_g": 30.0,
+      "reason": "Klasičen topel obrok, ki vsebuje vir mesa in zelenjavno prilogo v obliki stročjega fižola, vendar ima več vsebnosti maščob in predelanega mesa."
     },
-    "summary": "Današnja ponudba vključuje mešanico predelanega mesa, zelenjavno-žitnih jedi in lažjih mesnih ter solatnih opcij.",
-    "disclaimer": "Vse navedene hranilne vrednosti so zgolj približne ocene za običajno porcijo in se lahko razlikujejo glede na dejansko velikost porcije in način priprave."
+    "summary": "Današnja ponudba vključuje mešanico klasičnih mesnih jedi, ocvrtih gob, sendvičev, sadno-mlečne malice in enolončnice, pri čemer izstopa sadno-mlečna malica kot najbolj uravnotežena izbira.",
+    "disclaimer": "Vse navedene hranilne vrednosti so le približne ocene za običajno porcijo in se lahko razlikujejo glede na dejansko velikost porcije in način priprave."
   }
 }
