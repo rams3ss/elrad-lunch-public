@@ -1,26 +1,26 @@
 {
   "status": "ok",
-  "updated_at": "2026-09-08T05:25:13.565741+00:00",
-  "menu_date": "09. 09. 2026",
+  "updated_at": "2026-09-09T05:27:45.171084+00:00",
+  "menu_date": "10. 09. 2026",
   "model": "gemini-3.5-flash-lite",
   "recommended": {
-    "menu_index": 3,
-    "name": "SOLATNI KROŽNIK - VEČ VRST SVEŽE ZELENJAVE",
-    "calories_kcal": 250,
-    "protein_g": 8.0,
-    "carbohydrates_g": 30.0,
-    "fat_g": 10.0,
-    "reason": "Solatni krožnik vsebuje največ sveže zelenjave, vlaknin in mikronutrientov ter najmanj predelanih sestavin in maščob med ponujenimi meniji."
+    "menu_index": 5,
+    "name": "MALICA VAROVALNA - PEČEN SVINJSKI ZREZEK AJDOVA KAŠA, GRAH NA MASLU",
+    "calories_kcal": 550,
+    "protein_g": 35.0,
+    "carbohydrates_g": 50.0,
+    "fat_g": 22.0,
+    "reason": "Uravnotežen obrok z virom pustih beljakovin ter polnozrnato ajdovo kašo, ki zagotavlja kakovostne ogljikove hidrate in vlaknine."
   },
   "alternative": {
     "menu_index": 1,
-    "name": "MENI KLASIK - PEČENA PIŠČANČJA BEDRA RIŽ, NARAVNA OMAKA",
-    "calories_kcal": 650,
-    "protein_g": 45.0,
-    "carbohydrates_g": 70.0,
-    "fat_g": 20.0,
-    "reason": "Piščančja bedra in riž nudijo dober vir pustih beljakovin in kompleksnih ogljikovih hidratov, vendar imajo več kalorij in maščob kot čista zelenjava."
+    "name": "MENI KLASIK - MAKARONOVO MESO (puranje meso)",
+    "calories_kcal": 600,
+    "protein_g": 28.0,
+    "carbohydrates_g": 75.0,
+    "fat_g": 18.0,
+    "reason": "Uporaba puranjega mesa predstavlja lažjo izbiro mesa, čeprav je obrok bogatejši z rafiniranimi ogljikovimi hidrati v obliki testenin."
   },
-  "summary": "Ponudba vključuje klasične mesne jedi, pekovske izdelke, juho in solatni krožnik z različnimi prehranskimi profili.",
-  "disclaimer": "Vse navedene hranilne vrednosti so približne ocene za običajno porcijo v menzi."
+  "summary": "Današnja ponudba vsebuje mešanico mesnih, vegetarijanskih in sladkih jedi, pri čemer izstopa varovalni meni z ajdovo kašo kot najbolj polnovredna izbira.",
+  "disclaimer": "Vse navedene hranilne vrednosti so zgolj približne ocene za običajno porcijo."
 }
