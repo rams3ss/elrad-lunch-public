@@ -1,51 +1,51 @@
 {
   "status": "ok",
-  "updated_at": "2026-09-09T05:27:45.171084+00:00",
-  "menu_date": "10. 09. 2026",
+  "updated_at": "2026-09-10T05:25:01.675121+00:00",
+  "menu_date": "11. 09. 2026",
   "model": "gemini-3.5-flash-lite",
-  "source_file": "menus-2026-09-09_05-27-23.json",
+  "source_file": "menus-2026-09-10_05-24-38.json",
   "menus": [
     {
       "index": 1,
-      "text": "MENI KLASIK - MAKARONOVO MESO(Gpš, J, Z, SO2) (puranje meso)"
+      "text": "MENI KLASIK - ČEVAPČIČI, ŽAR PRILOGA, PEČEN KROMPIR"
     },
     {
       "index": 2,
-      "text": "MENI VEGI - MARELIČNI CMOKI(Gpš, J, L) SADNA OMAKA, KOMPOT"
+      "text": "MENI VEGI - ČIČERIKIN GOLAŽ Z ZELENJAVO IN ŽLIČNIKI(Gpš, J, Z), PIŠKOTEK(Gpš, J, L)"
     },
     {
       "index": 3,
-      "text": "HLADNI MENI - V.P.PARIŠKA SALAMA, KRUH, SADJE, JOGURT"
+      "text": "SOLATNI KROŽNIK - SOL. KROŽNIK S PIŠČ. NUGGETSI (zelena solata, grška solata, piščančji nuggetsi (Gpš,J,L)"
     },
     {
       "index": 4,
-      "text": "MALICA SADNO MLEČNA - Skuta z grškim jogurtom, banane, melone, grozdje, granola, ananas (Oo, Om, L, Go)"
+      "text": "HLADNI MENI - V.P.GOVEJA SALAMA, KRUH, NAMAZ, JOGURT,SADJE"
     },
     {
       "index": 5,
-      "text": "MALICA VAROVALNA - PEČEN SVINJSKI ZREZEK AJDOVA KAŠA, GRAH NA MASLU (L)"
+      "text": "MALICA VAROVALNA - RIBJI BRODET(R1, M, SO2, Z) KORUZNA POLENTA"
     }
   ],
   "analysis": {
     "recommended": {
       "menu_index": 5,
-      "name": "MALICA VAROVALNA - PEČEN SVINJSKI ZREZEK AJDOVA KAŠA, GRAH NA MASLU",
-      "calories_kcal": 550,
-      "protein_g": 35.0,
-      "carbohydrates_g": 50.0,
-      "fat_g": 22.0,
-      "reason": "Uravnotežen obrok z virom pustih beljakovin ter polnozrnato ajdovo kašo, ki zagotavlja kakovostne ogljikove hidrate in vlaknine."
+      "name": "MALICA VAROVALNA - RIBJI BRODET KORUZNA POLENTA",
+      "calories_kcal": 480,
+      "protein_g": 32.0,
+      "carbohydrates_g": 55.0,
+      "fat_g": 12.0,
+      "reason": "Ribji brodet s polento predstavlja najbolj zdrav obrok v ponudbi z visoko vsebnostjo kakovostnih beljakovin in zdravih maščob iz rib ter minimalno stopnjo predelave."
     },
     "alternative": {
-      "menu_index": 1,
-      "name": "MENI KLASIK - MAKARONOVO MESO (puranje meso)",
-      "calories_kcal": 600,
-      "protein_g": 28.0,
-      "carbohydrates_g": 75.0,
+      "menu_index": 2,
+      "name": "MENI VEGI - ČIČERIKIN GOLAŽ Z ZELENJAVO IN ŽLIČNIKI, PIŠKOTEK",
+      "calories_kcal": 620,
+      "protein_g": 22.0,
+      "carbohydrates_g": 85.0,
       "fat_g": 18.0,
-      "reason": "Uporaba puranjega mesa predstavlja lažjo izbiro mesa, čeprav je obrok bogatejši z rafiniranimi ogljikovimi hidrati v obliki testenin."
+      "reason": "Čičerikin golaž z zelenjavo je dober rastlinski vir vlaknin in beljakovin, vendar ima obrok zaradi žličnikov in priloženega piškotka višjo vsebnost ogljikovih hidratov."
     },
-    "summary": "Današnja ponudba vsebuje mešanico mesnih, vegetarijanskih in sladkih jedi, pri čemer izstopa varovalni meni z ajdovo kašo kot najbolj polnovredna izbira.",
-    "disclaimer": "Vse navedene hranilne vrednosti so zgolj približne ocene za običajno porcijo."
+    "summary": "Današnja ponudba vključuje mesne, ribje, vegetarijanske in predelane menije z različnimi stopnjami hranilne vrednosti.",
+    "disclaimer": "Vse navedene hranilne vrednosti so približne ocene za običajno porcijo v menzi."
   }
 }
