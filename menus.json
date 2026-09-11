@@ -1,51 +1,51 @@
 {
   "status": "ok",
-  "updated_at": "2026-09-10T05:25:01.675121+00:00",
-  "menu_date": "11. 09. 2026",
+  "updated_at": "2026-09-11T05:23:04.589843+00:00",
+  "menu_date": "14. 09. 2026",
   "model": "gemini-3.5-flash-lite",
-  "source_file": "menus-2026-09-10_05-24-38.json",
+  "source_file": "menus-2026-09-11_05-22-26.json",
   "menus": [
     {
       "index": 1,
-      "text": "MENI KLASIK - ČEVAPČIČI, ŽAR PRILOGA, PEČEN KROMPIR"
+      "text": "MENI KLASIK - CIGANSKI GOLAŽ(Gpš, Z, SO2), (svinjsko, goveje meso in prekajeno meso) SADJE"
     },
     {
       "index": 2,
-      "text": "MENI VEGI - ČIČERIKIN GOLAŽ Z ZELENJAVO IN ŽLIČNIKI(Gpš, J, Z), PIŠKOTEK(Gpš, J, L)"
+      "text": "MENI VEGI - ENOLONČNICA Z LEČO IN SLADKIM KROMPIRJEM (Gpš, Gje, Z), NAVADNI JOGURT"
     },
     {
       "index": 3,
-      "text": "SOLATNI KROŽNIK - SOL. KROŽNIK S PIŠČ. NUGGETSI (zelena solata, grška solata, piščančji nuggetsi (Gpš,J,L)"
+      "text": "SOLATNI KROŽNIK - SOVITA (podloga zelene solate,riževa solata z zelenjavo, fižolova solata s čičeriko, pečena hrenovka)(Gpš, J, GS, L)"
     },
     {
       "index": 4,
-      "text": "HLADNI MENI - V.P.GOVEJA SALAMA, KRUH, NAMAZ, JOGURT,SADJE"
+      "text": "HLADNI MENI - V.P. SALAMA, KRUH, SADJE, NAMAZ, JOGURT"
     },
     {
       "index": 5,
-      "text": "MALICA VAROVALNA - RIBJI BRODET(R1, M, SO2, Z) KORUZNA POLENTA"
+      "text": "MALICA VAROVALNA - PEČENA PIŠČANČJA PRSA(GS) PRAŽEN KROMPIR"
     }
   ],
   "analysis": {
     "recommended": {
-      "menu_index": 5,
-      "name": "MALICA VAROVALNA - RIBJI BRODET KORUZNA POLENTA",
-      "calories_kcal": 480,
-      "protein_g": 32.0,
-      "carbohydrates_g": 55.0,
-      "fat_g": 12.0,
-      "reason": "Ribji brodet s polento predstavlja najbolj zdrav obrok v ponudbi z visoko vsebnostjo kakovostnih beljakovin in zdravih maščob iz rib ter minimalno stopnjo predelave."
+      "menu_index": 2,
+      "name": "MENI VEGI - ENOLONČNICA Z LEČO IN SLADKIM KROMPIRJEM, NAVADNI JOGURT",
+      "calories_kcal": 450,
+      "protein_g": 22.5,
+      "carbohydrates_g": 65.0,
+      "fat_g": 8.0,
+      "reason": "Leča in sladki krompir zagotavljata veliko vlaknin, rastlinskih beljakovin in kakovostnih ogljikovih hidratov z nizko stopnjo predelave."
     },
     "alternative": {
-      "menu_index": 2,
-      "name": "MENI VEGI - ČIČERIKIN GOLAŽ Z ZELENJAVO IN ŽLIČNIKI, PIŠKOTEK",
-      "calories_kcal": 620,
-      "protein_g": 22.0,
-      "carbohydrates_g": 85.0,
-      "fat_g": 18.0,
-      "reason": "Čičerikin golaž z zelenjavo je dober rastlinski vir vlaknin in beljakovin, vendar ima obrok zaradi žličnikov in priloženega piškotka višjo vsebnost ogljikovih hidratov."
+      "menu_index": 5,
+      "name": "MALICA VAROVALNA - PEČENA PIŠČANČJA PRSA PRAŽEN KROMPIR",
+      "calories_kcal": 520,
+      "protein_g": 38.0,
+      "carbohydrates_g": 45.0,
+      "fat_g": 20.0,
+      "reason": "Pusto piščančje meso jeli odličen vir visoko kakovostnih beljakovin z manj maščobami, čeprav je priloga nekoliko bolj mastna."
     },
-    "summary": "Današnja ponudba vključuje mesne, ribje, vegetarijanske in predelane menije z različnimi stopnjami hranilne vrednosti.",
-    "disclaimer": "Vse navedene hranilne vrednosti so približne ocene za običajno porcijo v menzi."
+    "summary": "Današnja ponudba ponuja nekaj mesnih klasik, varovalni obrok s piščancem ter hranilno bogato rastlinsko enolončnico z lečo.",
+    "disclaimer": "Vse navedene hranilne vrednosti so zgolj približne ocene za običajno porcijo v menzi."
   }
 }
