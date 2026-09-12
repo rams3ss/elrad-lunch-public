@@ -1,51 +1,51 @@
 {
   "status": "ok",
-  "updated_at": "2026-09-11T05:23:04.589843+00:00",
-  "menu_date": "14. 09. 2026",
+  "updated_at": "2026-09-12T05:14:11.035094+00:00",
+  "menu_date": "15. 09. 2026",
   "model": "gemini-3.5-flash-lite",
-  "source_file": "menus-2026-09-11_05-22-26.json",
+  "source_file": "menus-2026-09-12_05-13-32.json",
   "menus": [
     {
       "index": 1,
-      "text": "MENI KLASIK - CIGANSKI GOLAŽ(Gpš, Z, SO2), (svinjsko, goveje meso in prekajeno meso) SADJE"
+      "text": "MENI KLASIK - ŠPAGETI PO BOLONJSKO(Gpš, Z, J, SO2)"
     },
     {
       "index": 2,
-      "text": "MENI VEGI - ENOLONČNICA Z LEČO IN SLADKIM KROMPIRJEM (Gpš, Gje, Z), NAVADNI JOGURT"
+      "text": "MENI VEGI - MLEČNE KUMARE(L) (hladne) SLAN KROMPIR, POLNOZRNATA ŽEMLJA(Gpš)"
     },
     {
       "index": 3,
-      "text": "SOLATNI KROŽNIK - SOVITA (podloga zelene solate,riževa solata z zelenjavo, fižolova solata s čičeriko, pečena hrenovka)(Gpš, J, GS, L)"
+      "text": "HLADNI MENI - 2X SENDVIČ S SALAMO,SIROM (Gpš, L), SADJE, JOGURT"
     },
     {
       "index": 4,
-      "text": "HLADNI MENI - V.P. SALAMA, KRUH, SADJE, NAMAZ, JOGURT"
+      "text": "MALICA SADNO MLEČNA - Skuta z grškim jogurtom, banane, melone, grozdje, granola, ananas (Oo, Om, L, Go)"
     },
     {
       "index": 5,
-      "text": "MALICA VAROVALNA - PEČENA PIŠČANČJA PRSA(GS) PRAŽEN KROMPIR"
+      "text": "MALICA VAROVALNA - PEČEN SVINJSKI ZREZEK,(GS) PEČENE BUČKE, JEŠPRENOVA KAŠA(Gje)"
     }
   ],
   "analysis": {
     "recommended": {
-      "menu_index": 2,
-      "name": "MENI VEGI - ENOLONČNICA Z LEČO IN SLADKIM KROMPIRJEM, NAVADNI JOGURT",
-      "calories_kcal": 450,
-      "protein_g": 22.5,
-      "carbohydrates_g": 65.0,
-      "fat_g": 8.0,
-      "reason": "Leča in sladki krompir zagotavljata veliko vlaknin, rastlinskih beljakovin in kakovostnih ogljikovih hidratov z nizko stopnjo predelave."
+      "menu_index": 5,
+      "name": "MALICA VAROVALNA - PEČEN SVINJSKI ZREZEK, PEČENE BUČKE, JEŠPRENOVA KAŠA",
+      "calories_kcal": 550,
+      "protein_g": 38.0,
+      "carbohydrates_g": 52.0,
+      "fat_g": 18.0,
+      "reason": "Ta obrok je najbolj uravnotežen, saj vsebuje pusto meso, zelenjavo in polnovredna žita z veliko vlakninami."
     },
     "alternative": {
-      "menu_index": 5,
-      "name": "MALICA VAROVALNA - PEČENA PIŠČANČJA PRSA PRAŽEN KROMPIR",
-      "calories_kcal": 520,
-      "protein_g": 38.0,
-      "carbohydrates_g": 45.0,
-      "fat_g": 20.0,
-      "reason": "Pusto piščančje meso jeli odličen vir visoko kakovostnih beljakovin z manj maščobami, čeprav je priloga nekoliko bolj mastna."
+      "menu_index": 2,
+      "name": "MENI VEGI - MLEČNE KUMARE (hladne) SLAN KROMPIR, POLNOZRNATA ŽEMLJA",
+      "calories_kcal": 480,
+      "protein_g": 16.0,
+      "carbohydrates_g": 78.0,
+      "fat_g": 12.0,
+      "reason": "Dobra vegetarijanska izbira s polnozrnato žemljo in krompirjem, vendar z manj beljakovinami."
     },
-    "summary": "Današnja ponudba ponuja nekaj mesnih klasik, varovalni obrok s piščancem ter hranilno bogato rastlinsko enolončnico z lečo.",
-    "disclaimer": "Vse navedene hranilne vrednosti so zgolj približne ocene za običajno porcijo v menzi."
+    "summary": "Ponudba vključuje raznolike menije od testenin in sendvičev do bolj uravnoteženih mesnih in zelenjavnih jedi.",
+    "disclaimer": "Navedene hranilne vrednosti so zgolj približne ocene za običajno porcijo."
   }
 }
