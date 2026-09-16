@@ -1,51 +1,51 @@
 {
   "status": "ok",
-  "updated_at": "2026-09-15T05:32:37.958670+00:00",
-  "menu_date": "16. 09. 2026",
+  "updated_at": "2026-09-16T05:25:07.765718+00:00",
+  "menu_date": "17. 09. 2026",
   "model": "gemini-3.5-flash-lite",
-  "source_file": "menus-2026-09-15_05-32-05.json",
+  "source_file": "menus-2026-09-16_05-24-40.json",
   "menus": [
     {
       "index": 1,
-      "text": "MENI KLASIK - PEČENA PIŠČANČJA BEDRA(GS) RIŽ"
+      "text": "MENI KLASIK - PIŠČANČJI DUNAJSKI ZREZEK(Gpš, J) FRANCOSKA SOLATA(J)"
     },
     {
       "index": 2,
-      "text": "MENI VEGI - SOJINI POLPETI(Gpš, S, J), PIRE KROMPIR(L) GRAHOVA PRIKUHA(Gpš, L, Z)"
+      "text": "MENI VEGI - CARSKI PRAŽENEC(Gpš, J, L) KOMPOT, SADNA OMAKA"
     },
     {
       "index": 3,
-      "text": "SOLATNI KROŽNIK - VEČ VRST SVEŽE ZELENJAVE"
+      "text": "HLADNI MENI - V.P.LJUBLJANSKA SALAMA, KRUH, SADJE, JOGURT, NAMAZ"
     },
     {
       "index": 4,
-      "text": "HLADNI MENI - V.P.MORTADELA, KRUH, SADJE, NAMAZ, JOGURT"
+      "text": "MALICA SADNO MLEČNA - Skuta z grškim jogurtom, banane, melone, grozdje, granola, ananas (Oo, Om, L, Go)"
     },
     {
       "index": 5,
-      "text": "MALICA VAROVALNA - POLNOZRNATE TESTENINE Z TUNINO OMAKO(Gpš, Z, R1, Gpš)"
+      "text": "MALICA VAROVALNA - SLADKO ZELJE S KROMPIRJEM(Gpš, L, Z) KUHANA GOVEDINA, HREN(L)"
     }
   ],
   "analysis": {
     "recommended": {
       "menu_index": 5,
-      "name": "MALICA VAROVALNA - POLNOZRNATE TESTENINE Z TUNINO OMAKO",
-      "calories_kcal": 550,
-      "protein_g": 32.0,
-      "carbohydrates_g": 65.0,
-      "fat_g": 14.0,
-      "reason": "Vsebuje polnozrnate testenine z več vlakninami in tuno kot vir kakovostnih beljakovin ter zdravih maščob."
+      "name": "MALICA VAROVALNA - SLADKO ZELJE S KROMPIRJEM, KUHANA GOVEDINA, HREN",
+      "calories_kcal": 480,
+      "protein_g": 35.0,
+      "carbohydrates_g": 42.0,
+      "fat_g": 18.0,
+      "reason": "Najbolj zdrav in uravnotežen obrok, ki vsebuje pusto kuhano govedino, zelenjavo in krompir, brez ocvrtih sestavin ali dodanih predelanih maščob."
     },
     "alternative": {
-      "menu_index": 1,
-      "name": "MENI KLASIK - PEČENA PIŠČANČJA BEDRA RIŽ",
-      "calories_kcal": 620,
-      "protein_g": 38.0,
-      "carbohydrates_g": 60.0,
-      "fat_g": 22.0,
-      "reason": "Dobar vir pusta mesa in beljakovin, vendar z nekaj več maščobe zaradi pečenih piščančjih beder."
+      "menu_index": 4,
+      "name": "MALICA SADNO MLEČNA - Skuta z grškim jogurtom, banane, melone, grozdje, granola, ananas",
+      "calories_kcal": 420,
+      "protein_g": 28.0,
+      "carbohydrates_g": 55.0,
+      "fat_g": 10.0,
+      "reason": "Dobra in osvežilna alternativa z visokim deležem beljakovin iz skute in jogurta ter vlaknin iz sadja, čeprav vsebuje več ogljikovih hidratov."
     },
-    "summary": "Današnja ponudba vključuje mešanico mesnih, vegetarijanskih in lažjih obrokov z varovalnimi lastnostmi.",
-    "disclaimer": "Hranilne vrednosti so približne ocene in se lahko razlikujejo glede na dejansko velikost porcije in način priprave."
+    "summary": "Današnja ponudba ponuja raznolike menije, med katerimi izstopata varovalna malica s pustim mesom ter sadno-mlečna skuta kot lahkotnejši obrok.",
+    "disclaimer": "Vse navedene hranilne vrednosti so zgolj približne ocene za običajno porcijo menze."
   }
 }
