@@ -1,21 +1,21 @@
 {
   "status": "ok",
-  "updated_at": "2026-09-16T05:25:07.765718+00:00",
-  "menu_date": "17. 09. 2026",
+  "updated_at": "2026-09-17T05:34:45.712384+00:00",
+  "menu_date": "22. 09. 2026",
   "model": "gemini-3.5-flash-lite",
-  "source_file": "menus-2026-09-16_05-24-40.json",
+  "source_file": "menus-2026-09-17_05-33-55.json",
   "menus": [
     {
       "index": 1,
-      "text": "MENI KLASIK - PIŠČANČJI DUNAJSKI ZREZEK(Gpš, J) FRANCOSKA SOLATA(J)"
+      "text": "MENI KLASIK - PASULJ S KLOBASO(Gpš, Z)"
     },
     {
       "index": 2,
-      "text": "MENI VEGI - CARSKI PRAŽENEC(Gpš, J, L) KOMPOT, SADNA OMAKA"
+      "text": "MENI VEGI - POLNOZRNATE TESTENINE S TARTUFATO (Gpš, J, L, Z)"
     },
     {
       "index": 3,
-      "text": "HLADNI MENI - V.P.LJUBLJANSKA SALAMA, KRUH, SADJE, JOGURT, NAMAZ"
+      "text": "HLADNI MENI - 2X MINI PIZZA, JOGURT"
     },
     {
       "index": 4,
@@ -23,29 +23,29 @@
     },
     {
       "index": 5,
-      "text": "MALICA VAROVALNA - SLADKO ZELJE S KROMPIRJEM(Gpš, L, Z) KUHANA GOVEDINA, HREN(L)"
+      "text": "MALICA VAROVALNA - PEČEN SVINJSKI ZREZEK V MADŽARSKI OMAKI(Z, Gpš), AJDOVA KAŠA Z RIŽEM"
     }
   ],
   "analysis": {
     "recommended": {
-      "menu_index": 5,
-      "name": "MALICA VAROVALNA - SLADKO ZELJE S KROMPIRJEM, KUHANA GOVEDINA, HREN",
-      "calories_kcal": 480,
-      "protein_g": 35.0,
-      "carbohydrates_g": 42.0,
+      "menu_index": 2,
+      "name": "MENI VEGI - POLNOZRNate TESTENINE S TARTUFATO",
+      "calories_kcal": 520,
+      "protein_g": 16.0,
+      "carbohydrates_g": 75.0,
       "fat_g": 18.0,
-      "reason": "Najbolj zdrav in uravnotežen obrok, ki vsebuje pusto kuhano govedino, zelenjavo in krompir, brez ocvrtih sestavin ali dodanih predelanih maščob."
+      "reason": "Polnozrnate testenine nudijo več vlaknin in trajnejšo energijo ter se izogibajo predelanemu mesu in težkim omakam."
     },
     "alternative": {
-      "menu_index": 4,
-      "name": "MALICA SADNO MLEČNA - Skuta z grškim jogurtom, banane, melone, grozdje, granola, ananas",
-      "calories_kcal": 420,
-      "protein_g": 28.0,
-      "carbohydrates_g": 55.0,
-      "fat_g": 10.0,
-      "reason": "Dobra in osvežilna alternativa z visokim deležem beljakovin iz skute in jogurta ter vlaknin iz sadja, čeprav vsebuje več ogljikovih hidratov."
+      "menu_index": 5,
+      "name": "MALICA VAROVALNA - PEČEN SVINJSKI ZREZEK V MADŽARSKI OMAKI, AJDOVA KAŠA Z RIŽEM",
+      "calories_kcal": 580,
+      "protein_g": 35.0,
+      "carbohydrates_g": 60.0,
+      "fat_g": 20.0,
+      "reason": "Ajdova kaša z rižem je dober vir kompleksnih ogljikovih hidratov, mesna jed pa prinaša večjo vsebnost beljakovin, čeprav je omaka nekoliko mastna."
     },
-    "summary": "Današnja ponudba ponuja raznolike menije, med katerimi izstopata varovalna malica s pustim mesom ter sadno-mlečna skuta kot lahkotnejši obrok.",
-    "disclaimer": "Vse navedene hranilne vrednosti so zgolj približne ocene za običajno porcijo menze."
+    "summary": "Ponudba vključuje tradicionalne jedi z mesom, testenine, hitro hrano in lažjo mlečno malico, pri čemer so vrednosti le približne ocene.",
+    "disclaimer": "Vse navedene hranilne vrednosti so zgolj približne ocene in se lahko razlikujejo glede na dejansko velikost porcije in način priprave."
   }
 }
