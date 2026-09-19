@@ -1,0 +1,26 @@
+{
+  "status": "ok",
+  "updated_at": "2026-09-19T05:14:26.709969+00:00",
+  "menu_date": "22. 09. 2026",
+  "model": "gemini-3.5-flash-lite",
+  "recommended": {
+    "menu_index": 2,
+    "name": "MENI VEGI - POLNOZRNATE TESTENINE S TARTUFATO",
+    "calories_kcal": 550,
+    "protein_g": 18.0,
+    "carbohydrates_g": 75.0,
+    "fat_g": 18.0,
+    "reason": "Polnozrnate testenine nudijo več vlaknin in trajnostne energije ter se izogibajo predelanemu mesu in mastnim omakam."
+  },
+  "alternative": {
+    "menu_index": 4,
+    "name": "MALICA SADNO MLEČNA - Skuta z grškim jogurtom, banane, melone, grozdje, granola, ananas",
+    "calories_kcal": 420,
+    "protein_g": 25.0,
+    "carbohydrates_g": 55.0,
+    "fat_g": 10.0,
+    "reason": "Visoka vsebnost beljakovin iz mlečnih izdelkov ter naravnih vitaminov iz sadja, čeprav granola vsebuje dodane sladkorje."
+  },
+  "summary": "Ponudba vključuje težje mesne jedi, mastne predjedniške opcije ter eno bolj zdravo polnozrnato in eno mlečno-sadno možnost.",
+  "disclaimer": "Hranilne vrednosti so zgolj približne ocene za običajno porcijo v menzi."
+}
