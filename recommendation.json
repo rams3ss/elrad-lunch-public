@@ -1,26 +1,26 @@
 {
   "status": "ok",
-  "updated_at": "2026-09-19T05:14:26.709969+00:00",
-  "menu_date": "22. 09. 2026",
+  "updated_at": "2026-09-20T05:31:01.734960+00:00",
+  "menu_date": "21. 09. 2026",
   "model": "gemini-3.5-flash-lite",
   "recommended": {
-    "menu_index": 2,
-    "name": "MENI VEGI - POLNOZRNATE TESTENINE S TARTUFATO",
-    "calories_kcal": 550,
-    "protein_g": 18.0,
-    "carbohydrates_g": 75.0,
-    "fat_g": 18.0,
-    "reason": "Polnozrnate testenine nudijo več vlaknin in trajnostne energije ter se izogibajo predelanemu mesu in mastnim omakam."
+    "menu_index": 3,
+    "name": "Solatni krožnik s tuno, kuhanim jajcem in sirom",
+    "calories_kcal": 450,
+    "protein_g": 35.0,
+    "carbohydrates_g": 20.0,
+    "fat_g": 25.0,
+    "reason": "Ta obrok vsebuje ribe kot vir kakovostnih maščobnih kislin, jajca in sir za beljakovine ter veliko sveže zelenjave, kar zagotavlja visoko vsebnost vlaknin in hranil ob zmerni kalorični vrednosti."
   },
   "alternative": {
-    "menu_index": 4,
-    "name": "MALICA SADNO MLEČNA - Skuta z grškim jogurtom, banane, melone, grozdje, granola, ananas",
-    "calories_kcal": 420,
-    "protein_g": 25.0,
+    "menu_index": 5,
+    "name": "Malica varovalna - pečena piščančja bedra, pire krompir in naravna omaka",
+    "calories_kcal": 620,
+    "protein_g": 42.0,
     "carbohydrates_g": 55.0,
-    "fat_g": 10.0,
-    "reason": "Visoka vsebnost beljakovin iz mlečnih izdelkov ter naravnih vitaminov iz sadja, čeprav granola vsebuje dodane sladkorje."
+    "fat_g": 24.0,
+    "reason": "Dobra izbira s pustim mesom in domačim pire krompirjem, ki ponuja uravnotežen vnos beljakovin in ogljikovih hidratov, čeprav je nekoliko kaloričnejša."
   },
-  "summary": "Ponudba vključuje težje mesne jedi, mastne predjedniške opcije ter eno bolj zdravo polnozrnato in eno mlečno-sadno možnost.",
-  "disclaimer": "Hranilne vrednosti so zgolj približne ocene za običajno porcijo v menzi."
+  "summary": "Današnja ponudba vključuje mešanico mesnih in lažjih proteinskih obrokov, pri čemer izstopa solatni krožnik z ribami kot najbolj zdravorazumska in uravnotežena izbira.",
+  "disclaimer": "Vse navedene hranilne vrednosti so zgolj približne ocenjene vrednosti za običajno porcijo v menzi."
 }
