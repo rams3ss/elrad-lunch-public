@@ -1,9 +1,9 @@
 {
   "status": "ok",
-  "updated_at": "2026-09-26T05:40:01.281975+00:00",
+  "updated_at": "2026-09-27T05:56:23.541827+00:00",
   "menu_date": "28. 09. 2026",
   "model": "gemini-3.5-flash-lite",
-  "source_file": "menus-2026-09-26_05-39-32.json",
+  "source_file": "menus-2026-09-27_05-55-57.json",
   "menus": [
     {
       "index": 1,
@@ -30,22 +30,22 @@
     "recommended": {
       "menu_index": 3,
       "name": "SOLATNI KROŽNIK - SOLATA IZ SOLATNEGA BARA, PEČENI PIŠČANČJI TRAKCI",
-      "calories_kcal": 450,
+      "calories_kcal": 420,
       "protein_g": 38.0,
-      "carbohydrates_g": 20.0,
-      "fat_g": 15.0,
-      "reason": "Solatni krožnik s pusto piščančjo prsno mesom in zelenjavo predstavlja najbolj uravnotežen obrok z visokim deležem beljakovin, vlaknin in nizkim deležem nezdravih maščob."
+      "carbohydrates_g": 15.0,
+      "fat_g": 22.0,
+      "reason": "Odlična izbira zaradi visokega deleža pustih beljakovin iz piščanca ter sveže zelenjave iz solatnega bara, kar zagotavlja veliko vlaknin in nizko stopnjo predelave."
     },
     "alternative": {
       "menu_index": 1,
-      "name": "MENI KLASIK - RIŽOTA S PURANJIM MESOM",
-      "calories_kcal": 580,
-      "protein_g": 30.0,
-      "carbohydrates_g": 75.0,
-      "fat_g": 12.0,
-      "reason": "Rižota s puranjim mesom je dobra in lahko prebavljiva alternativa z vsebnostjo pustega mesa in zmerno količino maščob."
+      "name": "MENI KLASIK - RIŽOTA S PURanijem MESOM",
+      "calories_kcal": 550,
+      "protein_g": 28.0,
+      "carbohydrates_g": 65.0,
+      "fat_g": 14.0,
+      "reason": "Dobra in uravnotežena alternativa s pustom puranjim mesom in rižem, ki predstavlja klasičen ter razmeroma lahek topel obrok."
     },
-    "summary": "Današnja ponudba ponuja mešanico mesnih, zelenjavnih in predelanih jedi, pri čemer izstopa solatni krožnik s piščancem kot najbolj zdrav obrok.",
-    "disclaimer": "Vse navedene hranilne vrednosti so le približne ocene za običajno porcijo v menzi."
+    "summary": "Današnja ponudba ponuja dobro ravnovesje med toplimi mesnimi jedmi, zelenjavnimi možnostmi in solatnimi krožniki.",
+    "disclaimer": "Navedene hranilne vrednosti so le približne ocene za običajno porcijo v menzi in se lahko razlikujejo glede na dejansko količino ter način priprave."
   }
 }
