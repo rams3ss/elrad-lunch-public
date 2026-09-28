@@ -1,51 +1,51 @@
 {
   "status": "ok",
-  "updated_at": "2026-09-27T05:56:23.541827+00:00",
-  "menu_date": "28. 09. 2026",
+  "updated_at": "2026-09-28T06:02:42.543534+00:00",
+  "menu_date": "29. 09. 2026",
   "model": "gemini-3.5-flash-lite",
-  "source_file": "menus-2026-09-27_05-55-57.json",
+  "source_file": "menus-2026-09-28_06-02-14.json",
   "menus": [
     {
       "index": 1,
-      "text": "MENI KLASIK - RIŽOTA S PURANJIM MESOM(SO2, Z)"
+      "text": "MENI KLASIK - NADEVA PAPRIKA V PARADIŽNIKOVI OMAKI(Gpš, SO2, Z) PIRE KROMPIR(L)"
     },
     {
       "index": 2,
-      "text": "MENI VEGI - ZELENJAVNI RAGU(Z, Gpš) KRUHOV CMOK(Gpš, J, L, Z)"
+      "text": "MENI VEGI - SKUTNA ŠTRUKLJA ZABELENA Z DROBTINAMI(Gpš, J, L), KOMPOT"
     },
     {
       "index": 3,
-      "text": "SOLATNI KROŽNIK - SOLATA IZ SOLATNEGA BARA, PEČENI PIŠČANČJI TRAKCI"
+      "text": "HLADNI MENI - V.P.TIROLSKA SALAMA, KRUH, SADJE, NAMAZ, JOGURT"
     },
     {
       "index": 4,
-      "text": "HLADNI MENI - V.P. SALAMA, KRUH SADJE, NAMAZ, JOGURT"
+      "text": "MALICA SADNO MLEČNA - Skuta z grškim jogurtom, banane, melone, grozdje, granola, ananas (Oo, Om, L, Go)"
     },
     {
       "index": 5,
-      "text": "MALICA VAROVALNA - SVINJSKA PEČENKA(GS,Gpš) PRAŽEN KROMPIR"
+      "text": "MALICA VAROVALNA - PEČENA PIŠČANČJA PRSA(GS) AJDOVA KAŠA"
     }
   ],
   "analysis": {
     "recommended": {
-      "menu_index": 3,
-      "name": "SOLATNI KROŽNIK - SOLATA IZ SOLATNEGA BARA, PEČENI PIŠČANČJI TRAKCI",
-      "calories_kcal": 420,
-      "protein_g": 38.0,
-      "carbohydrates_g": 15.0,
-      "fat_g": 22.0,
-      "reason": "Odlična izbira zaradi visokega deleža pustih beljakovin iz piščanca ter sveže zelenjave iz solatnega bara, kar zagotavlja veliko vlaknin in nizko stopnjo predelave."
+      "menu_index": 5,
+      "name": "MALICA VAROVALNA - PEČENA PIŠČANČJA PRSA AJDOVA KAŠA",
+      "calories_kcal": 450,
+      "protein_g": 35.0,
+      "carbohydrates_g": 45.0,
+      "fat_g": 12.0,
+      "reason": "Ta obrok vsebuje pusto piščančje meso z visokim deležem kakovostnih beljakovin in ajdovo kašo, ki je vir kompleksnih ogljikovih hidratov in vlaknin, brez odvečnih maščob."
     },
     "alternative": {
       "menu_index": 1,
-      "name": "MENI KLASIK - RIŽOTA S PURanijem MESOM",
-      "calories_kcal": 550,
-      "protein_g": 28.0,
+      "name": "MENI KLASIK - POLNJENA PAPRIKA V PARADIŽNIKOVI OMAKI, PIRE KROMPIR",
+      "calories_kcal": 600,
+      "protein_g": 25.0,
       "carbohydrates_g": 65.0,
-      "fat_g": 14.0,
-      "reason": "Dobra in uravnotežena alternativa s pustom puranjim mesom in rižem, ki predstavlja klasičen ter razmeroma lahek topel obrok."
+      "fat_g": 22.0,
+      "reason": "Dobra tradicionalna izbira z mesom in zelenjavno paradižnikovo omako, vendar ima nekoliko več maščob in hidratov iz pire krompirja."
     },
-    "summary": "Današnja ponudba ponuja dobro ravnovesje med toplimi mesnimi jedmi, zelenjavnimi možnostmi in solatnimi krožniki.",
-    "disclaimer": "Navedene hranilne vrednosti so le približne ocene za običajno porcijo v menzi in se lahko razlikujejo glede na dejansko količino ter način priprave."
+    "summary": "Današnja ponudba vključuje različne menije, med katerimi izstopata pust piščanec s kašo kot najbolj uravnotežena izbira ter klasična polnjena paprika.",
+    "disclaimer": "Vse navedene hranilne vrednosti so zgolj približne ocene za običajno porcijo v menzi."
   }
 }
