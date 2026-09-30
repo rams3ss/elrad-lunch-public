@@ -1,51 +1,51 @@
 {
   "status": "ok",
-  "updated_at": "2026-09-29T06:20:50.560468+00:00",
-  "menu_date": "30. 09. 2026",
+  "updated_at": "2026-09-30T06:05:56.669856+00:00",
+  "menu_date": "01. 10. 2026",
   "model": "gemini-3.5-flash-lite",
-  "source_file": "menus-2026-09-29_06-20-21.json",
+  "source_file": "menus-2026-09-30_06-05-28.json",
   "menus": [
     {
       "index": 1,
-      "text": "MENI KLASIK - OCVRTI RIBJI FILE(Gpš, J, R1) KROMPIRJEVA SOLATA(GS), TATARSKA OMAKA(J)"
+      "text": "MENI KLASIK - REBRCA PO AMERIŠKO(GS) DUŠEN RIŽ"
     },
     {
       "index": 2,
-      "text": "MENI VEGI - GOLAŽ IZ STROČNIC(st.fižol,pisani fižol,grah)(Gpš, Z) NJOKI(SO2, Gpš, J)"
+      "text": "MENI VEGI - ZELENJAVNI POLPET(Gpš, J, Z, L) WOLCESTER OMAKA(S, GS, Gpš), KVINOJA"
     },
     {
       "index": 3,
-      "text": "SOLATNI KROŽNIK - VEČ VRST SVEŽE ZELENJAVE"
+      "text": "HLADNI MENI - V.P.KUHAN PRŠUT, KRUH, NAMAZ, SADJE, NAPITEK 0,2 dcl"
     },
     {
       "index": 4,
-      "text": "HLADNI MENI - 2X SENDVIČ S SALAMO IN SIROM, JOGURT(Gpš, L) SADJE"
+      "text": "MALICA SADNO MLEČNA - Skuta z grškim jogurtom, banane, melone, grozdje, granola, ananas (Oo, Om, L, Go)"
     },
     {
       "index": 5,
-      "text": "MALICA VAROVALNA - SVINJSKI ZREZEK PO CIGANSKO(Gpš, Z) TESTENINE(Gpš, J)"
+      "text": "MALICA VAROVALNA - PEČEN OSLIČ BREZ GLAVE(Gpš, R1) KUHANA ZELENJAVA S KUS KUSOM(Gku)"
     }
   ],
   "analysis": {
     "recommended": {
-      "menu_index": 2,
-      "name": "MENI VEGI - GOLAŽ IZ STROČNIC, NJOKI",
-      "calories_kcal": 550,
-      "protein_g": 22.5,
-      "carbohydrates_g": 85.0,
+      "menu_index": 5,
+      "name": "MALICA VAROVALNA - PEČEN OSLIČ BREZ GLAVE KUHANA ZELENJAVA S KUS KUSOM",
+      "calories_kcal": 450,
+      "protein_g": 35.0,
+      "carbohydrates_g": 50.0,
       "fat_g": 10.0,
-      "reason": "Stročnice prinašajo visoko vsebnost vlaknin in kakovostnih rastlinskih beljakovin z manj nasičenih maščob, kar je najbolj uravnotežena izbira v ponudbi."
+      "reason": "Riba je vir kakovostnih beljakovin in zdravih maščob, obrok vsebuje tudi kuhano zelenjavo ter polnovrednejše ogljikove hidrate."
     },
     "alternative": {
-      "menu_index": 3,
-      "name": "SOLATNI KROŽNIK - VEČ VRST SVEŽE ZELENJAVE",
-      "calories_kcal": 180,
-      "protein_g": 5.0,
-      "carbohydrates_g": 15.0,
-      "fat_g": 10.0,
-      "reason": "Odlična lahka alternativa z obilo vitaminov in vlaknin, vendar za popoln obrok priporočamo dodatek virov beljakovin."
+      "menu_index": 2,
+      "name": "MENI VEGI - ZELENJAVNI POLPET WOLCESTER OMAKA KVINOJA",
+      "calories_kcal": 500,
+      "protein_g": 18.0,
+      "carbohydrates_g": 65.0,
+      "fat_g": 15.0,
+      "reason": "Kvinoja in zelenjavni polpet predstavljata rastlinski vir beljakovin in vlaknin, vendar je obrok ogljikohidratno bogatejši."
     },
-    "summary": "Današnja ponudba vsebuje mešanico ocvrtih, mesnih in rastlinskih jedi, kjer izstopa stročnični golaž kot najbolj polnovredna izbira.",
-    "disclaimer": "Vse hranilne vrednosti so približne in služijo kot ocena za običajno porcijo v menzi."
+    "summary": "Današnja ponudba obsega meso, ribe, vegetarijansko izbiro, hladni obrok in sadno-mlečno malica, pri čemer izstopa ribji meni kot najbolj zdravju prijazen.",
+    "disclaimer": "Vse hranilne vrednosti so zgolj približne ocene za običajno porcijo."
   }
 }
