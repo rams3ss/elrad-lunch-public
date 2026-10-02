@@ -1,51 +1,51 @@
 {
   "status": "ok",
-  "updated_at": "2026-10-01T06:40:01.138968+00:00",
-  "menu_date": "02. 10. 2026",
+  "updated_at": "2026-10-02T06:24:00.873458+00:00",
+  "menu_date": "05. 10. 2026",
   "model": "gemini-3.5-flash-lite",
-  "source_file": "menus-2026-10-01_06-39-14.json",
+  "source_file": "menus-2026-10-02_06-23-21.json",
   "menus": [
     {
       "index": 1,
-      "text": "MENI KLASIK - PEČEN PIŠČANČJI ZREZEK S SIROM(L) POMMES FRITES"
+      "text": "MENI KLASIK - MESNA LAZANIJA(Gpš, J, L, SO2)"
     },
     {
       "index": 2,
-      "text": "MENI VEGI - KREMNA ŠPINAČA (Gpš, L, Z) PIRE KROMPIR(L), 2X KUHANO JAJCE(J)"
+      "text": "MENI VEGI - SATARAŠ(J)"
     },
     {
       "index": 3,
-      "text": "SOLATNI KROŽNIK - SOLATA IZ SOLATNEGA BARA, PEČENA SLANINA, JOGURTOV PRELIV(L)"
+      "text": "SOLATNI KROŽNIK - SOLATA IZ SOLATNEGA BARA(sir na žaru, kuhano jajce)(J, L)"
     },
     {
       "index": 4,
-      "text": "HLADNI MENI - V.P.GOVEJA SALAMA, KRUH, SADJE, NAMAZ,JOGURT"
+      "text": "HLADNI MENI - V.P. SALAMA, KRUH, SADJE, NAMAZ, JOGURT"
     },
     {
       "index": 5,
-      "text": "MALICA VAROVALNA - TELEČJA ČORBA Z ŽLIČNIKI(Gpš, Z, SO2, J) SADJE"
+      "text": "MALICA VAROVALNA - DUŠEN SVINJSKI ZREZEK V GOBOVI OMAKI(L, Gpš) TRI ŽITA(Gje, Gpš, Gpi)"
     }
   ],
   "analysis": {
     "recommended": {
       "menu_index": 2,
-      "name": "MENI VEGI - KREMNA ŠPINAČA (Gpš, L, Z) PIRE KROMPIR(L), 2X KUHANO JAJCE(J)",
-      "calories_kcal": 520,
-      "protein_g": 22.5,
-      "carbohydrates_g": 55.0,
-      "fat_g": 24.0,
-      "reason": "Uravnotežen obrok z visoko vsebnostjo zelenjave, kakovostnimi beljakovinami iz jajc in brez predelanega mesa."
+      "name": "MENI VEGI - SATARAŠ",
+      "calories_kcal": 350,
+      "protein_g": 12,
+      "carbohydrates_g": 20,
+      "fat_g": 24,
+      "reason": "Sataraš je zelenjavna jed, ki temelji na paradižniku in papriki ter jajcih, kar zagotavlja dobro zelenjavno osnovo brez težkih mesnih omak ali ocvrtih sestavin."
     },
     "alternative": {
-      "menu_index": 5,
-      "name": "MALICA VAROVALNA - TELEČJA ČORBA Z ŽLIČNIKI(Gpš, Z, SO2, J) SADJE",
-      "calories_kcal": 410,
-      "protein_g": 24.0,
-      "carbohydrates_g": 42.0,
-      "fat_g": 16.0,
-      "reason": "Lahkotnejša juha s pustim mesom in dodanim sadjem, ki predstavlja dobro varovalno malico."
+      "menu_index": 3,
+      "name": "SOLATNI KROŽNIK - SOLATA IZ SOLATNEGA BARA",
+      "calories_kcal": 420,
+      "protein_g": 22,
+      "carbohydrates_g": 15,
+      "fat_g": 30,
+      "reason": "Solatni krožnik s sirom na žaru in kuhanim jajcem ponuja dober vir beljakovin in sveže zelenjave, vendar je zaradi sira lahko nekoliko bolj masten."
     },
-    "summary": "Današnja ponudba vsebuje mešanico klasičnih mesnih jedi, vegetarijanski meni in lažje varovalne možnosti.",
-    "disclaimer": "Hranilne vrednosti so zgolj ocena in so lahko približne glede na dejansko velikost porcij v menzi."
+    "summary": "Ponudba vključuje mesne jedi, zelenjavni sataraš, solatni krožnik ter varovalno malico s svinjino in žiti.",
+    "disclaimer": "Hranilne vrednosti so zgolj približne ocene, izračunane na podlagi tipičnih porcij."
   }
 }
