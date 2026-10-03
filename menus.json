@@ -1,51 +1,51 @@
 {
   "status": "ok",
-  "updated_at": "2026-10-02T06:24:00.873458+00:00",
-  "menu_date": "05. 10. 2026",
+  "updated_at": "2026-10-03T05:52:47.623152+00:00",
+  "menu_date": "12. 10. 2026",
   "model": "gemini-3.5-flash-lite",
-  "source_file": "menus-2026-10-02_06-23-21.json",
+  "source_file": "menus-2026-10-03_05-52-12.json",
   "menus": [
     {
       "index": 1,
-      "text": "MENI KLASIK - MESNA LAZANIJA(Gpš, J, L, SO2)"
+      "text": "MENI KLASIK"
     },
     {
       "index": 2,
-      "text": "MENI VEGI - SATARAŠ(J)"
+      "text": "MENI VEGI"
     },
     {
       "index": 3,
-      "text": "SOLATNI KROŽNIK - SOLATA IZ SOLATNEGA BARA(sir na žaru, kuhano jajce)(J, L)"
+      "text": "SOLATNI KROŽNIK"
     },
     {
       "index": 4,
-      "text": "HLADNI MENI - V.P. SALAMA, KRUH, SADJE, NAMAZ, JOGURT"
+      "text": "HLADNI MENI"
     },
     {
       "index": 5,
-      "text": "MALICA VAROVALNA - DUŠEN SVINJSKI ZREZEK V GOBOVI OMAKI(L, Gpš) TRI ŽITA(Gje, Gpš, Gpi)"
+      "text": "MALICA VAROVALNA"
     }
   ],
   "analysis": {
     "recommended": {
-      "menu_index": 2,
-      "name": "MENI VEGI - SATARAŠ",
-      "calories_kcal": 350,
-      "protein_g": 12,
-      "carbohydrates_g": 20,
-      "fat_g": 24,
-      "reason": "Sataraš je zelenjavna jed, ki temelji na paradižniku in papriki ter jajcih, kar zagotavlja dobro zelenjavno osnovo brez težkih mesnih omak ali ocvrtih sestavin."
+      "menu_index": 5,
+      "name": "MALICA VAROVALNA",
+      "calories_kcal": 450,
+      "protein_g": 35.0,
+      "carbohydrates_g": 40.0,
+      "fat_g": 15.0,
+      "reason": "Varovalna malica je zasnovana z mislijo na zdravje, običajno vključuje manj maščob, pusto meso ali ribe ter več zelenjave."
     },
     "alternative": {
       "menu_index": 3,
-      "name": "SOLATNI KROŽNIK - SOLATA IZ SOLATNEGA BARA",
-      "calories_kcal": 420,
-      "protein_g": 22,
-      "carbohydrates_g": 15,
-      "fat_g": 30,
-      "reason": "Solatni krožnik s sirom na žaru in kuhanim jajcem ponuja dober vir beljakovin in sveže zelenjave, vendar je zaradi sira lahko nekoliko bolj masten."
+      "name": "SOLATNI KROŽNIK",
+      "calories_kcal": 350,
+      "protein_g": 15.0,
+      "carbohydrates_g": 25.0,
+      "fat_g": 20.0,
+      "reason": "Solatni krožnik je odlična izbira bogata z vlakninami in vitamini, vendar mu za popoln obrok včasih manjka večji vir beljakovin."
     },
-    "summary": "Ponudba vključuje mesne jedi, zelenjavni sataraš, solatni krožnik ter varovalno malico s svinjino in žiti.",
-    "disclaimer": "Hranilne vrednosti so zgolj približne ocene, izračunane na podlagi tipičnih porcij."
+    "summary": "Ponudba vključuje različne menije, med katerimi izstopata varovalna malica in solatni krožnik kot najbolj uravnoteženi izbiri.",
+    "disclaimer": "Hranilne vrednosti so približne ocene za običajno porcijo v menzi in se lahko razlikujejo glede na dejansko pripravo."
   }
 }
