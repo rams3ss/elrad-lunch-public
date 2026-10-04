@@ -1,26 +1,26 @@
 {
   "status": "ok",
-  "updated_at": "2026-10-03T05:52:47.623152+00:00",
-  "menu_date": "12. 10. 2026",
+  "updated_at": "2026-10-04T06:29:05.287981+00:00",
+  "menu_date": "05. 10. 2026",
   "model": "gemini-3.5-flash-lite",
   "recommended": {
-    "menu_index": 5,
-    "name": "MALICA VAROVALNA",
-    "calories_kcal": 450,
-    "protein_g": 35.0,
-    "carbohydrates_g": 40.0,
-    "fat_g": 15.0,
-    "reason": "Varovalna malica je zasnovana z mislijo na zdravje, običajno vključuje manj maščob, pusto meso ali ribe ter več zelenjave."
+    "menu_index": 2,
+    "name": "MENI VEGI - SATARAŠ",
+    "calories_kcal": 350,
+    "protein_g": 14.5,
+    "carbohydrates_g": 22.0,
+    "fat_g": 23.0,
+    "reason": "Sataraš temelji na dušeni zelenjavi in jajcih, kar zagotavlja veliko antioksidantov in dobrih beljakovin brez težkih mesnih omak ali ocvrte hrane."
   },
   "alternative": {
     "menu_index": 3,
-    "name": "SOLATNI KROŽNIK",
-    "calories_kcal": 350,
-    "protein_g": 15.0,
-    "carbohydrates_g": 25.0,
-    "fat_g": 20.0,
-    "reason": "Solatni krožnik je odlična izbira bogata z vlakninami in vitamini, vendar mu za popoln obrok včasih manjka večji vir beljakovin."
+    "name": "SOLATNI KROŽNIK - SOLATA IZ SOLATNEGA BARA",
+    "calories_kcal": 420,
+    "protein_g": 22.0,
+    "carbohydrates_g": 15.0,
+    "fat_g": 30.0,
+    "reason": "Solatni krožnik z dodanim sirom na žaru in kuhanim jajcem ponuja visok vnosa kakovostnih beljakovin ter vlaknin, čeprav je maščob zaradi sira nekaj več."
   },
-  "summary": "Ponudba vključuje različne menije, med katerimi izstopata varovalna malica in solatni krožnik kot najbolj uravnoteženi izbiri.",
-  "disclaimer": "Hranilne vrednosti so približne ocene za običajno porcijo v menzi in se lahko razlikujejo glede na dejansko pripravo."
+  "summary": "Današnja ponudba vključuje več klasičnih mesnih in predelanih jedi, a izstopata zelenjavni sataraš in bogat solatni krožnik kot najbolj uravnoteženi izbiri.",
+  "disclaimer": "Vse hranilne vrednosti so zgolj ocena za običajno porcijo in se lahko razlikujejo glede na dejansko pripravo ter velikost obroka."
 }
