@@ -1,51 +1,51 @@
 {
   "status": "ok",
-  "updated_at": "2026-10-06T06:57:55.427797+00:00",
-  "menu_date": "07. 10. 2026",
+  "updated_at": "2026-10-07T06:39:24.329131+00:00",
+  "menu_date": "08. 10. 2026",
   "model": "gemini-3.5-flash-lite",
-  "source_file": "menus-2026-10-06_06-57-15.json",
+  "source_file": "menus-2026-10-07_06-38-56.json",
   "menus": [
     {
       "index": 1,
-      "text": "MENI KLASIK - PIŠČANJČJI PARIŠKI ZREZEK(Gpš, J) TESTENINE V OMAKI(Gpš, J, SO2, Z)"
+      "text": "MENI KLASIK - SESEKLJANA PEČENKA(Gpš, J, Z) PIRE KROMPIR(L), GRAHOVA PRIKUHA(Gpš, L, Z)"
     },
     {
       "index": 2,
-      "text": "MENI VEGI - GOBOVA ENOLONČNICA(Gpš, L, Z) SKUTIN ZAVITEK(Gpš, J, L)"
+      "text": "MENI VEGI - ZELENJAVNA TORTILIJA S SIROM(Gpš, L, Z) PEČEN KROMPIR"
     },
     {
       "index": 3,
-      "text": "SOLATNI KROŽNIK - VEČ VRST SVEŽE ZELENJAVE"
+      "text": "HLADNI MENI - SENDVIČ ŠOFERSKI SOVITA, JOGURT"
     },
     {
       "index": 4,
-      "text": "HLADNI MENI - V.P.MORTADELA Z OLIVAMI, NAMAZ, SADJE,JOGURT"
+      "text": "MALICA SADNO MLEČNA - Skuta z grškim jogurtom, banane, melone, grozdje, granola, ananas (Oo, Om, L, Go)"
     },
     {
       "index": 5,
-      "text": "MALICA VAROVALNA - STROČJI FIŽOL S PURANJIM MESOM(Gpš, Z) NAVADNI JOGURT"
+      "text": "MALICA VAROVALNA - FILE OSLIČA NA POLENTI Z GORGONZOLO(R1, L)"
     }
   ],
   "analysis": {
     "recommended": {
       "menu_index": 5,
-      "name": "MALICA VAROVALNA - STROČJI FIŽOL S PURANJIM MESOM(Gpš, Z) NAVADNI JOGURT",
+      "name": "MALICA VAROVALNA - FILE OSLIČA NA POLENTI Z GORGONZOLO",
       "calories_kcal": 450,
-      "protein_g": 35.0,
-      "carbohydrates_g": 30.0,
-      "fat_g": 15.0,
-      "reason": "Ta obrok vsebuje pusto puranje meso in stročji fižol, kar zagotavlja veliko vlaknin in kakovostnih beljakovin ter manj nasičenih maščob."
+      "protein_g": 32.5,
+      "carbohydrates_g": 48.0,
+      "fat_g": 12.0,
+      "reason": "Riba predstavlja vir kakovostnih beljakovin in zdravih maščob, obrok pa vsebuje manj nasičenih maščob in je manj predelan kot ostale mesne alternative."
     },
     "alternative": {
       "menu_index": 2,
-      "name": "MENI VEGI - GOBOVA ENOLONČNICA(Gpš, L, Z) SKUTIN ZAVITEK(Gpš, J, L)",
+      "name": "MENI VEGI - ZELENJAVNA TORTILIJA S SIROM PEČEN KROMPIR",
       "calories_kcal": 520,
-      "protein_g": 22.0,
+      "protein_g": 18.0,
       "carbohydrates_g": 65.0,
-      "fat_g": 18.0,
-      "reason": "Gobova enolončnica prinaša zelenjavno osnovo, vendar pa skutin zavitek vsebuje več ogljikovih hidratov in sladkorja, zato je to manj uravnotežena izbira."
+      "fat_g": 20.0,
+      "reason": "Dobra vegetarijanska izbire z večjo vsebnostjo zelenjave in prehranskih vlaknin, čeprav vsebuje nekaj več maščob zaradi sira in pečenega krompirja."
     },
-    "summary": "Ponudba vključuje klasične ocvrte jedi, varovalni obrok z mesom in stročnicami, enolončnico ter hladne in solatne možnosti.",
-    "disclaimer": "Vse navedene hranilne vrednosti so približne ocene, prilagojene za običajno porcijo menze."
+    "summary": "Današnja ponudba vključuje mesne, ribje, vegetarijanske in mlečne obroke ter sendviče z različnimi prehranskimi profili.",
+    "disclaimer": "Navedene hranilne vrednosti so zgolj približne ocene za običajno porcijo v menzi."
   }
 }
