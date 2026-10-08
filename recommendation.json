@@ -1,26 +1,26 @@
 {
   "status": "ok",
-  "updated_at": "2026-10-07T06:39:24.329131+00:00",
-  "menu_date": "08. 10. 2026",
+  "updated_at": "2026-10-08T06:46:19.303272+00:00",
+  "menu_date": "14. 10. 2026",
   "model": "gemini-3.5-flash-lite",
   "recommended": {
-    "menu_index": 5,
-    "name": "MALICA VAROVALNA - FILE OSLIČA NA POLENTI Z GORGONZOLO",
+    "menu_index": 2,
+    "name": "JESENSKA ENOLONČNICA S TOFUJEM IN SADJE",
     "calories_kcal": 450,
-    "protein_g": 32.5,
-    "carbohydrates_g": 48.0,
+    "protein_g": 22.0,
+    "carbohydrates_g": 60.0,
     "fat_g": 12.0,
-    "reason": "Riba predstavlja vir kakovostnih beljakovin in zdravih maščob, obrok pa vsebuje manj nasičenih maščob in je manj predelan kot ostale mesne alternative."
+    "reason": "Enolončnica z zelenjavo in tofujem predstavlja rastlinski vir kakovostnih beljakovin ter večjo vsebnost vlaknin brez ocvrte hrane."
   },
   "alternative": {
-    "menu_index": 2,
-    "name": "MENI VEGI - ZELENJAVNA TORTILIJA S SIROM PEČEN KROMPIR",
-    "calories_kcal": 520,
-    "protein_g": 18.0,
-    "carbohydrates_g": 65.0,
-    "fat_g": 20.0,
-    "reason": "Dobra vegetarijanska izbire z večjo vsebnostjo zelenjave in prehranskih vlaknin, čeprav vsebuje nekaj več maščob zaradi sira in pečenega krompirja."
+    "menu_index": 3,
+    "name": "SOLATNI KROŽNIK - VEČ VRST SVEŽE ZELENJAVE",
+    "calories_kcal": 200,
+    "protein_g": 5.0,
+    "carbohydrates_g": 15.0,
+    "fat_g": 10.0,
+    "reason": "Sveža zelenjava zagotavlja obilo vitaminov, mineralov in vlaknin, vendar je lahkotnejša in manj nasitna kot glavni obrok."
   },
-  "summary": "Današnja ponudba vključuje mesne, ribje, vegetarijanske in mlečne obroke ter sendviče z različnimi prehranskimi profili.",
-  "disclaimer": "Navedene hranilne vrednosti so zgolj približne ocene za običajno porcijo v menzi."
+  "summary": "Ponudba vključuje mešanico tradicionalnih ocvrtih jedi, enolončnic, solat in predelanega mesa, pri čemer izstopata zelenjavna enolončnica in solatni krožnik kot najbolj uravnoteženi izbiri.",
+  "disclaimer": "Navedene hranilne vrednosti so zgolj približne ocene za običajno porcijo in se lahko razlikujejo glede na dejansko pripravljene količine."
 }
