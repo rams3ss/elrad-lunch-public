@@ -1,26 +1,26 @@
 {
   "status": "ok",
-  "updated_at": "2026-10-08T06:46:19.303272+00:00",
-  "menu_date": "14. 10. 2026",
+  "updated_at": "2026-10-09T06:57:15.136265+00:00",
+  "menu_date": "13. 10. 2026",
   "model": "gemini-3.5-flash-lite",
   "recommended": {
-    "menu_index": 2,
-    "name": "JESENSKA ENOLONČNICA S TOFUJEM IN SADJE",
+    "menu_index": 5,
+    "name": "MALICA VAROVALNA - PEČENA PIŠČANČJA PRSA STROČJI FIŽOL S KUS-KUSOM",
     "calories_kcal": 450,
-    "protein_g": 22.0,
-    "carbohydrates_g": 60.0,
-    "fat_g": 12.0,
-    "reason": "Enolončnica z zelenjavo in tofujem predstavlja rastlinski vir kakovostnih beljakovin ter večjo vsebnost vlaknin brez ocvrte hrane."
+    "protein_g": 38.5,
+    "carbohydrates_g": 45.0,
+    "fat_g": 10.2,
+    "reason": "Ta obrok je najbolj uravnotežen, vsebuje pusto meso z visokim deležem kakovostnih beljakovin ter zelenjavo z vlakninami."
   },
   "alternative": {
-    "menu_index": 3,
-    "name": "SOLATNI KROŽNIK - VEČ VRST SVEŽE ZELENJAVE",
-    "calories_kcal": 200,
-    "protein_g": 5.0,
-    "carbohydrates_g": 15.0,
-    "fat_g": 10.0,
-    "reason": "Sveža zelenjava zagotavlja obilo vitaminov, mineralov in vlaknin, vendar je lahkotnejša in manj nasitna kot glavni obrok."
+    "menu_index": 4,
+    "name": "MALICA SADNO MLEČNA - Skuta z grškim jogurtom, banane, melone, grozdje, granola, ananas",
+    "calories_kcal": 380,
+    "protein_g": 25.0,
+    "carbohydrates_g": 50.0,
+    "fat_g": 8.0,
+    "reason": "Dobra alternativa z mlečnimi beljakovinami in svežim sadjem, čeprav vsebuje več enostavnih ogljikovih hidratov."
   },
-  "summary": "Ponudba vključuje mešanico tradicionalnih ocvrtih jedi, enolončnic, solat in predelanega mesa, pri čemer izstopata zelenjavna enolončnica in solatni krožnik kot najbolj uravnoteženi izbiri.",
-  "disclaimer": "Navedene hranilne vrednosti so zgolj približne ocene za običajno porcijo in se lahko razlikujejo glede na dejansko pripravljene količine."
+  "summary": "Ponudba vključuje en uravnotežen mesni obrok, eno mlečno-sadno malico, en hladni sendvič, eno sladko vegetarijansko jed in en težji enolončni obrok.",
+  "disclaimer": "Vse navedene hranilne vrednosti so zgolj približne ocene za običajno porcijo menze."
 }
