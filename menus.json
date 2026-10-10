@@ -1,9 +1,9 @@
 {
   "status": "ok",
-  "updated_at": "2026-10-09T06:57:15.136265+00:00",
+  "updated_at": "2026-10-10T06:30:19.737167+00:00",
   "menu_date": "13. 10. 2026",
   "model": "gemini-3.5-flash-lite",
-  "source_file": "menus-2026-10-09_06-56-30.json",
+  "source_file": "menus-2026-10-10_06-29-46.json",
   "menus": [
     {
       "index": 1,
@@ -30,22 +30,22 @@
     "recommended": {
       "menu_index": 5,
       "name": "MALICA VAROVALNA - PEČENA PIŠČANČJA PRSA STROČJI FIŽOL S KUS-KUSOM",
-      "calories_kcal": 450,
-      "protein_g": 38.5,
-      "carbohydrates_g": 45.0,
-      "fat_g": 10.2,
-      "reason": "Ta obrok je najbolj uravnotežen, vsebuje pusto meso z visokim deležem kakovostnih beljakovin ter zelenjavo z vlakninami."
+      "calories_kcal": 480,
+      "protein_g": 42.5,
+      "carbohydrates_g": 52.0,
+      "fat_g": 10.5,
+      "reason": "Ta obrok vsebuje pusto meso kot vir kakovostnih beljakovin ter stročji fižol in kus-kus, kar zagotavlja uravnotežennosz z vlakninami in manj nasičenimi maščobami."
     },
     "alternative": {
       "menu_index": 4,
       "name": "MALICA SADNO MLEČNA - Skuta z grškim jogurtom, banane, melone, grozdje, granola, ananas",
-      "calories_kcal": 380,
-      "protein_g": 25.0,
-      "carbohydrates_g": 50.0,
-      "fat_g": 8.0,
-      "reason": "Dobra alternativa z mlečnimi beljakovinami in svežim sadjem, čeprav vsebuje več enostavnih ogljikovih hidratov."
+      "calories_kcal": 420,
+      "protein_g": 28.0,
+      "carbohydrates_g": 55.0,
+      "fat_g": 11.0,
+      "reason": "Dobra beljakovinska osnova iz skute in jogurta obogatena s svežim sadjem, čeprav vsebuje več enostavnih sladkorjev iz sadja in grane."
     },
-    "summary": "Ponudba vključuje en uravnotežen mesni obrok, eno mlečno-sadno malico, en hladni sendvič, eno sladko vegetarijansko jed in en težji enolončni obrok.",
-    "disclaimer": "Vse navedene hranilne vrednosti so zgolj približne ocene za običajno porcijo menze."
+    "summary": "Ponudba vključuje enolončnico, sladko jed, sendvič, sadno-mlečno malico in uravnotežen mesno-zelenjavni obrok.",
+    "disclaimer": "Vse hranilne vrednosti so zgolj približne ocene za običajno porcijo in se lahko razlikujejo glede na natančne količine sestavin."
   }
 }
