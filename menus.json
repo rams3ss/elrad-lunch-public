@@ -1,51 +1,51 @@
 {
   "status": "ok",
-  "updated_at": "2026-10-11T06:35:41.116282+00:00",
-  "menu_date": "12. 10. 2026",
+  "updated_at": "2026-10-12T06:41:13.030713+00:00",
+  "menu_date": "13. 10. 2026",
   "model": "gemini-3.5-flash-lite",
-  "source_file": "menus-2026-10-11_06-35-19.json",
+  "source_file": "menus-2026-10-12_06-40-50.json",
   "menus": [
     {
       "index": 1,
-      "text": "MENI KLASIK - SEGEDIN GOLAŽ S SVINJSKIM MESOM(Gpš, Z) BANANA"
+      "text": "MENI KLASIK - RIČET S PREKAJENIM MESOM(Gpš, Gje, Z) PUDING"
     },
     {
       "index": 2,
-      "text": "MENI VEGI - SIROV BUREK(Gpš, J, L) JOGURT, POREŽGANKA Z JAJCI(Gpš, J, Z)"
+      "text": "MENI VEGI - CARSKI PRAŽENEC(Gpš, J, L) KOMPOT, SADNA OMAKA"
     },
     {
       "index": 3,
-      "text": "SOLATNI KROŽNIK - SOLATA IZ SOLATNEGA BARA, KITAJSKI REZANCI S PIŠČ. MESOM(S)"
+      "text": "HLADNI MENI - SENDVIČ SOVITA, JOGURT, SADJE"
     },
     {
       "index": 4,
-      "text": "HLADNI MENI - V.P. SALAMA, KRUH, SADJE, NAMAZ, JOGURT"
+      "text": "MALICA SADNO MLEČNA - Skuta z grškim jogurtom, banane, melone, grozdje, granola, ananas (Oo, Om, L, Go)"
     },
     {
       "index": 5,
-      "text": "MALICA VAROVALNA - PIŠČANČJI ZREZEK V SMETANSKI OMAKI(Gpš, Z) KUHAN KROMPIR Z ZELENJAVO(Z)"
+      "text": "MALICA VAROVALNA - PEČENA PIŠČANČJA PRSA(GS) STROČJI FIŽOL S KUS-KUSOM"
     }
   ],
   "analysis": {
     "recommended": {
-      "menu_index": 3,
-      "name": "SOLATNI KROŽNIK - SOLATA IZ SOLATNEGA BARA, KITAJSKI REZANCI S PIŠČ. MESOM(S)",
+      "menu_index": 5,
+      "name": "MALICA VAROVALNA - PEČENA PIŠČANČJA PRSA STROČJI FIŽOL S KUS-KUSOM",
       "calories_kcal": 480,
-      "protein_g": 32.0,
-      "carbohydrates_g": 55.0,
-      "fat_g": 12.0,
-      "reason": "Ta obrok vključuje pusto piščančje meso in svežo zelenjavo iz solatnega bara, kar zagotavlja dober vir beljakovin, vlaknin in vitaminov z zmerno vsebnostjo maščob."
+      "protein_g": 42.5,
+      "carbohydrates_g": 52.0,
+      "fat_g": 10.5,
+      "reason": "Vsebuje pusto piščančje meso z visokim deležem kakovostnih beljakovin ter stročji fižol in kus-kus za uravnotežen vnos vlaknin in kompleksnih ogljikovih hidratov brez odvečnih maščob."
     },
     "alternative": {
-      "menu_index": 5,
-      "name": "MALICA VAROVALNA - PIŠČANČJI ZREZEK V SMETANSki OMAKI(Gpš, Z) KUHAN KROMPIR Z ZELENJAVO(Z)",
-      "calories_kcal": 550,
-      "protein_g": 35.0,
-      "carbohydrates_g": 48.0,
-      "fat_g": 22.0,
-      "reason": "Dobra izbira s pustim piščančjim mesom in kuhanim krompirjem z zelenjavo, vendar ima zaradi smetanske omake nekaj več nasičenih maščob."
+      "menu_index": 4,
+      "name": "MALICA SADNO MLEČNA - Skuta z grškim jogurtom, banane, melone, grozdje, granola, ananas",
+      "calories_kcal": 420,
+      "protein_g": 28.0,
+      "carbohydrates_g": 55.0,
+      "fat_g": 9.0,
+      "reason": "Dobra beljakovinska izbira z mlečnimi izdelki in svežim sadjem, ki pa ima nekoliko več preprostih sladkorjev zaradi sadja in grane ter manj toplih vlaknin."
     },
-    "summary": "Današnja ponudba ponuja mešanico mesnih, testeninastih in mlečnih jedi, med katerimi izstopajo obroki s piščančjim mesom in zelenjavo kot bolj uravnotežene izbire.",
-    "disclaimer": "Vse navedene hranilne vrednosti so približne ocene za običajno porcijo in se lahko razlikujejo glede na dejansko velikost porcije in način priprave."
+    "summary": "Ponudba obsega enolončnico, sladko jed, sendvič, sadno-mlečni obrok in uravnoteženo mesno-zelenjavno malico.",
+    "disclaimer": "Vse navedene hranilne vrednosti so približne ocene za običajno porcijo v menzi."
   }
 }
