@@ -1,21 +1,21 @@
 {
   "status": "ok",
-  "updated_at": "2026-10-12T06:41:13.030713+00:00",
-  "menu_date": "13. 10. 2026",
+  "updated_at": "2026-10-13T07:11:32.017706+00:00",
+  "menu_date": "15. 10. 2026",
   "model": "gemini-3.5-flash-lite",
-  "source_file": "menus-2026-10-12_06-40-50.json",
+  "source_file": "menus-2026-10-13_07-11-00.json",
   "menus": [
     {
       "index": 1,
-      "text": "MENI KLASIK - RIČET S PREKAJENIM MESOM(Gpš, Gje, Z) PUDING"
+      "text": "MENI KLASIK - HAMBURGER S PLESKAVICO(Gpš, J) NAPITEK ALI JOGURT"
     },
     {
       "index": 2,
-      "text": "MENI VEGI - CARSKI PRAŽENEC(Gpš, J, L) KOMPOT, SADNA OMAKA"
+      "text": "MENI VEGI - SIROVI KAPELETI Z NAPOLITANSKO OMAKO (SO2, Gpš, J, L) JOGURT"
     },
     {
       "index": 3,
-      "text": "HLADNI MENI - SENDVIČ SOVITA, JOGURT, SADJE"
+      "text": "HLADNI MENI - V.P.POLI HAMMY, NAMAZ, SADJE, JOGURT, KRUH"
     },
     {
       "index": 4,
@@ -23,29 +23,29 @@
     },
     {
       "index": 5,
-      "text": "MALICA VAROVALNA - PEČENA PIŠČANČJA PRSA(GS) STROČJI FIŽOL S KUS-KUSOM"
+      "text": "MALICA VAROVALNA - POSTRV PO TRŽAŠKO(Gpš, R1) KROMPIRJEVA SOLATA(GS)"
     }
   ],
   "analysis": {
     "recommended": {
       "menu_index": 5,
-      "name": "MALICA VAROVALNA - PEČENA PIŠČANČJA PRSA STROČJI FIŽOL S KUS-KUSOM",
-      "calories_kcal": 480,
-      "protein_g": 42.5,
-      "carbohydrates_g": 52.0,
-      "fat_g": 10.5,
-      "reason": "Vsebuje pusto piščančje meso z visokim deležem kakovostnih beljakovin ter stročji fižol in kus-kus za uravnotežen vnos vlaknin in kompleksnih ogljikovih hidratov brez odvečnih maščob."
+      "name": "MALICA VAROVALNA - POSTRV PO TRŽAŠKO KROMPIRJEVA SOLATA",
+      "calories_kcal": 450,
+      "protein_g": 32.5,
+      "carbohydrates_g": 42.0,
+      "fat_g": 16.0,
+      "reason": "Riba predstavlja vir kakovostnih beljakovin in zdravih maščob, obrok pa vključuje tudi zelenjavo in krompir brez težkih omak."
     },
     "alternative": {
       "menu_index": 4,
       "name": "MALICA SADNO MLEČNA - Skuta z grškim jogurtom, banane, melone, grozdje, granola, ananas",
-      "calories_kcal": 420,
-      "protein_g": 28.0,
+      "calories_kcal": 380,
+      "protein_g": 24.0,
       "carbohydrates_g": 55.0,
-      "fat_g": 9.0,
-      "reason": "Dobra beljakovinska izbira z mlečnimi izdelki in svežim sadjem, ki pa ima nekoliko več preprostih sladkorjev zaradi sadja in grane ter manj toplih vlaknin."
+      "fat_g": 8.5,
+      "reason": "Dobro uravnotežen obrok z visoko vsebnostjo beljakovin iz skute in jogurta ter svežim sadjem, ki zagotavlja vitamine in vlaknine."
     },
-    "summary": "Ponudba obsega enolončnico, sladko jed, sendvič, sadno-mlečni obrok in uravnoteženo mesno-zelenjavno malico.",
-    "disclaimer": "Vse navedene hranilne vrednosti so približne ocene za običajno porcijo v menzi."
+    "summary": "Ponudba vključuje mešanico mesnih, vegetarijanskih, hladnih, sadno-mlečnih in ribjih malic, pri čemer izstopa ribji meni kot najbolj zdrav.",
+    "disclaimer": "Vse hranilne vrednosti so zgolj približne ocene za običajno porcijo in se lahko razlikujejo glede na dejansko velikost in sestavine."
   }
 }
