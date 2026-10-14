@@ -1,9 +1,9 @@
 {
   "status": "ok",
-  "updated_at": "2026-10-13T07:11:32.017706+00:00",
+  "updated_at": "2026-10-14T05:34:24.838600+00:00",
   "menu_date": "15. 10. 2026",
   "model": "gemini-3.5-flash-lite",
-  "source_file": "menus-2026-10-13_07-11-00.json",
+  "source_file": "menus-2026-10-14_05-34-01.json",
   "menus": [
     {
       "index": 1,
@@ -30,22 +30,22 @@
     "recommended": {
       "menu_index": 5,
       "name": "MALICA VAROVALNA - POSTRV PO TRŽAŠKO KROMPIRJEVA SOLATA",
-      "calories_kcal": 450,
+      "calories_kcal": 480,
       "protein_g": 32.5,
-      "carbohydrates_g": 42.0,
-      "fat_g": 16.0,
-      "reason": "Riba predstavlja vir kakovostnih beljakovin in zdravih maščob, obrok pa vključuje tudi zelenjavo in krompir brez težkih omak."
+      "carbohydrates_g": 45.0,
+      "fat_g": 18.2,
+      "reason": "Riba je vir kakovostnih beljakovin in zdravih maščobnih kislin omega-3, krompirjeva solata pa predstavlja dober vir kompleksnih ogljikovih hidratov brez odvečnih nezdravih maščob."
     },
     "alternative": {
       "menu_index": 4,
       "name": "MALICA SADNO MLEČNA - Skuta z grškim jogurtom, banane, melone, grozdje, granola, ananas",
-      "calories_kcal": 380,
-      "protein_g": 24.0,
+      "calories_kcal": 420,
+      "protein_g": 26.0,
       "carbohydrates_g": 55.0,
-      "fat_g": 8.5,
-      "reason": "Dobro uravnotežen obrok z visoko vsebnostjo beljakovin iz skute in jogurta ter svežim sadjem, ki zagotavlja vitamine in vlaknine."
+      "fat_g": 10.5,
+      "reason": "Visoka vsebnost beljakovin iz skute in jogurta ter vlaknin iz sadja in granole zagotavljata dobro sitost in hranilno bogat obrok."
     },
-    "summary": "Ponudba vključuje mešanico mesnih, vegetarijanskih, hladnih, sadno-mlečnih in ribjih malic, pri čemer izstopa ribji meni kot najbolj zdrav.",
-    "disclaimer": "Vse hranilne vrednosti so zgolj približne ocene za običajno porcijo in se lahko razlikujejo glede na dejansko velikost in sestavine."
+    "summary": "Ponudba vključuje mešanico hitre hrane, testenin, predelanih mesnin, mlečno-sadnih obrokov in zdravih ribjih malic.",
+    "disclaimer": "Vse hranilne vrednosti so zgolj ocena in so približne glede na običajno porcijo."
   }
 }
