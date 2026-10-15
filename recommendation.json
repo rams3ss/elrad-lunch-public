@@ -1,26 +1,26 @@
 {
   "status": "ok",
-  "updated_at": "2026-10-14T05:34:24.838600+00:00",
-  "menu_date": "15. 10. 2026",
+  "updated_at": "2026-10-15T05:22:33.016315+00:00",
+  "menu_date": "16. 10. 2026",
   "model": "gemini-3.5-flash-lite",
   "recommended": {
     "menu_index": 5,
-    "name": "MALICA VAROVALNA - POSTRV PO TRŽAŠKO KROMPIRJEVA SOLATA",
-    "calories_kcal": 480,
-    "protein_g": 32.5,
-    "carbohydrates_g": 45.0,
-    "fat_g": 18.2,
-    "reason": "Riba je vir kakovostnih beljakovin in zdravih maščobnih kislin omega-3, krompirjeva solata pa predstavlja dober vir kompleksnih ogljikovih hidratov brez odvečnih nezdravih maščob."
+    "name": "MALICA VAROVALNA - TESTENINE S TUNINO OMAKO(Gpš,J,R1,Z) PUDING",
+    "calories_kcal": 580,
+    "protein_g": 32.0,
+    "carbohydrates_g": 75.0,
+    "fat_g": 14.0,
+    "reason": "Tunina omaka zagotavlja kakovostne beljakovine in maščobne kisline omega-3, testenine pa dodajo energijo. Obrok je manj masten v primerjavi z ocvrto hrano."
   },
   "alternative": {
-    "menu_index": 4,
-    "name": "MALICA SADNO MLEČNA - Skuta z grškim jogurtom, banane, melone, grozdje, granola, ananas",
-    "calories_kcal": 420,
-    "protein_g": 26.0,
-    "carbohydrates_g": 55.0,
-    "fat_g": 10.5,
-    "reason": "Visoka vsebnost beljakovin iz skute in jogurta ter vlaknin iz sadja in granole zagotavljata dobro sitost in hranilno bogat obrok."
+    "menu_index": 1,
+    "name": "MENI KLASIK - PEČENA PIŠČANČJA BEDRA(GS, Gpš, Z) MLINCI(Gpš, J)",
+    "calories_kcal": 650,
+    "protein_g": 40.0,
+    "carbohydrates_g": 60.0,
+    "fat_g": 22.0,
+    "reason": "Piščančje meso je vir pusta beljakovin, vendar so bedra nekoliko bolj mastna kot prsi, mlinci pa dodajo ogljikove hidrate."
   },
-  "summary": "Ponudba vključuje mešanico hitre hrane, testenin, predelanih mesnin, mlečno-sadnih obrokov in zdravih ribjih malic.",
-  "disclaimer": "Vse hranilne vrednosti so zgolj ocena in so približne glede na običajno porcijo."
+  "summary": "Današnja ponudba vsebuje mešanico klasičnih mesnih jedi, testenine s tuno, vegetarijansko rižoto in manj ugodne ocvrte ali predelane možnosti.",
+  "disclaimer": "Vse navedene hranilne vrednosti so približne ocene za običajno porcijo in se lahko razlikujejo glede na dejansko pripravo."
 }
