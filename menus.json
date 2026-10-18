@@ -1,51 +1,51 @@
 {
   "status": "ok",
-  "updated_at": "2026-10-17T05:09:01.293675+00:00",
-  "menu_date": "26. 10. 2026",
+  "updated_at": "2026-10-18T05:14:36.249207+00:00",
+  "menu_date": "19. 10. 2026",
   "model": "gemini-3.5-flash-lite",
-  "source_file": "menus-2026-10-17_05-08-29.json",
+  "source_file": "menus-2026-10-18_05-14-10.json",
   "menus": [
     {
       "index": 1,
-      "text": "MENI KLASIK"
+      "text": "MENI KLASIK - ŠPAGETI PO BOLONJSKO(Gpš, Z, SO2, J)"
     },
     {
       "index": 2,
-      "text": "MENI VEGI"
+      "text": "MENI VEGI - ČIČERIKIN GOLAŽ Z ZELENJAVO(Gpš, Z) GRŠKI JOGURT"
     },
     {
       "index": 3,
-      "text": "SOLATNI KROŽNIK"
+      "text": "SOLATNI KROŽNIK - SOLATA IZ SOLATNEGA BARA(losos, sir, avokado)"
     },
     {
       "index": 4,
-      "text": "HLADNI MENI"
+      "text": "HLADNI MENI - V.P. SALAMA, KRUH, SADJE, NAMAZ, JOGURT"
     },
     {
       "index": 5,
-      "text": "MALICA VAROVALNA"
+      "text": "MALICA VAROVALNA - PEČENA PIŠČANČJA PRSA(GS) NA KREMNO ZELIŠČNI POLENTI(L, Z)"
     }
   ],
   "analysis": {
     "recommended": {
-      "menu_index": 5,
-      "name": "MALICA VAROVALNA",
-      "calories_kcal": 450,
-      "protein_g": 35.0,
-      "carbohydrates_g": 40.0,
-      "fat_g": 15.0,
-      "reason": "Varovalna malica je zasnovana z mislijo na zdravje, običajno vključuje manj maščob, pusta živila ter več zelenjave, kar zagotavlja uravnotežen vnos hranil brez prekomernih kalorij."
+      "menu_index": 3,
+      "name": "SOLATNI KROŽNIK - SOLATA IZ SOLATNEGA BARA(losos, sir, avokado)",
+      "calories_kcal": 550,
+      "protein_g": 32.0,
+      "carbohydrates_g": 15.0,
+      "fat_g": 40.0,
+      "reason": "Vsebuje kakovostne maščobe iz avokada in maščobne kisline omega-3 iz lososa, kar zagotavlja visok delež koristnih hranil in nizko vsebnost predelanih ogljikovih hidratov."
     },
     "alternative": {
-      "menu_index": 3,
-      "name": "SOLATNI KROŽNIK",
-      "calories_kcal": 380,
-      "protein_g": 20.0,
-      "carbohydrates_g": 25.0,
-      "fat_g": 22.0,
-      "reason": "Solatni krožnik je odlična lahka alternativa z veliko vlakninami in vitamini, vendar je treba paziti na količino in vrsto prelivov, ki lahko zvišajo vnos maščob."
+      "menu_index": 5,
+      "name": "MALICA VAROVALNA - PEČENA PIŠČANČja PRSA(GS) NA KREMNO ZELIŠČNI POLENTI(L, Z)",
+      "calories_kcal": 480,
+      "protein_g": 40.0,
+      "carbohydrates_g": 45.0,
+      "fat_g": 12.0,
+      "reason": "Pusto piščančje meso zagotavlja veliko visokokakovostnih beljakovin ob zmerni vsebnosti maščob, polenta pa je dobra izbira kompleksnih ogljikovih hidratov."
     },
-    "summary": "Ponudba vključuje raznolike menije od klasičnih jedi do lažjih solatnih in varovalnih možnosti.",
-    "disclaimer": "Vse navedene hranilne vrednosti so zgolj približne ocene za običajno porcijo in se lahko razlikujejo glede na dejansko pripravo."
+    "summary": "Današnja ponudba ponuja dobro ravnovesje med mesnimi, ribjimi in rastlinskimi možnostmi, pri čemer izstopajo lažje in bolj zdravju prijazne jedi.",
+    "disclaimer": "Vse navedene hranilne vrednosti so zgolj približne ocene za običajno porcijo in se lahko razlikujejo glede na dejansko pripravo ter velikost porcije."
   }
 }
