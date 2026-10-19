@@ -1,51 +1,51 @@
 {
   "status": "ok",
-  "updated_at": "2026-10-18T05:14:36.249207+00:00",
-  "menu_date": "19. 10. 2026",
+  "updated_at": "2026-10-19T05:26:46.068869+00:00",
+  "menu_date": "20. 10. 2026",
   "model": "gemini-3.5-flash-lite",
-  "source_file": "menus-2026-10-18_05-14-10.json",
+  "source_file": "menus-2026-10-19_05-26-09.json",
   "menus": [
     {
       "index": 1,
-      "text": "MENI KLASIK - ŠPAGETI PO BOLONJSKO(Gpš, Z, SO2, J)"
+      "text": "MENI KLASIK - PASULJ S KLOBASO (Gpš, Z)"
     },
     {
       "index": 2,
-      "text": "MENI VEGI - ČIČERIKIN GOLAŽ Z ZELENJAVO(Gpš, Z) GRŠKI JOGURT"
+      "text": "MENI VEGI - ŠIROKI REZANCI V KREMNI OHROVTOVI OMAKI(R1, Gpš, Z, J, L), JABOLČNI ZAVITEK(Gpš, J, L)"
     },
     {
       "index": 3,
-      "text": "SOLATNI KROŽNIK - SOLATA IZ SOLATNEGA BARA(losos, sir, avokado)"
+      "text": "HLADNI MENI - SENDVIČ SOVITA,JOGURT, SADJE"
     },
     {
       "index": 4,
-      "text": "HLADNI MENI - V.P. SALAMA, KRUH, SADJE, NAMAZ, JOGURT"
+      "text": "MALICA SADNO MLEČNA - Skuta z grškim jogurtom, banane, melone, grozdje, granola, ananas (Oo, Om, L, Go)"
     },
     {
       "index": 5,
-      "text": "MALICA VAROVALNA - PEČENA PIŠČANČJA PRSA(GS) NA KREMNO ZELIŠČNI POLENTI(L, Z)"
+      "text": "MALICA VAROVALNA - PEČEN PIŠČANČJI ZREZEK (GS) RIZI BIZI"
     }
   ],
   "analysis": {
     "recommended": {
-      "menu_index": 3,
-      "name": "SOLATNI KROŽNIK - SOLATA IZ SOLATNEGA BARA(losos, sir, avokado)",
-      "calories_kcal": 550,
-      "protein_g": 32.0,
-      "carbohydrates_g": 15.0,
-      "fat_g": 40.0,
-      "reason": "Vsebuje kakovostne maščobe iz avokada in maščobne kisline omega-3 iz lososa, kar zagotavlja visok delež koristnih hranil in nizko vsebnost predelanih ogljikovih hidratov."
+      "menu_index": 5,
+      "name": "MALICA VAROVALNA - PEČEN PIŠČANČJI ZREZEK RIZI BIZI",
+      "calories_kcal": 480,
+      "protein_g": 38.5,
+      "carbohydrates_g": 52.0,
+      "fat_g": 12.0,
+      "reason": "Pusto piščančje meso predstavlja vir visokokakovostnih beljakovin z manj nasičenimi maščobami v primerjavi s klobasami ali ocvrti jedmi, rizi bizi pa nudi zmerno količino ogljikovih hidratov."
     },
     "alternative": {
-      "menu_index": 5,
-      "name": "MALICA VAROVALNA - PEČENA PIŠČANČja PRSA(GS) NA KREMNO ZELIŠČNI POLENTI(L, Z)",
-      "calories_kcal": 480,
-      "protein_g": 40.0,
-      "carbohydrates_g": 45.0,
-      "fat_g": 12.0,
-      "reason": "Pusto piščančje meso zagotavlja veliko visokokakovostnih beljakovin ob zmerni vsebnosti maščob, polenta pa je dobra izbira kompleksnih ogljikovih hidratov."
+      "menu_index": 4,
+      "name": "MALICA SADNO MLEČNA - Skuta z grškim jogurtom, banane, melone, grozdje, granola, ananas",
+      "calories_kcal": 420,
+      "protein_g": 24.0,
+      "carbohydrates_g": 58.0,
+      "fat_g": 10.5,
+      "reason": "Dobra beljakovinska osnova iz skute in jogurta ter pester nabor sadja zagotavljata svežino in vlaknine, vendar je zaradi granole in sadja prisotnih več preprostih sladkorjev."
     },
-    "summary": "Današnja ponudba ponuja dobro ravnovesje med mesnimi, ribjimi in rastlinskimi možnostmi, pri čemer izstopajo lažje in bolj zdravju prijazne jedi.",
-    "disclaimer": "Vse navedene hranilne vrednosti so zgolj približne ocene za običajno porcijo in se lahko razlikujejo glede na dejansko pripravo ter velikost porcije."
+    "summary": "Današnja ponudba vključuje klasične enolončnice, testenine, sendviče, sadno-mlečne opcije in pusto mesno malico.",
+    "disclaimer": "Navedene hranilne vrednosti so zgolj ocena in se lahko razlikujejo glede na dejansko velikost porcij ter način priprave."
   }
 }
