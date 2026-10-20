@@ -1,26 +1,26 @@
 {
   "status": "ok",
-  "updated_at": "2026-10-19T05:26:46.068869+00:00",
-  "menu_date": "20. 10. 2026",
+  "updated_at": "2026-10-20T05:28:38.206600+00:00",
+  "menu_date": "21. 10. 2026",
   "model": "gemini-3.5-flash-lite",
   "recommended": {
-    "menu_index": 5,
-    "name": "MALICA VAROVALNA - PEČEN PIŠČANČJI ZREZEK RIZI BIZI",
-    "calories_kcal": 480,
-    "protein_g": 38.5,
-    "carbohydrates_g": 52.0,
-    "fat_g": 12.0,
-    "reason": "Pusto piščančje meso predstavlja vir visokokakovostnih beljakovin z manj nasičenimi maščobami v primerjavi s klobasami ali ocvrti jedmi, rizi bizi pa nudi zmerno količino ogljikovih hidratov."
+    "menu_index": 2,
+    "name": "MENI VEGI - LEČIN CURRY KORUZNA POLENTA",
+    "calories_kcal": 520,
+    "protein_g": 22.5,
+    "carbohydrates_g": 85.0,
+    "fat_g": 11.0,
+    "reason": "Leča je odličen vir rastlinskih beljakovin in prehranskih vlaknin, curry prinaša koristne začimbe, koruzna polenta pa je lahka in uravnotežena priloga brez odvečnih maščob."
   },
   "alternative": {
-    "menu_index": 4,
-    "name": "MALICA SADNO MLEČNA - Skuta z grškim jogurtom, banane, melone, grozdje, granola, ananas",
-    "calories_kcal": 420,
-    "protein_g": 24.0,
-    "carbohydrates_g": 58.0,
-    "fat_g": 10.5,
-    "reason": "Dobra beljakovinska osnova iz skute in jogurta ter pester nabor sadja zagotavljata svežino in vlaknine, vendar je zaradi granole in sadja prisotnih več preprostih sladkorjev."
+    "menu_index": 1,
+    "name": "MENI KLASIK - PIŠČANČJI KEBAB Z ZELENJAVO IN JOGURTOVO OMAKO",
+    "calories_kcal": 580,
+    "protein_g": 42.0,
+    "carbohydrates_g": 45.0,
+    "fat_g": 24.0,
+    "reason": "Piščančje meso zagotavlja visoko vsebnost pustih beljakovin, sveža zelenjava doda vlaknine, jogurtova omaka pa je lažja alternativa težkim smetanovim omakam."
   },
-  "summary": "Današnja ponudba vključuje klasične enolončnice, testenine, sendviče, sadno-mlečne opcije in pusto mesno malico.",
-  "disclaimer": "Navedene hranilne vrednosti so zgolj ocena in se lahko razlikujejo glede na dejansko velikost porcij ter način priprave."
+  "summary": "Ponudba vključuje raznolike obroke od stročnic in pustega mesa do solat ter hladnih malic.",
+  "disclaimer": "Vse navedene hranilne vrednosti so zgolj približne ocene za običajno porcijo menze."
 }
