@@ -1,51 +1,51 @@
 {
   "status": "ok",
-  "updated_at": "2026-10-20T05:28:38.206600+00:00",
-  "menu_date": "21. 10. 2026",
+  "updated_at": "2026-10-21T05:28:40.837980+00:00",
+  "menu_date": "22. 10. 2026",
   "model": "gemini-3.5-flash-lite",
-  "source_file": "menus-2026-10-20_05-28-15.json",
+  "source_file": "menus-2026-10-21_05-28-14.json",
   "menus": [
     {
       "index": 1,
-      "text": "MENI KLASIK - PIŠČANČJI KEBAB Z ZELENJAVO IN JOGURTOVO OMAKO(L, Gpš)"
+      "text": "MENI KLASIK - PIZZA Z MLETIM MESOM(Gpš, L, Z)"
     },
     {
       "index": 2,
-      "text": "MENI VEGI - LEČIN CURRY(Gpš, Z) KORUZNA POLENTA"
+      "text": "MENI VEGI - OCVRTI SIR(Gpš, L, J) POMMES FRITES, TATARSKA OMAKA(J)"
     },
     {
       "index": 3,
-      "text": "SOLATNI KROŽNIK - VEČ VRST SVEŽE ZELENJAVE"
+      "text": "HLADNI MENI - V.P.HRIBOVSKA SALAMA, KRUH, SADJE, JOGURT,NAMAZ"
     },
     {
       "index": 4,
-      "text": "HLADNI MENI - V.P.BLEJSKA SALAMA, KRUH, SADJE, NAMAZ, JOGURT"
+      "text": "MALICA SADNO MLEČNA - Skuta z grškim jogurtom, banane, melone, grozdje, granola, ananas (Oo, Om, L, Go)"
     },
     {
       "index": 5,
-      "text": "MALICA VAROVALNA - SVINJSKI ZREZEK V BUČKINI OMAKI(Gpš, L, Z) PIRINI NJOKI(Gje, J)"
+      "text": "MALICA VAROVALNA - POSTRV V KORUZNI SKORJICI(R1) BLITVA S KROMPIRJEM"
     }
   ],
   "analysis": {
     "recommended": {
-      "menu_index": 2,
-      "name": "MENI VEGI - LEČIN CURRY KORUZNA POLENTA",
-      "calories_kcal": 520,
-      "protein_g": 22.5,
-      "carbohydrates_g": 85.0,
-      "fat_g": 11.0,
-      "reason": "Leča je odličen vir rastlinskih beljakovin in prehranskih vlaknin, curry prinaša koristne začimbe, koruzna polenta pa je lahka in uravnotežena priloga brez odvečnih maščob."
+      "menu_index": 5,
+      "name": "MALICA VAROVALNA - POSTRV V KORUZNI SKORJICI(R1) BLITVA S KROMPIRJEM",
+      "calories_kcal": 450,
+      "protein_g": 32.5,
+      "carbohydrates_g": 45.0,
+      "fat_g": 14.0,
+      "reason": "Riba predstavlja vir kakovostnih beljakovin in zdravih maščob, blitva s krompirjem pa prinaša pomembne vlaknine, vitamine in minerale brez prekomerne maščobe."
     },
     "alternative": {
-      "menu_index": 1,
-      "name": "MENI KLASIK - PIŠČANČJI KEBAB Z ZELENJAVO IN JOGURTOVO OMAKO",
-      "calories_kcal": 580,
-      "protein_g": 42.0,
-      "carbohydrates_g": 45.0,
-      "fat_g": 24.0,
-      "reason": "Piščančje meso zagotavlja visoko vsebnost pustih beljakovin, sveža zelenjava doda vlaknine, jogurtova omaka pa je lažja alternativa težkim smetanovim omakam."
+      "menu_index": 4,
+      "name": "MALICA SADNO MLEČNA - Skuta z grškim jogurtom, banane, melone, grozdje, granola, ananas (Oo, Om, L, Go)",
+      "calories_kcal": 380,
+      "protein_g": 22.0,
+      "carbohydrates_g": 52.0,
+      "fat_g": 9.0,
+      "reason": "Obrok ponuja dober delež beljakovin iz mlečnih izdelkov ter vlaknin in vitaminov iz svežega sadja, vendar ima nekoliko večji delež naravnih sladkorjev."
     },
-    "summary": "Ponudba vključuje raznolike obroke od stročnic in pustega mesa do solat ter hladnih malic.",
-    "disclaimer": "Vse navedene hranilne vrednosti so zgolj približne ocene za običajno porcijo menze."
+    "summary": "Današnja ponudba vključuje tako mastne in ocvrte jedi kot tudi zelo kakovosten ribji obrok ter lahke mlečno-sadne možnosti.",
+    "disclaimer": "Navedene hranilne vrednosti so približne ocene za povprečno porcijo."
   }
 }
